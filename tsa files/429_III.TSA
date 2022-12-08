@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	429_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Prone
+group2	Supine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Gattinoni
+interventionEvent	92.0
+interventionTotal	148.0
+controlEvent	97.0
+controlTotal	149.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Beuret
+interventionEvent	1.0
+interventionTotal	4.0
+controlEvent	0.0
+controlTotal	3.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Guerin
+interventionEvent	98.0
+interventionTotal	230.0
+controlEvent	81.0
+controlTotal	183.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Mancebo
+interventionEvent	38.0
+interventionTotal	76.0
+controlEvent	37.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

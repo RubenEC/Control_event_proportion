@@ -1,0 +1,64 @@
+#METAANALYSIS BEGIN
+identifier	540_III_Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Semirecumbent
+group2	Supine
+comment	
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Drakulovic
+interventionEvent	7.0
+interventionTotal	39.0
+controlEvent	13.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Van Nieuwenhoven
+interventionEvent	29.0
+interventionTotal	112.0
+controlEvent	30.0
+controlTotal	109.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#ZCURVE BEGIN
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#ZCURVE END

@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	15up_III_Resolution
+outcomeType	-1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Short Course
+group2	Prolonged
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Medina
+interventionEvent	27.0
+interventionTotal	40.0
+controlEvent	29.0
+controlTotal	37.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Cappelier
+interventionEvent	99.0
+interventionTotal	116.0
+controlEvent	92.0
+controlTotal	109.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Kollef
+interventionEvent	36.0
+interventionTotal	82.0
+controlEvent	50.0
+controlTotal	88.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	406_I
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Chlorhexidine
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	De Riso
+interventionEvent	3.0
+interventionTotal	173.0
+controlEvent	9.0
+controlTotal	180.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Segers
+interventionEvent	45.0
+interventionTotal	485.0
+controlEvent	74.0
+controlTotal	469.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

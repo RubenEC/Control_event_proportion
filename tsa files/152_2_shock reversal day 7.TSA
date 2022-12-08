@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	152_2_shock reversal day7
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	steroid
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1984
+study	Sprung
+interventionEvent	25.0
+interventionTotal	43.0
+controlEvent	6.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1987
+study	Bone
+interventionEvent	85.0
+interventionTotal	130.0
+controlEvent	83.0
+controlTotal	114.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Bollaert
+interventionEvent	15.0
+interventionTotal	22.0
+controlEvent	4.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Briegel
+interventionEvent	17.0
+interventionTotal	20.0
+controlEvent	12.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Chawla
+interventionEvent	16.0
+interventionTotal	23.0
+controlEvent	9.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Annane
+interventionEvent	60.0
+interventionTotal	151.0
+controlEvent	40.0
+controlTotal	149.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Oppert
+interventionEvent	14.0
+interventionTotal	18.0
+controlEvent	16.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Sprung
+interventionEvent	186.0
+interventionTotal	251.0
+controlEvent	145.0
+controlTotal	248.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

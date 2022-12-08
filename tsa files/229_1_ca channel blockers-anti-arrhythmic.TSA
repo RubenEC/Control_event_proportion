@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	229_1_Ca channel blocker-anti-arrrhythmic
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	ca channel blocker
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Lindgren
+interventionEvent	0.0
+interventionTotal	12.0
+controlEvent	4.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Van Mieghem
+interventionEvent	0.0
+interventionTotal	32.0
+controlEvent	7.0
+controlTotal	32.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Van Mieghem
+interventionEvent	8.0
+interventionTotal	100.0
+controlEvent	15.0
+controlTotal	99.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Amar
+interventionEvent	25.0
+interventionTotal	167.0
+controlEvent	40.0
+controlTotal	163.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

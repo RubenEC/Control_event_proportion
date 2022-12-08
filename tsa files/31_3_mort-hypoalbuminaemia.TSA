@@ -1,0 +1,172 @@
+#METAANALYSIS BEGIN
+identifier	31_3_mort-hypoalbuminaemia
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	albumin
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1973
+study	bland
+interventionEvent	9.0
+interventionTotal	50.0
+controlEvent	12.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1976
+study	bland
+interventionEvent	4.0
+interventionTotal	14.0
+controlEvent	1.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1980
+study	Nilsson
+interventionEvent	1.0
+interventionTotal	29.0
+controlEvent	0.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1988
+study	brown
+interventionEvent	6.0
+interventionTotal	34.0
+controlEvent	4.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	foley
+interventionEvent	7.0
+interventionTotal	18.0
+controlEvent	6.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Kanarek
+interventionEvent	3.0
+interventionTotal	12.0
+controlEvent	2.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Wojtysiak
+interventionEvent	0.0
+interventionTotal	15.0
+controlEvent	0.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Greenough
+interventionEvent	6.0
+interventionTotal	20.0
+controlEvent	4.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Golub
+interventionEvent	12.0
+interventionTotal	116.0
+controlEvent	6.0
+controlTotal	103.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Rubin
+interventionEvent	2.0
+interventionTotal	16.0
+controlEvent	1.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Quinlan
+interventionEvent	4.0
+interventionTotal	10.0
+controlEvent	4.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	dubois
+interventionEvent	12.0
+interventionTotal	50.0
+controlEvent	15.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

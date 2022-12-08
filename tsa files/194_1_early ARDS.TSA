@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	194_1_early ARDS
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	steroid
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	6
+study	Lee
+interventionEvent	1.0
+interventionTotal	12.0
+controlEvent	7.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	7
+study	Bernard
+interventionEvent	30.0
+interventionTotal	50.0
+controlEvent	31.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	17
+study	Annane
+interventionEvent	54.0
+interventionTotal	85.0
+controlEvent	67.0
+controlTotal	92.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

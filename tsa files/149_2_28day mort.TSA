@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	149_2_mort 28day
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	high
+group2	low peep
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	amato
+interventionEvent	11.0
+interventionTotal	29.0
+controlEvent	13.0
+controlTotal	24.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	express
+interventionEvent	107.0
+interventionTotal	385.0
+controlEvent	119.0
+controlTotal	382.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	lov
+interventionEvent	135.0
+interventionTotal	475.0
+controlEvent	164.0
+controlTotal	508.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

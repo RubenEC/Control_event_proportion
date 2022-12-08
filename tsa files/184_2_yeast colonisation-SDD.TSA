@@ -1,0 +1,133 @@
+#METAANALYSIS BEGIN
+identifier	184_2_yeast colonisation-SDD
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	treatment
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Abele-Horn
+interventionEvent	8.0
+interventionTotal	58.0
+controlEvent	15.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Aerdts
+interventionEvent	4.0
+interventionTotal	17.0
+controlEvent	28.0
+controlTotal	39.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Ferrer
+interventionEvent	8.0
+interventionTotal	39.0
+controlEvent	19.0
+controlTotal	40.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Hammond
+interventionEvent	1.0
+interventionTotal	114.0
+controlEvent	17.0
+controlTotal	125.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	5
+study	Kerver
+interventionEvent	0.0
+interventionTotal	49.0
+controlEvent	21.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	6
+study	Ulrich
+interventionEvent	0.0
+interventionTotal	48.0
+controlEvent	10.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	7
+study	Unertl
+interventionEvent	15.0
+interventionTotal	19.0
+controlEvent	14.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	8
+study	von Hunefeld
+interventionEvent	2.0
+interventionTotal	102.0
+controlEvent	70.0
+controlTotal	102.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	9
+study	Wiener
+interventionEvent	8.0
+interventionTotal	30.0
+controlEvent	24.0
+controlTotal	31.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

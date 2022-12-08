@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	86_3_reversal rate from infections
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	CSF
+group2	placebo
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Nelson
+interventionEvent	114.0
+interventionTotal	380.0
+controlEvent	83.0
+controlTotal	376.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Nelson
+interventionEvent	53.0
+interventionTotal	237.0
+controlEvent	45.0
+controlTotal	243.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Tanaka
+interventionEvent	9.0
+interventionTotal	12.0
+controlEvent	8.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Rosen
+interventionEvent	14.0
+interventionTotal	18.0
+controlEvent	5.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

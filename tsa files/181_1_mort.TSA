@@ -1,0 +1,133 @@
+#METAANALYSIS BEGIN
+identifier	181_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	CRRT
+group2	IRRT
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Lins
+interventionEvent	100.0
+interventionTotal	172.0
+controlEvent	90.0
+controlTotal	144.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Simpson
+interventionEvent	46.0
+interventionTotal	65.0
+controlEvent	48.0
+controlTotal	58.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Kierdorf
+interventionEvent	29.0
+interventionTotal	48.0
+controlEvent	34.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	John
+interventionEvent	14.0
+interventionTotal	20.0
+controlEvent	7.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Mehta
+interventionEvent	54.0
+interventionTotal	84.0
+controlEvent	40.0
+controlTotal	82.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Gasparovic
+interventionEvent	37.0
+interventionTotal	52.0
+controlEvent	31.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Augustine
+interventionEvent	27.0
+interventionTotal	40.0
+controlEvent	28.0
+controlTotal	40.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Uehlinger
+interventionEvent	34.0
+interventionTotal	70.0
+controlEvent	28.0
+controlTotal	55.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Vinsonneau
+interventionEvent	118.0
+interventionTotal	175.0
+controlEvent	126.0
+controlTotal	184.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

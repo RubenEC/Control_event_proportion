@@ -1,0 +1,107 @@
+#METAANALYSIS BEGIN
+identifier	20_1_prostaglandin
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	PG
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1986
+study	Holcroft
+interventionEvent	9.0
+interventionTotal	21.0
+controlEvent	13.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1986
+study	Shoemaker
+interventionEvent	4.0
+interventionTotal	5.0
+controlEvent	4.0
+controlTotal	4.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1989
+study	Bone
+interventionEvent	42.0
+interventionTotal	72.0
+controlEvent	38.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Rossignon
+interventionEvent	4.0
+interventionTotal	11.0
+controlEvent	8.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Abraham
+interventionEvent	1.0
+interventionTotal	17.0
+controlEvent	2.0
+controlTotal	8.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Abraham
+interventionEvent	57.0
+interventionTotal	176.0
+controlEvent	50.0
+controlTotal	170.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Vincent
+interventionEvent	21.0
+interventionTotal	70.0
+controlEvent	9.0
+controlTotal	32.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	698_III_ICUMort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	bowel protocol
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Zvonicek
+interventionEvent	9.0
+interventionTotal	15.0
+controlEvent	13.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Van Der Spoel
+interventionEvent	36.0
+interventionTotal	205.0
+controlEvent	19.0
+controlTotal	103.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Masri
+interventionEvent	2.0
+interventionTotal	50.0
+controlEvent	2.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	de azevedo
+interventionEvent	11.0
+interventionTotal	44.0
+controlEvent	17.0
+controlTotal	44.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

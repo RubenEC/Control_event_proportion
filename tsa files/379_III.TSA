@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	379 III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Dexmedetomidine
+group2	traditional sedative agents
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Pandharipande
+interventionEvent	9.0
+interventionTotal	52.0
+controlEvent	2.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Riker
+interventionEvent	103.0
+interventionTotal	244.0
+controlEvent	23.0
+controlTotal	122.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Ruokonen
+interventionEvent	3.0
+interventionTotal	41.0
+controlEvent	0.0
+controlTotal	44.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Jakob Midex
+interventionEvent	35.0
+interventionTotal	247.0
+controlEvent	14.0
+controlTotal	251.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Jakob Prodex
+interventionEvent	32.0
+interventionTotal	246.0
+controlEvent	27.0
+controlTotal	249.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Xu
+interventionEvent	4.0
+interventionTotal	20.0
+controlEvent	0.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

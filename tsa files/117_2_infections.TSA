@@ -1,0 +1,107 @@
+#METAANALYSIS BEGIN
+identifier	117_2_infection
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	steroid
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1985
+study	Weigelt
+interventionEvent	30.0
+interventionTotal	39.0
+controlEvent	18.0
+controlTotal	42.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1987
+study	Bernard
+interventionEvent	8.0
+interventionTotal	50.0
+controlEvent	5.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Meduri
+interventionEvent	12.0
+interventionTotal	16.0
+controlEvent	6.0
+controlTotal	8.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Confalonieri
+interventionEvent	0.0
+interventionTotal	23.0
+controlEvent	4.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Annane
+interventionEvent	12.0
+interventionTotal	85.0
+controlEvent	12.0
+controlTotal	92.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Steinberg
+interventionEvent	16.0
+interventionTotal	66.0
+controlEvent	22.0
+controlTotal	66.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Meduri
+interventionEvent	27.0
+interventionTotal	63.0
+controlEvent	17.0
+controlTotal	28.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

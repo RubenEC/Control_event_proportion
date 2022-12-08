@@ -1,0 +1,146 @@
+#METAANALYSIS BEGIN
+identifier	116_3_superinfection
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	steroid
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	8
+study	Sprung
+interventionEvent	78.0
+interventionTotal	234.0
+controlEvent	61.0
+controlTotal	132.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	32
+study	CSG
+interventionEvent	3.0
+interventionTotal	96.0
+controlEvent	3.0
+controlTotal	99.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	36
+study	Annane
+interventionEvent	22.0
+interventionTotal	150.0
+controlEvent	27.0
+controlTotal	150.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	37
+study	Bollaert
+interventionEvent	7.0
+interventionTotal	22.0
+controlEvent	9.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	38
+study	Bone
+interventionEvent	29.0
+interventionTotal	152.0
+controlEvent	30.0
+controlTotal	147.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	39
+study	Briegel
+interventionEvent	10.0
+interventionTotal	20.0
+controlEvent	7.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	41
+study	Klastersky
+interventionEvent	11.0
+interventionTotal	46.0
+controlEvent	6.0
+controlTotal	39.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	43
+study	Sprung
+interventionEvent	11.0
+interventionTotal	43.0
+controlEvent	1.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	45
+study	Yildiz
+interventionEvent	0.0
+interventionTotal	20.0
+controlEvent	1.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	46
+study	Luce
+interventionEvent	3.0
+interventionTotal	38.0
+controlEvent	4.0
+controlTotal	37.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

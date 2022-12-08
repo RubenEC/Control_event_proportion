@@ -1,0 +1,146 @@
+#METAANALYSIS BEGIN
+identifier	543_III_AdvEvents
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Antifungal
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Yu
+interventionEvent	4.0
+interventionTotal	26.0
+controlEvent	7.0
+controlTotal	28.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Eggimann
+interventionEvent	0.0
+interventionTotal	23.0
+controlEvent	0.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	ARDS Network
+interventionEvent	4.0
+interventionTotal	117.0
+controlEvent	1.0
+controlTotal	117.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Garbino
+interventionEvent	4.0
+interventionTotal	103.0
+controlEvent	4.0
+controlTotal	101.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Normand
+interventionEvent	0.0
+interventionTotal	51.0
+controlEvent	0.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Schuster
+interventionEvent	11.0
+interventionTotal	133.0
+controlEvent	16.0
+controlTotal	137.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Giglio
+interventionEvent	0.0
+interventionTotal	49.0
+controlEvent	0.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Ostrosky
+interventionEvent	2.0
+interventionTotal	117.0
+controlEvent	2.0
+controlTotal	102.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	48750
+study	NCT
+interventionEvent	7.0
+interventionTotal	51.0
+controlEvent	4.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1122368
+study	NCT
+interventionEvent	19.0
+interventionTotal	122.0
+controlEvent	22.0
+controlTotal	126.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

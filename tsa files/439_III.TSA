@@ -1,0 +1,237 @@
+#METAANALYSIS BEGIN
+identifier	439_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	false
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Glutamine suppletion
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Powell Tuck
+interventionEvent	14.0
+interventionTotal	83.0
+controlEvent	20.0
+controlTotal	85.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Wischmeyer
+interventionEvent	2.0
+interventionTotal	15.0
+controlEvent	5.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Ockenga
+interventionEvent	0.0
+interventionTotal	14.0
+controlEvent	1.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Tjader
+interventionEvent	8.0
+interventionTotal	30.0
+controlEvent	3.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Xian Li
+interventionEvent	0.0
+interventionTotal	20.0
+controlEvent	3.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Dechelotte
+interventionEvent	2.0
+interventionTotal	58.0
+controlEvent	2.0
+controlTotal	56.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Sahin
+interventionEvent	2.0
+interventionTotal	20.0
+controlEvent	6.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Cai
+interventionEvent	17.0
+interventionTotal	55.0
+controlEvent	20.0
+controlTotal	55.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Duska
+interventionEvent	2.0
+interventionTotal	10.0
+controlEvent	0.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Fuentes Orozco
+interventionEvent	2.0
+interventionTotal	22.0
+controlEvent	5.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Perez Barcena
+interventionEvent	3.0
+interventionTotal	15.0
+controlEvent	0.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Perez Barcena
+interventionEvent	4.0
+interventionTotal	23.0
+controlEvent	3.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Andrews
+interventionEvent	105.0
+interventionTotal	250.0
+controlEvent	95.0
+controlTotal	252.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Cekmen
+interventionEvent	3.0
+interventionTotal	15.0
+controlEvent	6.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Grau
+interventionEvent	9.0
+interventionTotal	59.0
+controlEvent	13.0
+controlTotal	68.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Wernerman
+interventionEvent	14.0
+interventionTotal	205.0
+controlEvent	20.0
+controlTotal	208.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	19979
+study	Griffiths
+interventionEvent	18.0
+interventionTotal	42.0
+controlEvent	25.0
+controlTotal	42.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

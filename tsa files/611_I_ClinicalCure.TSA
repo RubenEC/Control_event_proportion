@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	611_I_ClinicalCure
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Nebulized Antibiotics
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Hallal
+interventionEvent	5.0
+interventionTotal	5.0
+controlEvent	3.0
+controlTotal	5.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Le Conte
+interventionEvent	7.0
+interventionTotal	21.0
+controlEvent	3.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Lu
+interventionEvent	14.0
+interventionTotal	20.0
+controlEvent	11.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Niederman
+interventionEvent	27.0
+interventionTotal	32.0
+controlEvent	14.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

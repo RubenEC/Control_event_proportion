@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	574_III_MortLow
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Treatment
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Grau
+interventionEvent	11.0
+interventionTotal	50.0
+controlEvent	11.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Rice
+interventionEvent	38.0
+interventionTotal	105.0
+controlEvent	21.0
+controlTotal	108.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Stapleton
+interventionEvent	9.0
+interventionTotal	32.0
+controlEvent	11.0
+controlTotal	39.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	273_2_operative bleeding
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	PDT
+group2	SCT
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	18
+study	Friedman
+interventionEvent	3.0
+interventionTotal	26.0
+controlEvent	3.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	21
+study	Holdgaard
+interventionEvent	6.0
+interventionTotal	30.0
+controlEvent	26.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	22
+study	Porter
+interventionEvent	0.0
+interventionTotal	12.0
+controlEvent	0.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

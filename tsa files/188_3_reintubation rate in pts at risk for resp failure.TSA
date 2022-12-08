@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	188_3_reintubation rate in pts at risk for resp failure
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	NPPV
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Nava
+interventionEvent	4.0
+interventionTotal	48.0
+controlEvent	12.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Ferrer
+interventionEvent	9.0
+interventionTotal	79.0
+controlEvent	18.0
+controlTotal	83.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	642_II_Mort28d
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	EGDT
+group2	Usual Care
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Rivers
+interventionEvent	40.0
+interventionTotal	130.0
+controlEvent	61.0
+controlTotal	133.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Peake
+interventionEvent	117.0
+interventionTotal	792.0
+controlEvent	127.0
+controlTotal	797.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Mouncey
+interventionEvent	155.0
+interventionTotal	625.0
+controlEvent	152.0
+controlTotal	621.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,240 @@
+#METAANALYSIS BEGIN
+identifier	699_I_Mortality
+outcomeType	1
+trialType	1
+effectModel	11
+effectMeasure	1
+zeroEventHandling	Empirical
+zeroEventValue	0.01
+ignoreZeroEventsTrials	false
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Percut
+group2	Surg
+comment	
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Barba
+interventionEvent	1.0
+interventionTotal	27.0
+controlEvent	0.0
+controlTotal	21.0
+isHighQuality	true
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Appavu
+interventionEvent	0.0
+interventionTotal	26.0
+controlEvent	3.0
+controlTotal	27.0
+isHighQuality	true
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Porter
+interventionEvent	1.0
+interventionTotal	12.0
+controlEvent	0.0
+controlTotal	58.0
+isHighQuality	true
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Massick
+interventionEvent	1.0
+interventionTotal	50.0
+controlEvent	0.0
+controlTotal	50.0
+isHighQuality	true
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Hasanloei
+interventionEvent	0.0
+interventionTotal	30.0
+controlEvent	1.0
+controlTotal	30.0
+isHighQuality	true
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#BOUNDARY BEGIN
+sort	conventional
+identifier	con
+type	103
+type1error	5.0
+#GRAPH BEGIN
+id	con
+color	155	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	RR25D25
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	204
+interventionEffect	1.57
+controlEffect	2.09
+relativeRiskReduction	25.0
+timeAxisScaling	302
+heterogeneityCorrection	404
+heterogeneityCorrectionValue	0.25
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(1995)Barba	(1996)Appavu	(1999)Porter	(2001)Massick	(2014)Hasanloei
+#GRAPH BEGIN
+id	RR25D25
+color	255	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	RRestDest
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	205
+interventionEffect	1.88
+controlEffect	2.09
+relativeRiskReduction	-49.26
+timeAxisScaling	302
+heterogeneityCorrection	401
+heterogeneityCorrectionValue	0.0
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(1995)Barba	(1996)Appavu	(1999)Porter	(2001)Massick	(2014)Hasanloei
+#GRAPH BEGIN
+id	RRestDest
+color	255	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	rr25dest
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	204
+interventionEffect	1.57
+controlEffect	2.09
+relativeRiskReduction	25.0
+timeAxisScaling	302
+heterogeneityCorrection	401
+heterogeneityCorrectionValue	0.0
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(1995)Barba	(1996)Appavu	(1999)Porter	(2001)Massick	(2014)Hasanloei
+#GRAPH BEGIN
+id	rr25dest
+color	255	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	rrestd25
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	205
+interventionEffect	3.12
+controlEffect	2.09
+relativeRiskReduction	-49.26
+timeAxisScaling	302
+heterogeneityCorrection	404
+heterogeneityCorrectionValue	0.25
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(1995)Barba	(1996)Appavu	(1999)Porter	(2001)Massick	(2014)Hasanloei
+#GRAPH BEGIN
+id	rrestd25
+color	255	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#ZCURVE BEGIN
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#ZCURVE END

@@ -1,0 +1,279 @@
+#METAANALYSIS BEGIN
+identifier	albumin for sepsis
+outcomeType	1
+trialType	1
+effectModel	11
+effectMeasure	1
+zeroEventHandling	Empirical
+zeroEventValue	0.01
+ignoreZeroEventsTrials	false
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	albumin
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Akech
+interventionEvent	1.0
+interventionTotal	44.0
+controlEvent	7.0
+controlTotal	44.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Dolecek
+interventionEvent	4.0
+interventionTotal	30.0
+controlEvent	6.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Friedman
+interventionEvent	5.0
+interventionTotal	15.0
+controlEvent	10.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Maitland
+interventionEvent	4.0
+interventionTotal	23.0
+controlEvent	3.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Metildi
+interventionEvent	10.0
+interventionTotal	12.0
+controlEvent	11.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Rackow
+interventionEvent	5.0
+interventionTotal	7.0
+controlEvent	6.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	SAFE
+interventionEvent	185.0
+interventionTotal	603.0
+controlEvent	217.0
+controlTotal	615.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	van der Heijden
+interventionEvent	2.0
+interventionTotal	6.0
+controlEvent	7.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Veneman
+interventionEvent	5.0
+interventionTotal	8.0
+controlEvent	14.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Boldt
+interventionEvent	5.0
+interventionTotal	15.0
+controlEvent	5.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Maitland
+interventionEvent	2.0
+interventionTotal	56.0
+controlEvent	11.0
+controlTotal	61.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Rackow
+interventionEvent	5.0
+interventionTotal	10.0
+controlEvent	5.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Boldt
+interventionEvent	4.0
+interventionTotal	15.0
+controlEvent	5.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Boldt
+interventionEvent	7.0
+interventionTotal	14.0
+controlEvent	6.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Boldt
+interventionEvent	4.0
+interventionTotal	14.0
+controlEvent	5.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Boldt
+interventionEvent	6.0
+interventionTotal	14.0
+controlEvent	4.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Boldt
+interventionEvent	25.0
+interventionTotal	75.0
+controlEvent	21.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#BOUNDARY BEGIN
+sort	conventional
+identifier	conv
+type	103
+type1error	5.0
+#GRAPH BEGIN
+id	conv
+color	155	0	0
+graphLineType	Full
+graphIconType	Diamond Fill
+graphIconSize	5
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	TSA
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	204
+interventionEffect	27.68
+controlEffect	33.76
+timeAxisScaling	302
+heterogeneityCorrection	401
+heterogeneityCorrectionValue	0.0
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(2000)Akech	(2000)Dolecek	(2000)Friedman	(2000)Maitland	(2000)Metildi	(2000)Rackow	(2000)SAFE	(2000)van der Heijden	(2000)Veneman	(2001)Boldt	(2001)Maitland	(2001)Rackow	(2002)Boldt	(2003)Boldt	(2004)Boldt	(2005)Boldt	(2006)Boldt
+#GRAPH BEGIN
+id	TSA
+color	255	0	0
+graphLineType	Full
+graphIconType	Diamond Fill
+graphIconSize	5
+doShow	true
+#GRAPH END
+#BOUNDARY END
+

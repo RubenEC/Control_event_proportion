@@ -1,0 +1,211 @@
+#METAANALYSIS BEGIN
+identifier	482.1 - Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	NIV
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1985
+study	Rasanen
+interventionEvent	3.0
+interventionTotal	20.0
+controlEvent	6.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Bersten
+interventionEvent	2.0
+interventionTotal	19.0
+controlEvent	4.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Lin
+interventionEvent	4.0
+interventionTotal	50.0
+controlEvent	6.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Takeda
+interventionEvent	1.0
+interventionTotal	15.0
+controlEvent	3.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Masip
+interventionEvent	0.0
+interventionTotal	19.0
+controlEvent	2.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Levitt
+interventionEvent	3.0
+interventionTotal	21.0
+controlEvent	3.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Park
+interventionEvent	1.0
+interventionTotal	9.0
+controlEvent	0.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Park (2)
+interventionEvent	0.0
+interventionTotal	7.0
+controlEvent	0.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Kelly
+interventionEvent	2.0
+interventionTotal	27.0
+controlEvent	7.0
+controlTotal	31.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Nava
+interventionEvent	6.0
+interventionTotal	65.0
+controlEvent	9.0
+controlTotal	65.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Crane
+interventionEvent	0.0
+interventionTotal	20.0
+controlEvent	6.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Crane (2)
+interventionEvent	5.0
+interventionTotal	20.0
+controlEvent	6.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	L'Her
+interventionEvent	12.0
+interventionTotal	43.0
+controlEvent	14.0
+controlTotal	46.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Park
+interventionEvent	1.0
+interventionTotal	27.0
+controlEvent	6.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Park (2)
+interventionEvent	2.0
+interventionTotal	27.0
+controlEvent	6.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

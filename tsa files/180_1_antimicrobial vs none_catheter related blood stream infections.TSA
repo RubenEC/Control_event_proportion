@@ -1,0 +1,185 @@
+#METAANALYSIS BEGIN
+identifier	180_1
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	antimicrobial
+group2	nonantimicrobial
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Bach
+interventionEvent	0.0
+interventionTotal	116.0
+controlEvent	3.0
+controlTotal	116.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Pemberton
+interventionEvent	0.0
+interventionTotal	13.0
+controlEvent	2.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	George
+interventionEvent	4.0
+interventionTotal	44.0
+controlEvent	10.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Loo
+interventionEvent	3.0
+interventionTotal	77.0
+controlEvent	3.0
+controlTotal	81.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Maki
+interventionEvent	2.0
+interventionTotal	208.0
+controlEvent	9.0
+controlTotal	195.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Heard
+interventionEvent	5.0
+interventionTotal	151.0
+controlEvent	6.0
+controlTotal	157.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Hannan
+interventionEvent	10.0
+interventionTotal	174.0
+controlEvent	11.0
+controlTotal	177.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Marik
+interventionEvent	1.0
+interventionTotal	36.0
+controlEvent	2.0
+controlTotal	39.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Hanley
+interventionEvent	8.0
+interventionTotal	175.0
+controlEvent	15.0
+controlTotal	191.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Sheng
+interventionEvent	1.0
+interventionTotal	113.0
+controlEvent	2.0
+controlTotal	122.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	van Vliet
+interventionEvent	2.0
+interventionTotal	48.0
+controlEvent	3.0
+controlTotal	46.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Theaker
+interventionEvent	12.0
+interventionTotal	101.0
+controlEvent	12.0
+controlTotal	131.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Richards
+interventionEvent	2.0
+interventionTotal	237.0
+controlEvent	6.0
+controlTotal	223.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

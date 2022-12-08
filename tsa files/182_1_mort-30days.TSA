@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	182_1_mort-30days
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	prone
+group2	supine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Gattinoni
+interventionEvent	74.0
+interventionTotal	152.0
+controlEvent	70.0
+controlTotal	152.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Guerin
+interventionEvent	134.0
+interventionTotal	413.0
+controlEvent	121.0
+controlTotal	378.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Mancebo
+interventionEvent	30.0
+interventionTotal	76.0
+controlEvent	32.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

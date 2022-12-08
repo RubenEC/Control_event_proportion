@@ -1,0 +1,146 @@
+#METAANALYSIS BEGIN
+identifier	685_I_VAP
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Chlorhexidine
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Fourrier
+interventionEvent	5.0
+interventionTotal	30.0
+controlEvent	17.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Grap
+interventionEvent	4.0
+interventionTotal	11.0
+controlEvent	3.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Fourrier
+interventionEvent	13.0
+interventionTotal	114.0
+controlEvent	12.0
+controlTotal	114.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Koeman
+interventionEvent	13.0
+interventionTotal	127.0
+controlEvent	23.0
+controlTotal	130.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	tantipong
+interventionEvent	5.0
+interventionTotal	102.0
+controlEvent	12.0
+controlTotal	105.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Belissimo-Rodrigues
+interventionEvent	16.0
+interventionTotal	64.0
+controlEvent	17.0
+controlTotal	69.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Scannapieco
+interventionEvent	14.0
+interventionTotal	116.0
+controlEvent	12.0
+controlTotal	59.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Cabov
+interventionEvent	1.0
+interventionTotal	17.0
+controlEvent	6.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Berry
+interventionEvent	4.0
+interventionTotal	71.0
+controlEvent	1.0
+controlTotal	78.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	ozcaka
+interventionEvent	12.0
+interventionTotal	32.0
+controlEvent	22.0
+controlTotal	34.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	81_2
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	antioxidant
+group2	no
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Sisto
+interventionEvent	7.0
+interventionTotal	81.0
+controlEvent	14.0
+controlTotal	81.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Lassnigg
+interventionEvent	11.0
+interventionTotal	20.0
+controlEvent	8.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Eslami
+interventionEvent	2.0
+interventionTotal	50.0
+controlEvent	13.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Castillo
+interventionEvent	11.0
+interventionTotal	48.0
+controlEvent	15.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Papoulidis
+interventionEvent	38.0
+interventionTotal	85.0
+controlEvent	52.0
+controlTotal	85.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

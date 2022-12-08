@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	303_3_pneumonia
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	sucralf
+group2	H2antagonists
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	12
+study	A
+interventionEvent	5.0
+interventionTotal	55.0
+controlEvent	1.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	13
+study	B
+interventionEvent	5.0
+interventionTotal	20.0
+controlEvent	9.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	14
+study	C
+interventionEvent	13.0
+interventionTotal	49.0
+controlEvent	25.0
+controlTotal	55.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	15
+study	D
+interventionEvent	11.0
+interventionTotal	59.0
+controlEvent	32.0
+controlTotal	74.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	16
+study	E
+interventionEvent	8.0
+interventionTotal	45.0
+controlEvent	6.0
+controlTotal	45.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

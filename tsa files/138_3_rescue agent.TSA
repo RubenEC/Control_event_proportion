@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	138_3_risk of rescue agent
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	remifentanyl
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	8
+study	Chinachoti
+interventionEvent	58.0
+interventionTotal	74.0
+controlEvent	57.0
+controlTotal	78.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	9
+study	Carrer
+interventionEvent	36.0
+interventionTotal	50.0
+controlEvent	20.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	15
+study	Muellejans
+interventionEvent	50.0
+interventionTotal	77.0
+controlEvent	45.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

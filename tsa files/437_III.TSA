@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	437_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Silver coated ETT
+group2	Non coated ETT
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Rello
+interventionEvent	1.0
+interventionTotal	75.0
+controlEvent	4.0
+controlTotal	74.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Kollef
+interventionEvent	21.0
+interventionTotal	968.0
+controlEvent	38.0
+controlTotal	964.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	544_II_postOpAdvEv
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	PT
+group2	ST
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	holdgaar
+interventionEvent	1.0
+interventionTotal	30.0
+controlEvent	2.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Freeman
+interventionEvent	0.0
+interventionTotal	40.0
+controlEvent	2.0
+controlTotal	40.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Massick
+interventionEvent	2.0
+interventionTotal	50.0
+controlEvent	5.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Antonelli
+interventionEvent	0.0
+interventionTotal	67.0
+controlEvent	6.0
+controlTotal	72.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Silvester
+interventionEvent	3.0
+interventionTotal	100.0
+controlEvent	4.0
+controlTotal	100.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Lukas
+interventionEvent	10.0
+interventionTotal	100.0
+controlEvent	2.0
+controlTotal	105.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

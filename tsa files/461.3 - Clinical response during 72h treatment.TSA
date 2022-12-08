@@ -1,0 +1,107 @@
+#METAANALYSIS BEGIN
+identifier	461.3 - Clinical response during 72h treatment
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Carbapenem
+group2	Antip Peni
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Niinikoski
+interventionEvent	20.0
+interventionTotal	39.0
+controlEvent	26.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Klein
+interventionEvent	117.0
+interventionTotal	211.0
+controlEvent	108.0
+controlTotal	211.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Graham
+interventionEvent	160.0
+interventionTotal	274.0
+controlEvent	152.0
+controlTotal	266.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Roy
+interventionEvent	155.0
+interventionTotal	216.0
+controlEvent	141.0
+controlTotal	196.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Dela Pena
+interventionEvent	145.0
+interventionTotal	180.0
+controlEvent	155.0
+controlTotal	190.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Schmitt
+interventionEvent	85.0
+interventionTotal	111.0
+controlEvent	76.0
+controlTotal	110.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Namias
+interventionEvent	123.0
+interventionTotal	250.0
+controlEvent	107.0
+controlTotal	250.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,107 @@
+#METAANALYSIS BEGIN
+identifier	460_I
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Experimental statins
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Choi
+interventionEvent	16.0
+interventionTotal	33.0
+controlEvent	18.0
+controlTotal	34.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Novack
+interventionEvent	0.0
+interventionTotal	42.0
+controlEvent	0.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Craig
+interventionEvent	11.0
+interventionTotal	30.0
+controlEvent	11.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Kruger
+interventionEvent	6.0
+interventionTotal	75.0
+controlEvent	4.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Makris
+interventionEvent	28.0
+interventionTotal	71.0
+controlEvent	32.0
+controlTotal	81.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Patel
+interventionEvent	4.0
+interventionTotal	49.0
+controlEvent	4.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Kruger
+interventionEvent	18.0
+interventionTotal	123.0
+controlEvent	24.0
+controlTotal	127.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	455_II
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Gelatin
+group2	Albumin
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Akech
+interventionEvent	7.0
+interventionTotal	44.0
+controlEvent	1.0
+controlTotal	44.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Trof
+interventionEvent	2.0
+interventionTotal	6.0
+controlEvent	2.0
+controlTotal	6.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

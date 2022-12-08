@@ -1,0 +1,107 @@
+#METAANALYSIS BEGIN
+identifier	757_III_mortality_dic
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	anticoagulants
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Fourrier
+interventionEvent	4.0
+interventionTotal	14.0
+controlEvent	9.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	KyberSept
+interventionEvent	29.0
+interventionTotal	114.0
+controlEvent	46.0
+controlTotal	115.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	PROWESS
+interventionEvent	71.0
+interventionTotal	233.0
+controlEvent	95.0
+controlTotal	221.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Hsu
+interventionEvent	6.0
+interventionTotal	25.0
+controlEvent	9.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Gando
+interventionEvent	3.0
+interventionTotal	30.0
+controlEvent	4.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Vincent
+interventionEvent	66.0
+interventionTotal	371.0
+controlEvent	80.0
+controlTotal	370.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Liu
+interventionEvent	7.0
+interventionTotal	22.0
+controlEvent	6.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

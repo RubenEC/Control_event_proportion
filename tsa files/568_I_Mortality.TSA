@@ -1,0 +1,213 @@
+#METAANALYSIS BEGIN
+identifier	568_I_Mortality
+outcomeType	1
+trialType	1
+effectModel	11
+effectMeasure	1
+zeroEventHandling	Empirical
+zeroEventValue	0.01
+ignoreZeroEventsTrials	false
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Dornase Alfa
+group2	Control
+comment	
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	YounesA
+interventionEvent	0.0
+interventionTotal	11.0
+controlEvent	1.0
+controlTotal	11.0
+isHighQuality	true
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Youness
+interventionEvent	0.0
+interventionTotal	11.0
+controlEvent	2.0
+controlTotal	11.0
+isHighQuality	true
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Zitter
+interventionEvent	2.0
+interventionTotal	14.0
+controlEvent	0.0
+controlTotal	16.0
+isHighQuality	true
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#BOUNDARY BEGIN
+sort	conventional
+identifier	con
+type	103
+type1error	5.0
+#GRAPH BEGIN
+id	con
+color	155	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	rr25d25
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	204
+interventionEffect	5.49
+controlEffect	7.32
+relativeRiskReduction	25.0
+timeAxisScaling	302
+heterogeneityCorrection	404
+heterogeneityCorrectionValue	0.25
+alphaSpendingFunction	501
+trials	(2012)YounesA	(2012)Youness	(2013)Zitter
+#GRAPH BEGIN
+id	rr25d25
+color	255	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	RRestd25
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	205
+interventionEffect	1.12
+controlEffect	7.32
+relativeRiskReduction	84.7
+timeAxisScaling	302
+heterogeneityCorrection	404
+heterogeneityCorrectionValue	0.25
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(2012)YounesA	(2012)Youness	(2013)Zitter
+#GRAPH BEGIN
+id	RRestd25
+color	255	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	rr25dest
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	204
+interventionEffect	5.49
+controlEffect	7.32
+relativeRiskReduction	25.0
+timeAxisScaling	302
+heterogeneityCorrection	401
+heterogeneityCorrectionValue	0.0
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(2012)YounesA	(2012)Youness	(2013)Zitter
+#GRAPH BEGIN
+id	rr25dest
+color	255	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	rrestdest
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	205
+interventionEffect	1.13
+controlEffect	7.37
+relativeRiskReduction	84.7
+timeAxisScaling	302
+heterogeneityCorrection	401
+heterogeneityCorrectionValue	0.0
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(2012)YounesA	(2012)Youness	(2013)Zitter
+#GRAPH BEGIN
+id	rrestdest
+color	255	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#ZCURVE BEGIN
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#ZCURVE END

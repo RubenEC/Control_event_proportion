@@ -1,0 +1,133 @@
+#METAANALYSIS BEGIN
+identifier	309_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	selenium
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	17
+study	Valenta
+interventionEvent	19.0
+interventionTotal	93.0
+controlEvent	24.0
+controlTotal	89.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	18
+study	Manzanares
+interventionEvent	3.0
+interventionTotal	16.0
+controlEvent	6.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	19
+study	Andrews
+interventionEvent	42.0
+interventionTotal	127.0
+controlEvent	38.0
+controlTotal	125.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	30
+study	Zimmermann
+interventionEvent	3.0
+interventionTotal	20.0
+controlEvent	8.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	31
+study	Angstwurm
+interventionEvent	7.0
+interventionTotal	21.0
+controlEvent	11.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	34
+study	Angstwurm
+interventionEvent	46.0
+interventionTotal	122.0
+controlEvent	61.0
+controlTotal	124.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	35
+study	Forceville
+interventionEvent	14.0
+interventionTotal	31.0
+controlEvent	13.0
+controlTotal	29.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	36
+study	Mishra
+interventionEvent	8.0
+interventionTotal	18.0
+controlEvent	11.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	38
+study	Montoya
+interventionEvent	6.0
+interventionTotal	34.0
+controlEvent	8.0
+controlTotal	34.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

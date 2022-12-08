@@ -1,0 +1,146 @@
+#METAANALYSIS BEGIN
+identifier	544_II_IntraOpAdvEv
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	PT
+group2	ST
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Ahn
+interventionEvent	1.0
+interventionTotal	20.0
+controlEvent	1.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Holdgaard
+interventionEvent	0.0
+interventionTotal	30.0
+controlEvent	2.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Porter
+interventionEvent	3.0
+interventionTotal	12.0
+controlEvent	1.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Raine
+interventionEvent	3.0
+interventionTotal	50.0
+controlEvent	3.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Massick
+interventionEvent	2.0
+interventionTotal	50.0
+controlEvent	6.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Wu
+interventionEvent	2.0
+interventionTotal	41.0
+controlEvent	0.0
+controlTotal	42.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Antonelli
+interventionEvent	5.0
+interventionTotal	67.0
+controlEvent	2.0
+controlTotal	72.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Silvester
+interventionEvent	3.0
+interventionTotal	100.0
+controlEvent	1.0
+controlTotal	100.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Lukas
+interventionEvent	3.0
+interventionTotal	100.0
+controlEvent	0.0
+controlTotal	105.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Xu
+interventionEvent	1.0
+interventionTotal	109.0
+controlEvent	0.0
+controlTotal	57.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

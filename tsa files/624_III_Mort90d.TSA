@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	624_III_Mort90d
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	PP
+group2	SP
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Gattinoni
+interventionEvent	89.0
+interventionTotal	152.0
+controlEvent	84.0
+controlTotal	152.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Guerin
+interventionEvent	179.0
+interventionTotal	413.0
+controlEvent	159.0
+controlTotal	377.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Voggenreiter
+interventionEvent	1.0
+interventionTotal	21.0
+controlEvent	3.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Guerin
+interventionEvent	56.0
+interventionTotal	237.0
+controlEvent	94.0
+controlTotal	229.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

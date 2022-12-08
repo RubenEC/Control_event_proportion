@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	441_I
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Tetrastarch
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Crystmas
+interventionEvent	40.0
+interventionTotal	99.0
+controlEvent	32.0
+controlTotal	95.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	6S trial
+interventionEvent	201.0
+interventionTotal	398.0
+controlEvent	172.0
+controlTotal	400.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Chest
+interventionEvent	248.0
+interventionTotal	976.0
+controlEvent	224.0
+controlTotal	945.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

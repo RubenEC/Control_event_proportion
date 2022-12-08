@@ -1,0 +1,250 @@
+#METAANALYSIS BEGIN
+identifier	109_1_mort-surgical
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	IIT
+group2	CIT
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	NICE-SUGAR
+interventionEvent	272.0
+interventionTotal	1111.0
+controlEvent	222.0
+controlTotal	1121.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	5
+study	Farah
+interventionEvent	3.0
+interventionTotal	10.0
+controlEvent	8.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	7
+study	Yu
+interventionEvent	4.0
+interventionTotal	28.0
+controlEvent	4.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	8
+study	Mitchell
+interventionEvent	1.0
+interventionTotal	12.0
+controlEvent	1.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	9
+study	Azevedo
+interventionEvent	10.0
+interventionTotal	69.0
+controlEvent	17.0
+controlTotal	69.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	11
+study	Preiser
+interventionEvent	49.0
+interventionTotal	280.0
+controlEvent	42.0
+controlTotal	297.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	12
+study	Brunkhorst
+interventionEvent	49.0
+interventionTotal	135.0
+controlEvent	45.0
+controlTotal	147.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	13
+study	Lapichino
+interventionEvent	3.0
+interventionTotal	15.0
+controlEvent	8.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	14
+study	He
+interventionEvent	7.0
+interventionTotal	31.0
+controlEvent	15.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	15
+study	Zhang
+interventionEvent	1.0
+interventionTotal	152.0
+controlEvent	4.0
+controlTotal	152.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	16
+study	De la Rosa
+interventionEvent	54.0
+interventionTotal	131.0
+controlEvent	48.0
+controlTotal	127.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	17
+study	Arabi
+interventionEvent	6.0
+interventionTotal	43.0
+controlEvent	10.0
+controlTotal	45.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	18
+study	MacKenzie
+interventionEvent	13.0
+interventionTotal	59.0
+controlEvent	11.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	21
+study	van den Berghe
+interventionEvent	55.0
+interventionTotal	765.0
+controlEvent	85.0
+controlTotal	783.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	22
+study	Grey
+interventionEvent	4.0
+interventionTotal	34.0
+controlEvent	6.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	23
+study	Bilotta
+interventionEvent	6.0
+interventionTotal	40.0
+controlEvent	7.0
+controlTotal	38.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	24
+study	He
+interventionEvent	7.0
+interventionTotal	150.0
+controlEvent	6.0
+controlTotal	38.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	25
+study	Bilotta
+interventionEvent	5.0
+interventionTotal	48.0
+controlEvent	6.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

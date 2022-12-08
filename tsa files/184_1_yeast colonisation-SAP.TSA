@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	184_1_Yeast colonisation-SAP
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	treatment
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Eggimann
+interventionEvent	7.0
+interventionTotal	23.0
+controlEvent	14.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Garbino
+interventionEvent	29.0
+interventionTotal	103.0
+controlEvent	40.0
+controlTotal	101.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Normand
+interventionEvent	0.0
+interventionTotal	51.0
+controlEvent	12.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Savino
+interventionEvent	33.0
+interventionTotal	220.0
+controlEvent	17.0
+controlTotal	72.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	5
+study	Slotman
+interventionEvent	8.0
+interventionTotal	27.0
+controlEvent	18.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

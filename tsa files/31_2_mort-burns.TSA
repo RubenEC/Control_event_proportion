@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	31_2_burns
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	albumin
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1978
+study	Jelenko
+interventionEvent	1.0
+interventionTotal	7.0
+controlEvent	2.0
+controlTotal	7.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1983
+study	Goodwin
+interventionEvent	11.0
+interventionTotal	40.0
+controlEvent	3.0
+controlTotal	39.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Greenhalgh
+interventionEvent	7.0
+interventionTotal	34.0
+controlEvent	3.0
+controlTotal	36.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	cooper
+interventionEvent	3.0
+interventionTotal	19.0
+controlEvent	1.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

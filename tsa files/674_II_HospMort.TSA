@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	674_II_HospMort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	statin
+group2	nonstatin
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Craig
+interventionEvent	11.0
+interventionTotal	30.0
+controlEvent	11.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Papazian
+interventionEvent	43.0
+interventionTotal	146.0
+controlEvent	38.0
+controlTotal	138.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	McAuley
+interventionEvent	67.0
+interventionTotal	259.0
+controlEvent	90.0
+controlTotal	280.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Truwit
+interventionEvent	108.0
+interventionTotal	379.0
+controlEvent	91.0
+controlTotal	366.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

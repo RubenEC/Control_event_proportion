@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	66_2_arrhythmias
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	nor
+group2	dopamine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	De Backer
+interventionEvent	102.0
+interventionTotal	821.0
+controlEvent	207.0
+controlTotal	838.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Paid
+interventionEvent	14.0
+interventionTotal	118.0
+controlEvent	51.0
+controlTotal	134.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

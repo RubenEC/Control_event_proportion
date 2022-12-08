@@ -1,0 +1,172 @@
+#METAANALYSIS BEGIN
+identifier	351_I
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Omega 3
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Gradek
+interventionEvent	11.0
+interventionTotal	70.0
+controlEvent	19.0
+controlTotal	76.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Grecu
+interventionEvent	2.0
+interventionTotal	28.0
+controlEvent	2.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Mayer
+interventionEvent	5.0
+interventionTotal	10.0
+controlEvent	3.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Pontes-Arruda
+interventionEvent	5.0
+interventionTotal	10.0
+controlEvent	3.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Singer
+interventionEvent	13.0
+interventionTotal	46.0
+controlEvent	28.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Friesecke
+interventionEvent	18.0
+interventionTotal	83.0
+controlEvent	22.0
+controlTotal	82.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Wang
+interventionEvent	0.0
+interventionTotal	28.0
+controlEvent	2.0
+controlTotal	28.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Barbosa
+interventionEvent	4.0
+interventionTotal	13.0
+controlEvent	4.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Grau Carmona
+interventionEvent	11.0
+interventionTotal	61.0
+controlEvent	11.0
+controlTotal	71.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Gupta
+interventionEvent	7.0
+interventionTotal	31.0
+controlEvent	13.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Rice
+interventionEvent	38.0
+interventionTotal	143.0
+controlEvent	21.0
+controlTotal	129.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Stapleton
+interventionEvent	9.0
+interventionTotal	41.0
+controlEvent	10.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

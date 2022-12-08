@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	338_II
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	PSV
+group2	T TUBE
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Brochard
+interventionEvent	1.0
+interventionTotal	31.0
+controlEvent	2.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Esteban
+interventionEvent	7.0
+interventionTotal	37.0
+controlEvent	7.0
+controlTotal	31.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Esteban
+interventionEvent	38.0
+interventionTotal	205.0
+controlEvent	36.0
+controlTotal	192.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Esteban2
+interventionEvent	3.0
+interventionTotal	33.0
+controlEvent	3.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Koh
+interventionEvent	4.0
+interventionTotal	20.0
+controlEvent	4.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Koksal
+interventionEvent	0.0
+interventionTotal	20.0
+controlEvent	4.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Matic
+interventionEvent	1.0
+interventionTotal	30.0
+controlEvent	2.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Matic
+interventionEvent	6.0
+interventionTotal	32.0
+controlEvent	8.0
+controlTotal	31.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

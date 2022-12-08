@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	237_1_VAP
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	HH
+group2	HME
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Martin
+interventionEvent	2.0
+interventionTotal	31.0
+controlEvent	8.0
+controlTotal	42.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Roustan
+interventionEvent	5.0
+interventionTotal	51.0
+controlEvent	9.0
+controlTotal	61.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Dreyfuss
+interventionEvent	6.0
+interventionTotal	61.0
+controlEvent	8.0
+controlTotal	70.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Branson
+interventionEvent	3.0
+interventionTotal	49.0
+controlEvent	3.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Boots
+interventionEvent	14.0
+interventionTotal	75.0
+controlEvent	7.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Kirton
+interventionEvent	8.0
+interventionTotal	140.0
+controlEvent	22.0
+controlTotal	140.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Kollef
+interventionEvent	15.0
+interventionTotal	163.0
+controlEvent	15.0
+controlTotal	147.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Memish
+interventionEvent	14.0
+interventionTotal	123.0
+controlEvent	19.0
+controlTotal	120.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

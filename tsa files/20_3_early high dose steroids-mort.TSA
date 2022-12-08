@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	20_3_early high dose steroids
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	steroids
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1985
+study	Weigelt
+interventionEvent	18.0
+interventionTotal	39.0
+controlEvent	13.0
+controlTotal	42.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1987
+study	Bernard
+interventionEvent	30.0
+interventionTotal	50.0
+controlEvent	31.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

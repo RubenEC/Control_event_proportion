@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	639_III_ICUMORT
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Probiotics
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Spindler
+interventionEvent	2.0
+interventionTotal	26.0
+controlEvent	5.0
+controlTotal	87.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Knight
+interventionEvent	28.0
+interventionTotal	130.0
+controlEvent	34.0
+controlTotal	129.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Barraud
+interventionEvent	21.0
+interventionTotal	87.0
+controlEvent	21.0
+controlTotal	80.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

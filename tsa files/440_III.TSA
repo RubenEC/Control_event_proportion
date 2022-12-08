@@ -1,0 +1,159 @@
+#METAANALYSIS BEGIN
+identifier	440_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	NIPPV
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Nava
+interventionEvent	0.0
+interventionTotal	25.0
+controlEvent	7.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Girault
+interventionEvent	1.0
+interventionTotal	17.0
+controlEvent	1.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Chen
+interventionEvent	0.0
+interventionTotal	12.0
+controlEvent	7.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Ferrer
+interventionEvent	5.0
+interventionTotal	21.0
+controlEvent	13.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Wang
+interventionEvent	3.0
+interventionTotal	47.0
+controlEvent	12.0
+controlTotal	43.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Zou
+interventionEvent	7.0
+interventionTotal	38.0
+controlEvent	15.0
+controlTotal	38.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Trevisan
+interventionEvent	1.0
+interventionTotal	28.0
+controlEvent	17.0
+controlTotal	37.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Du
+interventionEvent	1.0
+interventionTotal	16.0
+controlEvent	12.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Prasad
+interventionEvent	1.0
+interventionTotal	15.0
+controlEvent	5.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Girault
+interventionEvent	9.0
+interventionTotal	69.0
+controlEvent	10.0
+controlTotal	69.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Tawfeek
+interventionEvent	1.0
+interventionTotal	21.0
+controlEvent	8.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

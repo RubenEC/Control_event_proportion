@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	213_2_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	treatment
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	DeRiso
+interventionEvent	2.0
+interventionTotal	173.0
+controlEvent	10.0
+controlTotal	180.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Fourrier
+interventionEvent	3.0
+interventionTotal	30.0
+controlEvent	7.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Houston
+interventionEvent	6.0
+interventionTotal	270.0
+controlEvent	3.0
+controlTotal	291.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Fourrier
+interventionEvent	31.0
+interventionTotal	114.0
+controlEvent	24.0
+controlTotal	114.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

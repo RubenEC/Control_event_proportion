@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	335_I
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	iabp
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	arias
+interventionEvent	10.0
+interventionTotal	31.0
+controlEvent	5.0
+controlTotal	9.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Thiele
+interventionEvent	10.0
+interventionTotal	20.0
+controlEvent	9.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Seyfarth
+interventionEvent	5.0
+interventionTotal	13.0
+controlEvent	7.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Prondzinsky
+interventionEvent	7.0
+interventionTotal	19.0
+controlEvent	6.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Thiele
+interventionEvent	107.0
+interventionTotal	301.0
+controlEvent	116.0
+controlTotal	299.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

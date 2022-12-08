@@ -1,0 +1,211 @@
+#METAANALYSIS BEGIN
+identifier	223_1_total incidence
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	treatment
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	37
+study	Barret
+interventionEvent	0.0
+interventionTotal	462.0
+controlEvent	2.0
+controlTotal	420.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	38
+study	Cockerill
+interventionEvent	1.0
+interventionTotal	750.0
+controlEvent	8.0
+controlTotal	900.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	40
+study	Cerra
+interventionEvent	9.0
+interventionTotal	450.0
+controlEvent	22.0
+controlTotal	546.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	41
+study	Wiener
+interventionEvent	1.0
+interventionTotal	342.0
+controlEvent	6.0
+controlTotal	347.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	42
+study	Aerdts
+interventionEvent	0.0
+interventionTotal	391.0
+controlEvent	7.0
+controlTotal	975.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	43
+study	Ferrer
+interventionEvent	1.0
+interventionTotal	597.0
+controlEvent	3.0
+controlTotal	586.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	44
+study	Hammond
+interventionEvent	1.0
+interventionTotal	2025.0
+controlEvent	4.0
+controlTotal	1915.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	45
+study	Winter
+interventionEvent	0.0
+interventionTotal	581.0
+controlEvent	2.0
+controlTotal	733.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	46
+study	Ulrich
+interventionEvent	1.0
+interventionTotal	811.0
+controlEvent	7.0
+controlTotal	697.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	47
+study	Unertl
+interventionEvent	0.0
+interventionTotal	342.0
+controlEvent	1.0
+controlTotal	460.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	48
+study	Quino
+interventionEvent	0.0
+interventionTotal	1216.0
+controlEvent	2.0
+controlTotal	1193.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	49
+study	Verwaest-a
+interventionEvent	1.0
+interventionTotal	3339.0
+controlEvent	10.0
+controlTotal	3497.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	49
+study	Verwaest-b
+interventionEvent	3.0
+interventionTotal	4480.0
+controlEvent	10.0
+controlTotal	3497.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	50
+study	Blair
+interventionEvent	1.0
+interventionTotal	942.0
+controlEvent	1.0
+controlTotal	975.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	51
+study	Zobel
+interventionEvent	0.0
+interventionTotal	340.0
+controlEvent	1.0
+controlTotal	340.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

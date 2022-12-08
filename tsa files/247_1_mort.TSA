@@ -1,0 +1,185 @@
+#METAANALYSIS BEGIN
+identifier	247_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	steroid
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1963
+study	bennett
+interventionEvent	54.0
+interventionTotal	96.0
+controlEvent	32.0
+controlTotal	98.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1971
+study	Klastersky
+interventionEvent	24.0
+interventionTotal	46.0
+controlEvent	22.0
+controlTotal	39.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1976
+study	Schumer
+interventionEvent	9.0
+interventionTotal	86.0
+controlEvent	33.0
+controlTotal	86.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1976
+study	Thompson
+interventionEvent	22.0
+interventionTotal	28.0
+controlEvent	25.0
+controlTotal	32.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1984
+study	Lucas
+interventionEvent	5.0
+interventionTotal	23.0
+controlEvent	5.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1984
+study	Sprung
+interventionEvent	33.0
+interventionTotal	43.0
+controlEvent	11.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1987
+study	Bone
+interventionEvent	65.0
+interventionTotal	191.0
+controlEvent	48.0
+controlTotal	190.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1987
+study	VA
+interventionEvent	23.0
+interventionTotal	112.0
+controlEvent	24.0
+controlTotal	111.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1988
+study	Luce
+interventionEvent	22.0
+interventionTotal	38.0
+controlEvent	20.0
+controlTotal	37.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Bollaert
+interventionEvent	7.0
+interventionTotal	22.0
+controlEvent	12.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Briegel
+interventionEvent	3.0
+interventionTotal	20.0
+controlEvent	4.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Annane
+interventionEvent	82.0
+interventionTotal	150.0
+controlEvent	91.0
+controlTotal	149.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Yildiz
+interventionEvent	8.0
+interventionTotal	20.0
+controlEvent	12.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

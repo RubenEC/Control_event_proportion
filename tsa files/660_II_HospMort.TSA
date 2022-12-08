@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	660_II_HospMort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	B2 agonist
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	ALTA
+interventionEvent	35.0
+interventionTotal	152.0
+controlEvent	23.0
+controlTotal	130.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	BALT
+interventionEvent	62.0
+interventionTotal	161.0
+controlEvent	53.0
+controlTotal	163.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

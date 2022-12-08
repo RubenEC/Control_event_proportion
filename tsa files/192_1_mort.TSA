@@ -1,0 +1,133 @@
+#METAANALYSIS BEGIN
+identifier	192_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	epo
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Corwin
+interventionEvent	24.0
+interventionTotal	80.0
+controlEvent	21.0
+controlTotal	80.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	8
+study	Corwin-2
+interventionEvent	111.0
+interventionTotal	650.0
+controlEvent	120.0
+controlTotal	652.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	9
+study	Corwin-3
+interventionEvent	62.0
+interventionTotal	733.0
+controlEvent	83.0
+controlTotal	727.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	10
+study	Gabriel
+interventionEvent	6.0
+interventionTotal	11.0
+controlEvent	5.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	11
+study	Georgopoulos
+interventionEvent	15.0
+interventionTotal	100.0
+controlEvent	7.0
+controlTotal	48.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	12
+study	Silver
+interventionEvent	5.0
+interventionTotal	42.0
+controlEvent	10.0
+controlTotal	44.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	13
+study	Still
+interventionEvent	2.0
+interventionTotal	19.0
+controlEvent	2.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	14
+study	van Iperen
+interventionEvent	2.0
+interventionTotal	12.0
+controlEvent	2.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	15
+study	Vincent
+interventionEvent	11.0
+interventionTotal	48.0
+controlEvent	5.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	63_3
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	citrate
+group2	heparin
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Monchi
+interventionEvent	1.0
+interventionTotal	8.0
+controlEvent	0.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Kutsogiannis
+interventionEvent	1.0
+interventionTotal	16.0
+controlEvent	0.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Betjes
+interventionEvent	2.0
+interventionTotal	21.0
+controlEvent	0.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Oudemans-van Straaten
+interventionEvent	6.0
+interventionTotal	97.0
+controlEvent	2.0
+controlTotal	103.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Hetzel
+interventionEvent	1.0
+interventionTotal	87.0
+controlEvent	0.0
+controlTotal	83.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

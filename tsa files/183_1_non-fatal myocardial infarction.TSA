@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	183_1_non-fatal myocardial infarction
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	dexmed
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Bekker
+interventionEvent	0.0
+interventionTotal	33.0
+controlEvent	1.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Wahlander
+interventionEvent	0.0
+interventionTotal	14.0
+controlEvent	2.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	McCutchen
+interventionEvent	0.0
+interventionTotal	29.0
+controlEvent	1.0
+controlTotal	29.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

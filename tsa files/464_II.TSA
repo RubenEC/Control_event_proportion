@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	464_II
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Starch
+group2	Crystalloid
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Brunkhorst
+interventionEvent	107.0
+interventionTotal	262.0
+controlEvent	93.0
+controlTotal	275.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Guidet
+interventionEvent	40.0
+interventionTotal	100.0
+controlEvent	32.0
+controlTotal	96.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Myburgh
+interventionEvent	248.0
+interventionTotal	976.0
+controlEvent	224.0
+controlTotal	945.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Perner
+interventionEvent	201.0
+interventionTotal	398.0
+controlEvent	172.0
+controlTotal	400.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

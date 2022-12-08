@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	472.1 - VAP
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Treatment
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Branson
+interventionEvent	3.0
+interventionTotal	49.0
+controlEvent	3.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Boots
+interventionEvent	6.0
+interventionTotal	42.0
+controlEvent	7.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Kollef
+interventionEvent	15.0
+interventionTotal	163.0
+controlEvent	15.0
+controlTotal	147.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

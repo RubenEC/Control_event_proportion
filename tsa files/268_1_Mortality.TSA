@@ -1,0 +1,324 @@
+#METAANALYSIS BEGIN
+identifier	268_1_Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	experimental
+group2	control
+comment	
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Cerra
+interventionEvent	1.0
+interventionTotal	11.0
+controlEvent	1.0
+controlTotal	9.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Gottschlich
+interventionEvent	2.0
+interventionTotal	17.0
+controlEvent	1.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Daly
+interventionEvent	2.0
+interventionTotal	41.0
+controlEvent	0.0
+controlTotal	44.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Brown
+interventionEvent	0.0
+interventionTotal	19.0
+controlEvent	0.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Moore
+interventionEvent	1.0
+interventionTotal	51.0
+controlEvent	2.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Bower
+interventionEvent	24.0
+interventionTotal	153.0
+controlEvent	12.0
+controlTotal	143.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Daly
+interventionEvent	1.0
+interventionTotal	30.0
+controlEvent	2.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Braga
+interventionEvent	0.0
+interventionTotal	20.0
+controlEvent	0.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Kudsk
+interventionEvent	1.0
+interventionTotal	16.0
+controlEvent	1.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Ross Prod Division
+interventionEvent	20.0
+interventionTotal	87.0
+controlEvent	8.0
+controlTotal	83.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Schilling
+interventionEvent	0.0
+interventionTotal	14.0
+controlEvent	0.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Engel
+interventionEvent	7.0
+interventionTotal	18.0
+controlEvent	5.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Gianotti
+interventionEvent	1.0
+interventionTotal	87.0
+controlEvent	8.0
+controlTotal	87.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Mendez
+interventionEvent	1.0
+interventionTotal	22.0
+controlEvent	1.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Rodrigo
+interventionEvent	2.0
+interventionTotal	16.0
+controlEvent	1.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Senkal
+interventionEvent	3.0
+interventionTotal	77.0
+controlEvent	2.0
+controlTotal	77.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Atkinson
+interventionEvent	95.0
+interventionTotal	197.0
+controlEvent	85.0
+controlTotal	193.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Weiman
+interventionEvent	2.0
+interventionTotal	16.0
+controlEvent	4.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Braga
+interventionEvent	0.0
+interventionTotal	102.0
+controlEvent	1.0
+controlTotal	104.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Senkal
+interventionEvent	0.0
+interventionTotal	78.0
+controlEvent	0.0
+controlTotal	76.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Snyderman
+interventionEvent	0.0
+interventionTotal	82.0
+controlEvent	0.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Galban
+interventionEvent	17.0
+interventionTotal	89.0
+controlEvent	28.0
+controlTotal	87.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#ZCURVE BEGIN
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#ZCURVE END

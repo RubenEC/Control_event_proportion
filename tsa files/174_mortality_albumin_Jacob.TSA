@@ -1,0 +1,318 @@
+#METAANALYSIS BEGIN
+identifier	albumin_Jacob
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	1
+zeroEventHandling	Empirical
+zeroEventValue	0.01
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_ALPHASPENDING_ADJUSTED
+confidenceIntervalAlphaSpendingBoundary	t
+group1	albumin
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1948
+study	McMurray [35]
+interventionEvent	0.0
+interventionTotal	16.0
+controlEvent	2.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1981
+study	Zetterstrom
+interventionEvent	0.0
+interventionTotal	15.0
+controlEvent	1.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Goslinga [40]
+interventionEvent	25.0
+interventionTotal	148.0
+controlEvent	32.0
+controlTotal	152.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Greenough [42]
+interventionEvent	6.0
+interventionTotal	20.0
+controlEvent	4.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Tomita [43]
+interventionEvent	0.0
+interventionTotal	8.0
+controlEvent	1.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Boldt [44]-1
+interventionEvent	3.0
+interventionTotal	15.0
+controlEvent	2.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Boldt [44]-2
+interventionEvent	5.0
+interventionTotal	15.0
+controlEvent	5.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Boldt [45]-1
+interventionEvent	4.0
+interventionTotal	15.0
+controlEvent	3.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Boldt [45]-2
+interventionEvent	5.0
+interventionTotal	15.0
+controlEvent	4.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Boldt [46]-1
+interventionEvent	2.0
+interventionTotal	14.0
+controlEvent	1.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Boldt [46]-2
+interventionEvent	4.0
+interventionTotal	14.0
+controlEvent	5.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Boldt [47]
+interventionEvent	6.0
+interventionTotal	14.0
+controlEvent	8.0
+controlTotal	28.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Boldt [48]-1
+interventionEvent	3.0
+interventionTotal	14.0
+controlEvent	3.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Boldt [48]-2
+interventionEvent	7.0
+interventionTotal	14.0
+controlEvent	6.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Boldt [49]-1
+interventionEvent	14.0
+interventionTotal	75.0
+controlEvent	10.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Boldt [49]-2
+interventionEvent	25.0
+interventionTotal	75.0
+controlEvent	21.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Gentilini [51]
+interventionEvent	1.0
+interventionTotal	63.0
+controlEvent	0.0
+controlTotal	63.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Sort [53]
+interventionEvent	14.0
+interventionTotal	63.0
+controlEvent	26.0
+controlTotal	63.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Fernandez [58]
+interventionEvent	0.0
+interventionTotal	10.0
+controlEvent	1.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Palumbo [59]
+interventionEvent	3.0
+interventionTotal	10.0
+controlEvent	4.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#BOUNDARY BEGIN
+sort	conventional
+identifier	c
+type	103
+type1error	5.0
+#GRAPH BEGIN
+id	c
+color	155	0	0
+graphLineType	Full
+graphIconType	Diamond Fill
+graphIconSize	5
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	t
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	204
+interventionEffect	15.94
+controlEffect	21.25
+timeAxisScaling	303
+heterogeneityCorrection	-1
+heterogeneityCorrectionValue	0.0
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(1948)McMurray [35]	(1981)Zetterstrom	(1992)Goslinga [40]	(1993)Greenough [42]	(1994)Tomita [43]	(1995)Boldt [44]-1	(1995)Boldt [44]-2	(1996)Boldt [45]-1	(1996)Boldt [45]-2	(1996)Boldt [46]-1	(1996)Boldt [46]-2	(1996)Boldt [47]	(1996)Boldt [48]-1	(1996)Boldt [48]-2	(1998)Boldt [49]-1	(1998)Boldt [49]-2	(1999)Gentilini [51]	(1999)Sort [53]	(2005)Fernandez [58]	(2006)Palumbo [59]
+#GRAPH BEGIN
+id	t
+color	255	0	0
+graphLineType	Full
+graphIconType	Diamond Fill
+graphIconSize	5
+doShow	true
+#GRAPH END
+#BOUNDARY END
+

@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	254_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	treatment
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	35
+study	Dellinger
+interventionEvent	35.0
+interventionTotal	120.0
+controlEvent	17.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	37
+study	Troncy
+interventionEvent	9.0
+interventionTotal	15.0
+controlEvent	8.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,11 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# Certain folders
+TSA 0.9.5.10 Beta/
+archive/

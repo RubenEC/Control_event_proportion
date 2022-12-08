@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	374_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Early
+group2	Late
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Trouillet
+interventionEvent	28.0
+interventionTotal	109.0
+controlEvent	30.0
+controlTotal	107.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Zheng
+interventionEvent	13.0
+interventionTotal	58.0
+controlEvent	14.0
+controlTotal	61.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	392_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	drainage
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Kollef
+interventionEvent	6.0
+interventionTotal	160.0
+controlEvent	8.0
+controlTotal	183.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Bouza
+interventionEvent	34.0
+interventionTotal	345.0
+controlEvent	35.0
+controlTotal	369.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Yang
+interventionEvent	32.0
+interventionTotal	48.0
+controlEvent	29.0
+controlTotal	43.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Lacharde
+interventionEvent	80.0
+interventionTotal	169.0
+controlEvent	84.0
+controlTotal	164.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

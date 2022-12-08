@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	696_I_GIBleeding
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	PPI
+group2	Placebo
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Powell
+interventionEvent	0.0
+interventionTotal	20.0
+controlEvent	0.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Kantorova
+interventionEvent	1.0
+interventionTotal	72.0
+controlEvent	1.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Alhazzani
+interventionEvent	3.0
+interventionTotal	49.0
+controlEvent	2.0
+controlTotal	42.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Lin
+interventionEvent	0.0
+interventionTotal	60.0
+controlEvent	1.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Selvanderan
+interventionEvent	0.0
+interventionTotal	106.0
+controlEvent	0.0
+controlTotal	108.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

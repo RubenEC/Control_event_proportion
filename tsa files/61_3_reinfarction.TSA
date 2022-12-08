@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	61_3_reinfarction
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	IABP
+group2	no IABP
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1985
+study	Flaherty
+interventionEvent	0.0
+interventionTotal	10.0
+controlEvent	0.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Ohman
+interventionEvent	3.0
+interventionTotal	96.0
+controlEvent	8.0
+controlTotal	86.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	PAMI II
+interventionEvent	13.0
+interventionTotal	211.0
+controlEvent	18.0
+controlTotal	226.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Vijayalaksmi
+interventionEvent	2.0
+interventionTotal	17.0
+controlEvent	0.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,133 @@
+#METAANALYSIS BEGIN
+identifier	113_2_pneumonia
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	H2RB
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1985
+study	Cheadle
+interventionEvent	13.0
+interventionTotal	98.0
+controlEvent	3.0
+controlTotal	97.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Karlstadt
+interventionEvent	1.0
+interventionTotal	54.0
+controlEvent	0.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Apte
+interventionEvent	13.0
+interventionTotal	16.0
+controlEvent	9.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Martin
+interventionEvent	0.0
+interventionTotal	56.0
+controlEvent	4.0
+controlTotal	61.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Metz
+interventionEvent	12.0
+interventionTotal	84.0
+controlEvent	15.0
+controlTotal	79.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Ben-menachen
+interventionEvent	13.0
+interventionTotal	100.0
+controlEvent	6.0
+controlTotal	100.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Chan
+interventionEvent	18.0
+interventionTotal	52.0
+controlEvent	11.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Hanisch
+interventionEvent	10.0
+interventionTotal	57.0
+controlEvent	12.0
+controlTotal	57.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Kantorova
+interventionEvent	7.0
+interventionTotal	71.0
+controlEvent	5.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

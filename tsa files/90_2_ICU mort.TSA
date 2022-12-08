@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	90_2_ICU mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	SSD
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Mahul
+interventionEvent	17.0
+interventionTotal	70.0
+controlEvent	16.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Valles
+interventionEvent	30.0
+interventionTotal	76.0
+controlEvent	28.0
+controlTotal	77.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Lorente
+interventionEvent	26.0
+interventionTotal	140.0
+controlEvent	32.0
+controlTotal	140.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Bouza
+interventionEvent	22.0
+interventionTotal	331.0
+controlEvent	23.0
+controlTotal	359.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Zheng
+interventionEvent	8.0
+interventionTotal	30.0
+controlEvent	12.0
+controlTotal	31.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Lacherade
+interventionEvent	71.0
+interventionTotal	169.0
+controlEvent	65.0
+controlTotal	164.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	547_II_ClinicalCure
+outcomeType	-1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Favours Combination
+group2	Combination
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Alvarez
+interventionEvent	47.0
+interventionTotal	69.0
+controlEvent	39.0
+controlTotal	71.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Awad
+interventionEvent	24.0
+interventionTotal	104.0
+controlEvent	39.0
+controlTotal	106.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

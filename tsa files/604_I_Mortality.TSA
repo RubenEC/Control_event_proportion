@@ -1,0 +1,159 @@
+#METAANALYSIS BEGIN
+identifier	604_I_Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Albumin
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1983
+study	Rackow
+interventionEvent	5.0
+interventionTotal	7.0
+controlEvent	6.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1984
+study	Metildi
+interventionEvent	10.0
+interventionTotal	12.0
+controlEvent	11.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1989
+study	Rackow
+interventionEvent	5.0
+interventionTotal	10.0
+controlEvent	5.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	SAFE
+interventionEvent	185.0
+interventionTotal	603.0
+controlEvent	217.0
+controlTotal	615.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Veneman
+interventionEvent	5.0
+interventionTotal	8.0
+controlEvent	14.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Friedman
+interventionEvent	5.0
+interventionTotal	15.0
+controlEvent	10.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Dolecek
+interventionEvent	4.0
+interventionTotal	30.0
+controlEvent	6.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Van Der Heijden
+interventionEvent	2.0
+interventionTotal	6.0
+controlEvent	7.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	EARS
+interventionEvent	96.0
+interventionTotal	399.0
+controlEvent	103.0
+controlTotal	393.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Albios
+interventionEvent	285.0
+interventionTotal	903.0
+controlEvent	288.0
+controlTotal	907.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Cristal
+interventionEvent	19.0
+interventionTotal	59.0
+controlEvent	157.0
+controlTotal	557.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

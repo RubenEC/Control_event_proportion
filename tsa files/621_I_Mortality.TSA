@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	621_I_Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Plasmapheresis
+group2	Usual Care
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Reeves
+interventionEvent	3.0
+interventionTotal	9.0
+controlEvent	6.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Busund
+interventionEvent	18.0
+interventionTotal	54.0
+controlEvent	28.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

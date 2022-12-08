@@ -1,0 +1,146 @@
+#METAANALYSIS BEGIN
+identifier	42_2_major or sign GI bleed
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	steroid
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1972
+study	Alexander
+interventionEvent	1.0
+interventionTotal	55.0
+controlEvent	0.0
+controlTotal	55.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1976
+study	Faupel
+interventionEvent	6.0
+interventionTotal	67.0
+controlEvent	1.0
+controlTotal	28.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1979
+study	Cooper
+interventionEvent	0.0
+interventionTotal	49.0
+controlEvent	1.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1979
+study	Hernesniemi
+interventionEvent	3.0
+interventionTotal	81.0
+controlEvent	2.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1983
+study	Braakman
+interventionEvent	1.0
+interventionTotal	81.0
+controlEvent	1.0
+controlTotal	80.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1984
+study	Gianotta
+interventionEvent	1.0
+interventionTotal	72.0
+controlEvent	0.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1989
+study	Stubbs
+interventionEvent	2.0
+interventionTotal	98.0
+controlEvent	2.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Gaab
+interventionEvent	3.0
+interventionTotal	147.0
+controlEvent	2.0
+controlTotal	151.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Grumme
+interventionEvent	1.0
+interventionTotal	187.0
+controlEvent	3.0
+controlTotal	209.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	CRASH
+interventionEvent	77.0
+interventionTotal	4885.0
+controlEvent	61.0
+controlTotal	4877.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

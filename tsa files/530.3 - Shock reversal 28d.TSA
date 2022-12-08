@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	530.3 - Shock reversal 28d
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Treatment
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Bollaert
+interventionEvent	15.0
+interventionTotal	22.0
+controlEvent	7.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Briegel
+interventionEvent	18.0
+interventionTotal	20.0
+controlEvent	16.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Chawla
+interventionEvent	17.0
+interventionTotal	23.0
+controlEvent	10.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Annane
+interventionEvent	67.0
+interventionTotal	151.0
+controlEvent	57.0
+controlTotal	149.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Tanndan
+interventionEvent	5.0
+interventionTotal	14.0
+controlEvent	3.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Sprung
+interventionEvent	200.0
+interventionTotal	251.0
+controlEvent	183.0
+controlTotal	248.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

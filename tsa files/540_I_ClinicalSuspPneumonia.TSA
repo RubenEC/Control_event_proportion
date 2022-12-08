@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	540_I_ClinicalSuspPneumonia
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Semirecumbent position
+group2	supine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Drakulovic
+interventionEvent	3.0
+interventionTotal	39.0
+controlEvent	16.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Cai
+interventionEvent	4.0
+interventionTotal	27.0
+controlEvent	13.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Van Niewenhoven
+interventionEvent	16.0
+interventionTotal	112.0
+controlEvent	20.0
+controlTotal	109.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Wu
+interventionEvent	11.0
+interventionTotal	56.0
+controlEvent	48.0
+controlTotal	56.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Hang
+interventionEvent	3.0
+interventionTotal	20.0
+controlEvent	9.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Hu
+interventionEvent	8.0
+interventionTotal	43.0
+controlEvent	21.0
+controlTotal	43.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Xue
+interventionEvent	4.0
+interventionTotal	48.0
+controlEvent	12.0
+controlTotal	48.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Yu
+interventionEvent	5.0
+interventionTotal	33.0
+controlEvent	14.0
+controlTotal	32.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

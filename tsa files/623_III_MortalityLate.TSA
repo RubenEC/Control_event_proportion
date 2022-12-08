@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	623_III_MortalityLate
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	GDT
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	17
+study	Yu
+interventionEvent	4.0
+interventionTotal	30.0
+controlEvent	6.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	18
+study	Hayes
+interventionEvent	17.0
+interventionTotal	24.0
+controlEvent	12.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	19
+study	Gattinoni
+interventionEvent	84.0
+interventionTotal	124.0
+controlEvent	37.0
+controlTotal	57.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	20
+study	Yu
+interventionEvent	15.0
+interventionTotal	58.0
+controlEvent	15.0
+controlTotal	29.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	21
+study	Alia
+interventionEvent	23.0
+interventionTotal	31.0
+controlEvent	21.0
+controlTotal	32.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	23
+study	Wang
+interventionEvent	4.0
+interventionTotal	16.0
+controlEvent	7.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

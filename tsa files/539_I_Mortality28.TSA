@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	539_I_Mortality28
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Intenvention
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Meade
+interventionEvent	135.0
+interventionTotal	475.0
+controlEvent	164.0
+controlTotal	508.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Huh
+interventionEvent	12.0
+interventionTotal	30.0
+controlEvent	9.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Xi
+interventionEvent	16.0
+interventionTotal	55.0
+controlEvent	24.0
+controlTotal	55.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Liu
+interventionEvent	14.0
+interventionTotal	50.0
+controlEvent	17.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Kacmarek
+interventionEvent	22.0
+interventionTotal	99.0
+controlEvent	27.0
+controlTotal	101.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

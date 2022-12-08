@@ -1,0 +1,107 @@
+#METAANALYSIS BEGIN
+identifier	128_1_bleeding
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	PPI
+group2	H2RA
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Powell
+interventionEvent	0.0
+interventionTotal	20.0
+controlEvent	0.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Levy
+interventionEvent	2.0
+interventionTotal	32.0
+controlEvent	11.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Phillips
+interventionEvent	1.0
+interventionTotal	33.0
+controlEvent	4.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Azevedo
+interventionEvent	0.0
+interventionTotal	38.0
+controlEvent	4.0
+controlTotal	38.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	5
+study	Kantorova
+interventionEvent	1.0
+interventionTotal	72.0
+controlEvent	2.0
+controlTotal	71.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	6
+study	Conrad
+interventionEvent	7.0
+interventionTotal	178.0
+controlEvent	10.0
+controlTotal	181.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	7
+study	Somberg
+interventionEvent	0.0
+interventionTotal	167.0
+controlEvent	0.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

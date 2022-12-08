@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	350_II
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Heparin
+group2	Placebo
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Fraisse
+interventionEvent	6.0
+interventionTotal	108.0
+controlEvent	3.0
+controlTotal	113.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Shorr
+interventionEvent	38.0
+interventionTotal	976.0
+controlEvent	50.0
+controlTotal	959.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

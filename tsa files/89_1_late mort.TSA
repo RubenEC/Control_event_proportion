@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	89_1_late mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	IIT
+group2	CIT
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	van den Berghe
+interventionEvent	16.0
+interventionTotal	33.0
+controlEvent	9.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Bilotta
+interventionEvent	6.0
+interventionTotal	40.0
+controlEvent	7.0
+controlTotal	38.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Bilotta
+interventionEvent	5.0
+interventionTotal	48.0
+controlEvent	6.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Bruno
+interventionEvent	2.0
+interventionTotal	31.0
+controlEvent	0.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Bilotta
+interventionEvent	68.0
+interventionTotal	241.0
+controlEvent	63.0
+controlTotal	242.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Johnston
+interventionEvent	3.0
+interventionTotal	24.0
+controlEvent	1.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Yang
+interventionEvent	61.0
+interventionTotal	121.0
+controlEvent	62.0
+controlTotal	119.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Coester
+interventionEvent	11.0
+interventionTotal	39.0
+controlEvent	11.0
+controlTotal	40.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

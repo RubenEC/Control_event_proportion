@@ -1,0 +1,107 @@
+#METAANALYSIS BEGIN
+identifier	713_I_Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Citrate
+group2	Heparin
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Kutsogiannis
+interventionEvent	13.0
+interventionTotal	16.0
+controlEvent	10.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Oudemans
+interventionEvent	47.0
+interventionTotal	97.0
+controlEvent	65.0
+controlTotal	103.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Hetzel
+interventionEvent	47.0
+interventionTotal	87.0
+controlEvent	41.0
+controlTotal	83.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Brain
+interventionEvent	7.0
+interventionTotal	19.0
+controlEvent	3.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Schilder
+interventionEvent	27.0
+interventionTotal	65.0
+controlEvent	29.0
+controlTotal	69.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Gattas
+interventionEvent	28.0
+interventionTotal	105.0
+controlEvent	25.0
+controlTotal	107.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Stucker
+interventionEvent	14.0
+interventionTotal	54.0
+controlEvent	13.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

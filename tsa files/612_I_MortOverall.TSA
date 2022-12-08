@@ -1,0 +1,146 @@
+#METAANALYSIS BEGIN
+identifier	612_I_MortOverall
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	EGDT
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Rivers
+interventionEvent	50.0
+interventionTotal	130.0
+controlEvent	70.0
+controlTotal	133.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Lin
+interventionEvent	53.0
+interventionTotal	108.0
+controlEvent	83.0
+controlTotal	116.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Wang
+interventionEvent	6.0
+interventionTotal	16.0
+controlEvent	9.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Jing
+interventionEvent	57.0
+interventionTotal	159.0
+controlEvent	76.0
+controlTotal	148.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Jones
+interventionEvent	34.0
+interventionTotal	150.0
+controlEvent	25.0
+controlTotal	150.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Yu
+interventionEvent	7.0
+interventionTotal	25.0
+controlEvent	5.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Andrews
+interventionEvent	35.0
+interventionTotal	49.0
+controlEvent	36.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	ARISE
+interventionEvent	147.0
+interventionTotal	792.0
+controlEvent	150.0
+controlTotal	796.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	PROCESS
+interventionEvent	257.0
+interventionTotal	820.0
+controlEvent	139.0
+controlTotal	412.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Wang
+interventionEvent	17.0
+interventionTotal	31.0
+controlEvent	7.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

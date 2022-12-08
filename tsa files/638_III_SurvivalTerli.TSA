@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	638_III_SurvivalTerli
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Terlipressin
+group2	Norepinephrine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Albanese
+interventionEvent	5.0
+interventionTotal	10.0
+controlEvent	4.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Moreli
+interventionEvent	12.0
+interventionTotal	19.0
+controlEvent	14.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Moreli
+interventionEvent	7.0
+interventionTotal	15.0
+controlEvent	10.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

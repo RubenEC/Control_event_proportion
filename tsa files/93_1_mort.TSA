@@ -1,0 +1,172 @@
+#METAANALYSIS BEGIN
+identifier	93_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	treatment
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Sander
+interventionEvent	11.0
+interventionTotal	15.0
+controlEvent	12.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Ronco
+interventionEvent	22.0
+interventionTotal	32.0
+controlEvent	15.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Bauman
+interventionEvent	8.0
+interventionTotal	14.0
+controlEvent	4.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Cole
+interventionEvent	4.0
+interventionTotal	12.0
+controlEvent	4.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Morgera
+interventionEvent	8.0
+interventionTotal	12.0
+controlEvent	4.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Ghani
+interventionEvent	11.0
+interventionTotal	15.0
+controlEvent	15.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Saudan
+interventionEvent	7.0
+interventionTotal	37.0
+controlEvent	21.0
+controlTotal	34.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	ATN
+interventionEvent	204.0
+interventionTotal	358.0
+controlEvent	184.0
+controlTotal	350.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Boussekey
+interventionEvent	3.0
+interventionTotal	9.0
+controlEvent	6.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Tolwani
+interventionEvent	37.0
+interventionTotal	54.0
+controlEvent	34.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Payen
+interventionEvent	22.0
+interventionTotal	39.0
+controlEvent	17.0
+controlTotal	39.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	RENAL
+interventionEvent	168.0
+interventionTotal	359.0
+controlEvent	186.0
+controlTotal	363.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

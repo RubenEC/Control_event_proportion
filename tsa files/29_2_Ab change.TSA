@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	29_2_AB change
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	quantitative
+group2	qualitative
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Sol Viol
+interventionEvent	15.0
+interventionTotal	45.0
+controlEvent	5.0
+controlTotal	43.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	CCCTG
+interventionEvent	271.0
+interventionTotal	365.0
+controlEvent	279.0
+controlTotal	374.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

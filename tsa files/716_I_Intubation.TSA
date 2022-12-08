@@ -1,0 +1,185 @@
+#METAANALYSIS BEGIN
+identifier	716_I_Intubation
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	HFNC
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Nicolet
+interventionEvent	3.0
+interventionTotal	19.0
+controlEvent	1.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Parke
+interventionEvent	0.0
+interventionTotal	29.0
+controlEvent	0.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Maggiore
+interventionEvent	2.0
+interventionTotal	53.0
+controlEvent	11.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Bell
+interventionEvent	0.0
+interventionTotal	48.0
+controlEvent	1.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Corley
+interventionEvent	0.0
+interventionTotal	81.0
+controlEvent	2.0
+controlTotal	74.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Frat
+interventionEvent	40.0
+interventionTotal	106.0
+controlEvent	44.0
+controlTotal	94.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Fratb
+interventionEvent	40.0
+interventionTotal	106.0
+controlEvent	55.0
+controlTotal	110.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Lemiale
+interventionEvent	4.0
+interventionTotal	52.0
+controlEvent	2.0
+controlTotal	48.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Rittamayamai
+interventionEvent	0.0
+interventionTotal	20.0
+controlEvent	0.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Hernandez
+interventionEvent	13.0
+interventionTotal	264.0
+controlEvent	32.0
+controlTotal	263.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Hernandeza
+interventionEvent	66.0
+interventionTotal	290.0
+controlEvent	60.0
+controlTotal	314.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Jones
+interventionEvent	1.0
+interventionTotal	165.0
+controlEvent	3.0
+controlTotal	38.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Stephan
+interventionEvent	58.0
+interventionTotal	414.0
+controlEvent	57.0
+controlTotal	416.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

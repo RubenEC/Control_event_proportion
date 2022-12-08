@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	707_III_MortGOS
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	ESA
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Roberston
+interventionEvent	34.0
+interventionTotal	92.0
+controlEvent	34.0
+controlTotal	89.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Nichol
+interventionEvent	168.0
+interventionTotal	302.0
+controlEvent	162.0
+controlTotal	294.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

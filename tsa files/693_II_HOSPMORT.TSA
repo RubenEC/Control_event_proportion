@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	693_II_HOSPMORT
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	NPPV
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	16
+study	Antonelli
+interventionEvent	7.0
+interventionTotal	20.0
+controlEvent	11.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	24
+study	Zhan
+interventionEvent	1.0
+interventionTotal	21.0
+controlEvent	5.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	27
+study	Confalonieri
+interventionEvent	7.0
+interventionTotal	28.0
+controlEvent	6.0
+controlTotal	28.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	29
+study	Wood
+interventionEvent	4.0
+interventionTotal	16.0
+controlEvent	0.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	34
+study	Auriant
+interventionEvent	3.0
+interventionTotal	24.0
+controlEvent	9.0
+controlTotal	24.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

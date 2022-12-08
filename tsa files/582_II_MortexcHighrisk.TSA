@@ -1,0 +1,159 @@
+#METAANALYSIS BEGIN
+identifier	582_II_MortexcHighrisk
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	HES
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Palumbo
+interventionEvent	4.0
+interventionTotal	10.0
+controlEvent	3.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Dolecek
+interventionEvent	6.0
+interventionTotal	20.0
+controlEvent	4.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Dubin
+interventionEvent	2.0
+interventionTotal	12.0
+controlEvent	7.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Gondos
+interventionEvent	13.0
+interventionTotal	24.0
+controlEvent	11.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Zhu
+interventionEvent	2.0
+interventionTotal	45.0
+controlEvent	4.0
+controlTotal	45.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Guidet
+interventionEvent	40.0
+interventionTotal	100.0
+controlEvent	32.0
+controlTotal	96.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Lv
+interventionEvent	7.0
+interventionTotal	22.0
+controlEvent	12.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Myburgh
+interventionEvent	248.0
+interventionTotal	979.0
+controlEvent	224.0
+controlTotal	956.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Perner
+interventionEvent	201.0
+interventionTotal	398.0
+controlEvent	172.0
+controlTotal	400.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Siegemund
+interventionEvent	44.0
+interventionTotal	117.0
+controlEvent	50.0
+controlTotal	124.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Annane
+interventionEvent	120.0
+interventionTotal	375.0
+controlEvent	213.0
+controlTotal	594.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

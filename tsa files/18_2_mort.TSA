@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	18_2_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	CTSS
+group2	OTSS
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Deppe
+interventionEvent	12.0
+interventionTotal	46.0
+controlEvent	11.0
+controlTotal	38.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Combes
+interventionEvent	14.0
+interventionTotal	54.0
+controlEvent	14.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Topeli
+interventionEvent	27.0
+interventionTotal	41.0
+controlEvent	25.0
+controlTotal	37.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Lorente
+interventionEvent	52.0
+interventionTotal	210.0
+controlEvent	50.0
+controlTotal	233.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Lorente
+interventionEvent	31.0
+interventionTotal	236.0
+controlEvent	30.0
+controlTotal	221.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

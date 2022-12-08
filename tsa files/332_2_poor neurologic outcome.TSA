@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	332_2_poor neurologic outcome
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	treatment
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Mori
+interventionEvent	18.0
+interventionTotal	36.0
+controlEvent	16.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Hachimi-Idrissi
+interventionEvent	14.0
+interventionTotal	16.0
+controlEvent	14.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Bernard
+interventionEvent	22.0
+interventionTotal	43.0
+controlEvent	25.0
+controlTotal	34.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	HACA
+interventionEvent	61.0
+interventionTotal	136.0
+controlEvent	83.0
+controlTotal	137.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

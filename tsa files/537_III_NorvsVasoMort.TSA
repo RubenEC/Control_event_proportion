@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	537_III_NorvsVasoMort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Norepinephrine
+group2	Vasopressin
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Lauzier
+interventionEvent	1.0
+interventionTotal	10.0
+controlEvent	2.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Luckner
+interventionEvent	7.0
+interventionTotal	8.0
+controlEvent	8.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Russell
+interventionEvent	188.0
+interventionTotal	379.0
+controlEvent	172.0
+controlTotal	392.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

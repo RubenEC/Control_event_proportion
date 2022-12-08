@@ -1,0 +1,214 @@
+#METAANALYSIS BEGIN
+identifier	544_I_Mortality
+outcomeType	1
+trialType	1
+effectModel	11
+effectMeasure	1
+zeroEventHandling	Empirical
+zeroEventValue	0.01
+ignoreZeroEventsTrials	false
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	PT
+group2	ST
+comment	
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Dialog,name=java.awt.Font[family=Serif,name=Serif,style=plain,size=12],style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Porter
+interventionEvent	1.0
+interventionTotal	12.0
+controlEvent	0.0
+controlTotal	12.0
+isHighQuality	true
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Freeman
+interventionEvent	0.0
+interventionTotal	40.0
+controlEvent	1.0
+controlTotal	40.0
+isHighQuality	true
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Massick
+interventionEvent	1.0
+interventionTotal	50.0
+controlEvent	0.0
+controlTotal	50.0
+isHighQuality	true
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#BOUNDARY BEGIN
+sort	conventional
+identifier	coon
+type	103
+type1error	5.0
+#GRAPH BEGIN
+id	coon
+color	155	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	rr25d25
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	204
+interventionEffect	0.73
+controlEffect	0.98
+relativeRiskReduction	25.0
+timeAxisScaling	302
+heterogeneityCorrection	404
+heterogeneityCorrectionValue	0.25
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(1999)Porter	(2001)Freeman	(2001)Massick
+#GRAPH BEGIN
+id	rr25d25
+color	255	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	rr25dest
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	204
+interventionEffect	0.73
+controlEffect	0.98
+relativeRiskReduction	25.0
+timeAxisScaling	302
+heterogeneityCorrection	401
+heterogeneityCorrectionValue	0.0
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(1999)Porter	(2001)Freeman	(2001)Massick
+#GRAPH BEGIN
+id	rr25dest
+color	255	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	rrestdest
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	205
+interventionEffect	1.95
+controlEffect	0.98
+relativeRiskReduction	-486.14
+timeAxisScaling	302
+heterogeneityCorrection	401
+heterogeneityCorrectionValue	0.0
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(1999)Porter	(2001)Freeman	(2001)Massick
+#GRAPH BEGIN
+id	rrestdest
+color	255	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	rrestd25
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	205
+interventionEffect	1.95
+controlEffect	0.98
+relativeRiskReduction	-486.14
+timeAxisScaling	302
+heterogeneityCorrection	404
+heterogeneityCorrectionValue	0.25
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(1999)Porter	(2001)Freeman	(2001)Massick
+#GRAPH BEGIN
+id	rrestd25
+color	255	0	0
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Diamond Fill
+graphIconSize	6
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#ZCURVE BEGIN
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Dialog,name=java.awt.Font[family=Serif,name=Serif,style=plain,size=12],style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#ZCURVE END

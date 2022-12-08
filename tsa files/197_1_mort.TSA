@@ -1,0 +1,133 @@
+#METAANALYSIS BEGIN
+identifier	197_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	NO
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Dellinger
+interventionEvent	35.0
+interventionTotal	120.0
+controlEvent	17.0
+controlTotal	57.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Michael
+interventionEvent	11.0
+interventionTotal	20.0
+controlEvent	9.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	5
+study	Troncy
+interventionEvent	9.0
+interventionTotal	15.0
+controlEvent	8.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	7
+study	Lundin
+interventionEvent	41.0
+interventionTotal	93.0
+controlEvent	35.0
+controlTotal	87.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	8
+study	Payen
+interventionEvent	48.0
+interventionTotal	98.0
+controlEvent	46.0
+controlTotal	105.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	9
+study	Mehta
+interventionEvent	4.0
+interventionTotal	8.0
+controlEvent	2.0
+controlTotal	6.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	10
+study	Gerlach
+interventionEvent	3.0
+interventionTotal	20.0
+controlEvent	4.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	11
+study	Park
+interventionEvent	4.0
+interventionTotal	11.0
+controlEvent	2.0
+controlTotal	6.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	12
+study	Taylor
+interventionEvent	44.0
+interventionTotal	192.0
+controlEvent	39.0
+controlTotal	193.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	124_3
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	dexmed
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Herr
+interventionEvent	5.0
+interventionTotal	148.0
+controlEvent	1.0
+controlTotal	147.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Martin
+interventionEvent	2.0
+interventionTotal	203.0
+controlEvent	6.0
+controlTotal	198.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Corbett
+interventionEvent	1.0
+interventionTotal	43.0
+controlEvent	1.0
+controlTotal	46.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Pandharipande
+interventionEvent	41.0
+interventionTotal	52.0
+controlEvent	42.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Maldonado
+interventionEvent	4.0
+interventionTotal	40.0
+controlEvent	33.0
+controlTotal	76.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Riker
+interventionEvent	132.0
+interventionTotal	244.0
+controlEvent	93.0
+controlTotal	122.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Ruokonen
+interventionEvent	18.0
+interventionTotal	41.0
+controlEvent	11.0
+controlTotal	44.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Shehabi
+interventionEvent	13.0
+interventionTotal	152.0
+controlEvent	22.0
+controlTotal	147.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

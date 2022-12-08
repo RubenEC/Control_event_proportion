@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	245_2_infectious complication
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	EN+PN
+group2	EN
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Chiarelli
+interventionEvent	6.0
+interventionTotal	12.0
+controlEvent	3.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Bauer
+interventionEvent	39.0
+interventionTotal	60.0
+controlEvent	39.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

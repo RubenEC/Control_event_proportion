@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	382_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	SmartCare
+group2	Non automated
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Lellouche
+interventionEvent	13.0
+interventionTotal	74.0
+controlEvent	11.0
+controlTotal	70.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Ma
+interventionEvent	17.0
+interventionTotal	30.0
+controlEvent	20.0
+controlTotal	32.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Burns a
+interventionEvent	5.0
+interventionTotal	49.0
+controlEvent	6.0
+controlTotal	43.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Liu
+interventionEvent	5.0
+interventionTotal	19.0
+controlEvent	9.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	128_3_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	PPI
+group2	H2RA
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Levy
+interventionEvent	11.0
+interventionTotal	32.0
+controlEvent	12.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Kantorova
+interventionEvent	9.0
+interventionTotal	72.0
+controlEvent	10.0
+controlTotal	71.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Conrad
+interventionEvent	27.0
+interventionTotal	178.0
+controlEvent	21.0
+controlTotal	181.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	60_3_pneumonia postsurgery
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	treatment
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Bohner
+interventionEvent	2.0
+interventionTotal	99.0
+controlEvent	5.0
+controlTotal	105.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Kindgen
+interventionEvent	1.0
+interventionTotal	105.0
+controlEvent	3.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Squadrone
+interventionEvent	0.0
+interventionTotal	25.0
+controlEvent	3.0
+controlTotal	104.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Zarbock
+interventionEvent	1.0
+interventionTotal	232.0
+controlEvent	5.0
+controlTotal	236.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

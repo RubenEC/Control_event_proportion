@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	253_1_CRBSI
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	single-lumen
+group2	multi-lumen
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	9
+study	Farkas
+interventionEvent	5.0
+interventionTotal	68.0
+controlEvent	5.0
+controlTotal	61.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	12
+study	Powell
+interventionEvent	2.0
+interventionTotal	22.0
+controlEvent	0.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	16
+study	Clark-Cristoff
+interventionEvent	2.0
+interventionTotal	78.0
+controlEvent	13.0
+controlTotal	99.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	17
+study	Johnson
+interventionEvent	0.0
+interventionTotal	48.0
+controlEvent	0.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	20
+study	McCarthy
+interventionEvent	0.0
+interventionTotal	36.0
+controlEvent	4.0
+controlTotal	39.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

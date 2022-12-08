@@ -1,0 +1,172 @@
+#METAANALYSIS BEGIN
+identifier	267_infections
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	early
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1979
+study	Sagar
+interventionEvent	3.0
+interventionTotal	15.0
+controlEvent	5.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1984
+study	Seri
+interventionEvent	1.0
+interventionTotal	10.0
+controlEvent	2.0
+controlTotal	8.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1986
+study	Moore
+interventionEvent	3.0
+interventionTotal	32.0
+controlEvent	9.0
+controlTotal	31.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1989
+study	Grahm
+interventionEvent	3.0
+interventionTotal	17.0
+controlEvent	14.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Chiarelli
+interventionEvent	3.0
+interventionTotal	10.0
+controlEvent	7.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Schroeder
+interventionEvent	1.0
+interventionTotal	16.0
+controlEvent	0.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Hasse
+interventionEvent	3.0
+interventionTotal	14.0
+controlEvent	8.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	beier-holgersen
+interventionEvent	2.0
+interventionTotal	30.0
+controlEvent	14.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Carr
+interventionEvent	0.0
+interventionTotal	14.0
+controlEvent	3.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Heslin
+interventionEvent	6.0
+interventionTotal	81.0
+controlEvent	6.0
+controlTotal	83.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Singh
+interventionEvent	8.0
+interventionTotal	21.0
+controlEvent	22.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Taylor
+interventionEvent	25.0
+interventionTotal	41.0
+controlEvent	35.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

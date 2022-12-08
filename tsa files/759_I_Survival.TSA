@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	759_I_survival
+outcomeType	-1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	hypothermia
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Hachimi-Idrissi
+interventionEvent	4.0
+interventionTotal	16.0
+controlEvent	2.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Laurent
+interventionEvent	1.0
+interventionTotal	6.0
+controlEvent	0.0
+controlTotal	5.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

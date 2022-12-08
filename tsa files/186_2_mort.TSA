@@ -1,0 +1,159 @@
+#METAANALYSIS BEGIN
+identifier	186_2_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	HME
+group2	HH
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	11
+study	Martin
+interventionEvent	7.0
+interventionTotal	31.0
+controlEvent	11.0
+controlTotal	42.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	12
+study	Roustan
+interventionEvent	10.0
+interventionTotal	55.0
+controlEvent	15.0
+controlTotal	61.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	13
+study	Dreyfuss
+interventionEvent	17.0
+interventionTotal	61.0
+controlEvent	12.0
+controlTotal	70.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	16
+study	Kollef
+interventionEvent	40.0
+interventionTotal	163.0
+controlEvent	39.0
+controlTotal	147.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	18
+study	Boots
+interventionEvent	13.0
+interventionTotal	75.0
+controlEvent	4.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	19
+study	Memish
+interventionEvent	40.0
+interventionTotal	123.0
+controlEvent	30.0
+controlTotal	120.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	21
+study	Lacherade
+interventionEvent	60.0
+interventionTotal	185.0
+controlEvent	63.0
+controlTotal	184.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	22
+study	Boots-2
+interventionEvent	29.0
+interventionTotal	190.0
+controlEvent	34.0
+controlTotal	191.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	23
+study	Lorente
+interventionEvent	13.0
+interventionTotal	53.0
+controlEvent	12.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	27
+study	Misset
+interventionEvent	13.0
+interventionTotal	30.0
+controlEvent	16.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	28
+study	Hurni
+interventionEvent	17.0
+interventionTotal	59.0
+controlEvent	19.0
+controlTotal	56.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

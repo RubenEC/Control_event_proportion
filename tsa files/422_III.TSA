@@ -1,0 +1,172 @@
+#METAANALYSIS BEGIN
+identifier	422_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Favours experimental
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	26
+study	Fourrier
+interventionEvent	5.0
+interventionTotal	30.0
+controlEvent	15.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	28
+study	Chua
+interventionEvent	6.0
+interventionTotal	22.0
+controlEvent	8.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	29
+study	Fourrier
+interventionEvent	13.0
+interventionTotal	114.0
+controlEvent	12.0
+controlTotal	114.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	30
+study	Bopp
+interventionEvent	0.0
+interventionTotal	2.0
+controlEvent	1.0
+controlTotal	3.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	31
+study	Koeman
+interventionEvent	13.0
+interventionTotal	127.0
+controlEvent	23.0
+controlTotal	130.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	33
+study	Seguin
+interventionEvent	3.0
+interventionTotal	36.0
+controlEvent	25.0
+controlTotal	62.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	34
+study	Tantipong
+interventionEvent	5.0
+interventionTotal	58.0
+controlEvent	10.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	35
+study	Bellissimo Rodrigues
+interventionEvent	16.0
+interventionTotal	64.0
+controlEvent	17.0
+controlTotal	69.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	36
+study	Panchabhai
+interventionEvent	14.0
+interventionTotal	88.0
+controlEvent	15.0
+controlTotal	83.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	37
+study	Scannapieco
+interventionEvent	7.0
+interventionTotal	58.0
+controlEvent	12.0
+controlTotal	59.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	38
+study	Berry
+interventionEvent	4.0
+interventionTotal	71.0
+controlEvent	1.0
+controlTotal	78.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	39
+study	Grap
+interventionEvent	7.0
+interventionTotal	21.0
+controlEvent	10.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

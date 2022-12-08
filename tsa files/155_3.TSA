@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	155_3_SAE
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	steroid
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Courtney
+interventionEvent	1.0
+interventionTotal	23.0
+controlEvent	1.0
+controlTotal	28.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Francois
+interventionEvent	1.0
+interventionTotal	381.0
+controlEvent	0.0
+controlTotal	380.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

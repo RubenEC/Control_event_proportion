@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	388_II
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	IIT
+group2	CIT
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Van Den Berghe
+interventionEvent	40.0
+interventionTotal	765.0
+controlEvent	52.0
+controlTotal	783.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Hermans
+interventionEvent	179.0
+interventionTotal	595.0
+controlEvent	185.0
+controlTotal	605.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

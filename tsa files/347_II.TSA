@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	347_2
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	false
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	small bowel
+group2	gastric
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Kortbeek
+interventionEvent	10.0
+interventionTotal	37.0
+controlEvent	18.0
+controlTotal	43.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Kearns
+interventionEvent	4.0
+interventionTotal	21.0
+controlEvent	3.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Montejo
+interventionEvent	16.0
+interventionTotal	50.0
+controlEvent	20.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Hsu
+interventionEvent	0.0
+interventionTotal	59.0
+controlEvent	0.0
+controlTotal	62.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	White
+interventionEvent	5.0
+interventionTotal	50.0
+controlEvent	11.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Acosta-Escribano
+interventionEvent	11.0
+interventionTotal	50.0
+controlEvent	27.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Davies
+interventionEvent	18.0
+interventionTotal	91.0
+controlEvent	19.0
+controlTotal	89.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Huang
+interventionEvent	5.0
+interventionTotal	50.0
+controlEvent	9.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

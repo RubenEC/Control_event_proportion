@@ -1,0 +1,133 @@
+#METAANALYSIS BEGIN
+identifier	590_I_AKI
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Intervention
+group2	contorl
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	9
+study	Corwin
+interventionEvent	20.0
+interventionTotal	650.0
+controlEvent	19.0
+controlTotal	652.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	10
+study	Napolitano
+interventionEvent	4.0
+interventionTotal	402.0
+controlEvent	3.0
+controlTotal	391.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	11
+study	Endre
+interventionEvent	43.0
+interventionTotal	61.0
+controlEvent	23.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	12
+study	Yoo
+interventionEvent	9.0
+interventionTotal	37.0
+controlEvent	19.0
+controlTotal	37.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	13
+study	Oh
+interventionEvent	7.0
+interventionTotal	36.0
+controlEvent	14.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	14
+study	de Seigneux
+interventionEvent	11.0
+interventionTotal	40.0
+controlEvent	7.0
+controlTotal	40.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	16
+study	Kim
+interventionEvent	17.0
+interventionTotal	49.0
+controlEvent	16.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	17
+study	Kim
+interventionEvent	17.0
+interventionTotal	31.0
+controlEvent	12.0
+controlTotal	32.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	18
+study	Dardashti
+interventionEvent	12.0
+interventionTotal	35.0
+controlEvent	10.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

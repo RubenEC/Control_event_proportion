@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	70_3_mild complication
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	MDT
+group2	GWDF
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Ambesh
+interventionEvent	8.0
+interventionTotal	40.0
+controlEvent	11.0
+controlTotal	40.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	van Heurn
+interventionEvent	7.0
+interventionTotal	63.0
+controlEvent	18.0
+controlTotal	64.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Kaiser
+interventionEvent	31.0
+interventionTotal	48.0
+controlEvent	9.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Yurtseven
+interventionEvent	9.0
+interventionTotal	22.0
+controlEvent	9.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	695_III_VAP
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	CHG bathing
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Bleasdale
+interventionEvent	1813.0
+interventionTotal	2708.0
+controlEvent	15.0
+controlTotal	2202.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Noto
+interventionEvent	20.0
+interventionTotal	19202.0
+controlEvent	32.0
+controlTotal	20721.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

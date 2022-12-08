@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	443_I
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Antipyretic therapy
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Gozzoli
+interventionEvent	2.0
+interventionTotal	18.0
+controlEvent	3.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Schulman
+interventionEvent	7.0
+interventionTotal	44.0
+controlEvent	1.0
+controlTotal	38.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Morris
+interventionEvent	5.0
+interventionTotal	40.0
+controlEvent	1.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Niven
+interventionEvent	3.0
+interventionTotal	14.0
+controlEvent	2.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Schortgein
+interventionEvent	35.0
+interventionTotal	101.0
+controlEvent	43.0
+controlTotal	99.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

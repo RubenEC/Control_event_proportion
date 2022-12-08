@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	313_3_mort ICU
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	probiotics
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Klarin
+interventionEvent	5.0
+interventionTotal	23.0
+controlEvent	4.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Knight
+interventionEvent	28.0
+interventionTotal	130.0
+controlEvent	34.0
+controlTotal	129.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Barraud
+interventionEvent	21.0
+interventionTotal	87.0
+controlEvent	21.0
+controlTotal	80.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Oudhuis
+interventionEvent	35.0
+interventionTotal	130.0
+controlEvent	32.0
+controlTotal	124.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

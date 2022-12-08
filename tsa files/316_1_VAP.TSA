@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	316_1_VAP
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	chlorhexidine
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	De Riso
+interventionEvent	3.0
+interventionTotal	173.0
+controlEvent	9.0
+controlTotal	180.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Fourrier
+interventionEvent	5.0
+interventionTotal	30.0
+controlEvent	15.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Houston
+interventionEvent	4.0
+interventionTotal	270.0
+controlEvent	9.0
+controlTotal	291.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Fourrier
+interventionEvent	13.0
+interventionTotal	114.0
+controlEvent	12.0
+controlTotal	114.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Koeman
+interventionEvent	13.0
+interventionTotal	127.0
+controlEvent	23.0
+controlTotal	130.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Tantipong
+interventionEvent	5.0
+interventionTotal	102.0
+controlEvent	12.0
+controlTotal	105.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Pobo
+interventionEvent	18.0
+interventionTotal	73.0
+controlEvent	15.0
+controlTotal	74.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Scannapieco
+interventionEvent	7.0
+interventionTotal	58.0
+controlEvent	12.0
+controlTotal	59.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

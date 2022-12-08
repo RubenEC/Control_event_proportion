@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	80_3_neurologic
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	IIT
+group2	CIT
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Azevedo
+interventionEvent	9.0
+interventionTotal	31.0
+controlEvent	5.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Bilotta
+interventionEvent	134.0
+interventionTotal	241.0
+controlEvent	139.0
+controlTotal	242.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Yang
+interventionEvent	83.0
+interventionTotal	117.0
+controlEvent	90.0
+controlTotal	116.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Coester
+interventionEvent	23.0
+interventionTotal	39.0
+controlEvent	27.0
+controlTotal	40.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Green
+interventionEvent	32.0
+interventionTotal	45.0
+controlEvent	24.0
+controlTotal	36.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

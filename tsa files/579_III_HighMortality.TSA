@@ -1,0 +1,172 @@
+#METAANALYSIS BEGIN
+identifier	579_III_HighMortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	AOX
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Andrews
+interventionEvent	84.0
+interventionTotal	251.0
+controlEvent	84.0
+controlTotal	251.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Angstwurm
+interventionEvent	7.0
+interventionTotal	21.0
+controlEvent	11.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Crimi
+interventionEvent	49.0
+interventionTotal	112.0
+controlEvent	76.0
+controlTotal	112.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Forceville
+interventionEvent	14.0
+interventionTotal	31.0
+controlEvent	13.0
+controlTotal	29.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	5
+study	Kuklinski
+interventionEvent	0.0
+interventionTotal	8.0
+controlEvent	8.0
+controlTotal	9.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	6
+study	Mishra
+interventionEvent	11.0
+interventionTotal	18.0
+controlEvent	15.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	7
+study	Schneider
+interventionEvent	6.0
+interventionTotal	29.0
+controlEvent	6.0
+controlTotal	29.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	8
+study	Valenta
+interventionEvent	19.0
+interventionTotal	75.0
+controlEvent	24.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	9
+study	Young
+interventionEvent	4.0
+interventionTotal	33.0
+controlEvent	9.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	10
+study	Zimmerman
+interventionEvent	3.0
+interventionTotal	20.0
+controlEvent	8.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Angstwurm
+interventionEvent	46.0
+interventionTotal	116.0
+controlEvent	61.0
+controlTotal	122.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Manzanares
+interventionEvent	5.0
+interventionTotal	15.0
+controlEvent	7.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

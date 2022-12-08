@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	398_I
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Vap
+group2	non-vap
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Torres
+interventionEvent	26.0
+interventionTotal	78.0
+controlEvent	47.0
+controlTotal	244.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Paway
+interventionEvent	4.0
+interventionTotal	25.0
+controlEvent	2.0
+controlTotal	927.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Hortal
+interventionEvent	7.0
+interventionTotal	20.0
+controlEvent	22.0
+controlTotal	951.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Hortal*
+interventionEvent	48.0
+interventionTotal	106.0
+controlEvent	49.0
+controlTotal	1738.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Tang
+interventionEvent	5.0
+interventionTotal	13.0
+controlEvent	4.0
+controlTotal	87.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Roeleveld
+interventionEvent	0.0
+interventionTotal	11.0
+controlEvent	3.0
+controlTotal	114.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Sheng
+interventionEvent	27.0
+interventionTotal	105.0
+controlEvent	46.0
+controlTotal	1583.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Tamayo
+interventionEvent	61.0
+interventionTotal	124.0
+controlEvent	30.0
+controlTotal	1486.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

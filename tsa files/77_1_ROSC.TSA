@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	77_1_ROSC
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	vasopressin
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Lindner
+interventionEvent	14.0
+interventionTotal	20.0
+controlEvent	7.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Stiel
+interventionEvent	45.0
+interventionTotal	104.0
+controlEvent	38.0
+controlTotal	96.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Wenzel
+interventionEvent	214.0
+interventionTotal	589.0
+controlEvent	186.0
+controlTotal	597.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Callaway
+interventionEvent	31.0
+interventionTotal	167.0
+controlEvent	37.0
+controlTotal	158.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Gueugniaud
+interventionEvent	299.0
+interventionTotal	1442.0
+controlEvent	310.0
+controlTotal	1452.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Mentzelopoulos
+interventionEvent	39.0
+interventionTotal	48.0
+controlEvent	27.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

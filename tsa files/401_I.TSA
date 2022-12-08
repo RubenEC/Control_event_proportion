@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	401_I
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	false
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Video laryngoscopie
+group2	direct
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Noppens
+interventionEvent	15.0
+interventionTotal	117.0
+controlEvent	14.0
+controlTotal	113.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	De Jong
+interventionEvent	6.0
+interventionTotal	70.0
+controlEvent	11.0
+controlTotal	140.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Kory
+interventionEvent	11.0
+interventionTotal	70.0
+controlEvent	12.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Lakticova
+interventionEvent	30.0
+interventionTotal	252.0
+controlEvent	9.0
+controlTotal	140.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Silverberg
+interventionEvent	2.0
+interventionTotal	57.0
+controlEvent	5.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Yeatts
+interventionEvent	27.0
+interventionTotal	54.0
+controlEvent	15.0
+controlTotal	63.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	707_II_MortHosp
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	ESA
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Nirula
+interventionEvent	2.0
+interventionTotal	11.0
+controlEvent	0.0
+controlTotal	5.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Abrishamakar
+interventionEvent	2.0
+interventionTotal	27.0
+controlEvent	2.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Gerasimov
+interventionEvent	10.0
+interventionTotal	42.0
+controlEvent	14.0
+controlTotal	36.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

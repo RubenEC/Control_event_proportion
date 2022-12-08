@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	183_3_periop myocardial ischemia
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	dexmed
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Talke
+interventionEvent	11.0
+interventionTotal	18.0
+controlEvent	3.0
+controlTotal	6.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Bekker
+interventionEvent	5.0
+interventionTotal	33.0
+controlEvent	9.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	McCutcheon
+interventionEvent	1.0
+interventionTotal	29.0
+controlEvent	2.0
+controlTotal	29.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

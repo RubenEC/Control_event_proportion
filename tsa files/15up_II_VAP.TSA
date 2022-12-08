@@ -1,0 +1,110 @@
+#METAANALYSIS BEGIN
+identifier	recurrence
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	short
+group2	long
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Chastre
+interventionEvent	57.0
+interventionTotal	197.0
+controlEvent	53.0
+controlTotal	204.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Medina
+interventionEvent	18.0
+interventionTotal	40.0
+controlEvent	8.0
+controlTotal	37.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Fekih Hassen
+interventionEvent	2.0
+interventionTotal	14.0
+controlEvent	2.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Cappelier
+interventionEvent	7.0
+interventionTotal	116.0
+controlEvent	3.0
+controlTotal	109.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#BOUNDARY BEGIN
+sort	conventional
+identifier	c
+type	103
+type1error	5.0
+#GRAPH BEGIN
+id	c
+color	155	0	0
+graphLineType	Full
+graphIconType	Diamond Fill
+graphIconSize	5
+doShow	true
+#GRAPH END
+#BOUNDARY END
+
+#BOUNDARY BEGIN
+sort	sequential dichotome
+identifier	t
+type	103
+type1error	5.0
+oisType	603
+manualOIS	0.0
+type2error	20.0
+interventionEffectType	204
+interventionEffect	18.38
+controlEffect	24.51
+timeAxisScaling	302
+heterogeneityCorrection	401
+heterogeneityCorrectionValue	0.6
+alphaSpendingFunction	501
+betaSpendingFunction	802
+trials	(2003)Chastre	(2007)Medina	(2009)Fekih Hassen	(2012)Cappelier
+#GRAPH BEGIN
+id	t
+color	255	0	0
+graphLineType	Full
+graphIconType	Diamond Fill
+graphIconSize	5
+doShow	true
+#GRAPH END
+#BOUNDARY END
+

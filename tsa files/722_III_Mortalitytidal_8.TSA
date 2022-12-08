@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	722_III_Mortalitytidal>8
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Prono
+group2	Supino
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Gattinoni
+interventionEvent	95.0
+interventionTotal	152.0
+controlEvent	89.0
+controlTotal	152.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Guerin
+interventionEvent	179.0
+interventionTotal	413.0
+controlEvent	159.0
+controlTotal	378.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Mancebo
+interventionEvent	38.0
+interventionTotal	76.0
+controlEvent	37.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

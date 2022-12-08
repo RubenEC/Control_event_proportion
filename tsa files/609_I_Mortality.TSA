@@ -1,0 +1,107 @@
+#METAANALYSIS BEGIN
+identifier	609_I_Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Early PN
+group2	else
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Bauer
+interventionEvent	17.0
+interventionTotal	60.0
+controlEvent	17.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	CahillA
+interventionEvent	35.0
+interventionTotal	83.0
+controlEvent	22.0
+controlTotal	79.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	CahillB
+interventionEvent	35.0
+interventionTotal	83.0
+controlEvent	185.0
+controlTotal	541.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Casaer
+interventionEvent	255.0
+interventionTotal	2312.0
+controlEvent	257.0
+controlTotal	2328.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Kutsogiannis A
+interventionEvent	65.0
+interventionTotal	188.0
+controlEvent	60.0
+controlTotal	170.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Kutsogiannis B
+interventionEvent	65.0
+interventionTotal	188.0
+controlEvent	712.0
+controlTotal	2562.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Doig
+interventionEvent	146.0
+interventionTotal	680.0
+controlEvent	155.0
+controlTotal	678.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

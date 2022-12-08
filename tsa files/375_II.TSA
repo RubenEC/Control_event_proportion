@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	375_II
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	PLV
+group2	CMV
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Hirschl
+interventionEvent	37.0
+interventionTotal	65.0
+controlEvent	11.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Kacmarek
+interventionEvent	49.0
+interventionTotal	105.0
+controlEvent	21.0
+controlTotal	107.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

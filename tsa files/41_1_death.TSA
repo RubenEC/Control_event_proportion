@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	41_1_death
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	barbiturate
+group2	no barbiturate
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1985
+study	Ward
+interventionEvent	14.0
+interventionTotal	27.0
+controlEvent	13.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1988
+study	Eisenberg
+interventionEvent	23.0
+interventionTotal	37.0
+controlEvent	19.0
+controlTotal	36.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1989
+study	Bohn
+interventionEvent	11.0
+interventionTotal	41.0
+controlEvent	11.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	412_II
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Procalcitonin
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	CHrist Crain
+interventionEvent	5.0
+interventionTotal	124.0
+controlEvent	6.0
+controlTotal	119.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Christ Crain
+interventionEvent	20.0
+interventionTotal	151.0
+controlEvent	21.0
+controlTotal	151.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Stolz
+interventionEvent	8.0
+interventionTotal	102.0
+controlEvent	11.0
+controlTotal	106.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Kristoffersen
+interventionEvent	7.0
+interventionTotal	103.0
+controlEvent	5.0
+controlTotal	107.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Schuetz
+interventionEvent	43.0
+interventionTotal	671.0
+controlEvent	60.0
+controlTotal	688.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

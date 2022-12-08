@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	448_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Antacid
+group2	Sucralfate
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	12
+study	Michael
+interventionEvent	2.0
+interventionTotal	69.0
+controlEvent	6.0
+controlTotal	61.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	13
+study	Laggner
+interventionEvent	7.0
+interventionTotal	16.0
+controlEvent	3.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	15
+study	Ruiz Santana
+interventionEvent	2.0
+interventionTotal	19.0
+controlEvent	1.0
+controlTotal	24.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	16
+study	Ryan
+interventionEvent	2.0
+interventionTotal	56.0
+controlEvent	2.0
+controlTotal	58.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	18
+study	Fabian
+interventionEvent	12.0
+interventionTotal	179.0
+controlEvent	4.0
+controlTotal	99.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	19
+study	Ben Menachem
+interventionEvent	5.0
+interventionTotal	100.0
+controlEvent	5.0
+controlTotal	100.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	20
+study	Prod Hom
+interventionEvent	5.0
+interventionTotal	80.0
+controlEvent	8.0
+controlTotal	83.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	23
+study	Misra
+interventionEvent	5.0
+interventionTotal	45.0
+controlEvent	7.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

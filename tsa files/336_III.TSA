@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	336_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Prebiotics + probiotics
+group2	prebtiotics
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Rayes
+interventionEvent	0.0
+interventionTotal	31.0
+controlEvent	0.0
+controlTotal	32.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Rayes
+interventionEvent	0.0
+interventionTotal	33.0
+controlEvent	1.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

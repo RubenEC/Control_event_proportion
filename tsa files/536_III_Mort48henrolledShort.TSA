@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	536_III_Mort48henrolledShort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Prone
+group2	Supine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Leal
+interventionEvent	5.0
+interventionTotal	8.0
+controlEvent	6.0
+controlTotal	8.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Mancebo
+interventionEvent	33.0
+interventionTotal	76.0
+controlEvent	35.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Fernandez
+interventionEvent	8.0
+interventionTotal	21.0
+controlEvent	10.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Taccone
+interventionEvent	64.0
+interventionTotal	168.0
+controlEvent	73.0
+controlTotal	174.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Guerin
+interventionEvent	38.0
+interventionTotal	237.0
+controlEvent	75.0
+controlTotal	229.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

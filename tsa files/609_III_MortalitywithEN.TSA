@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	609_III_MortalitywithEN
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Early PN
+group2	else
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Bauer
+interventionEvent	17.0
+interventionTotal	60.0
+controlEvent	17.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Casaer
+interventionEvent	255.0
+interventionTotal	2312.0
+controlEvent	257.0
+controlTotal	2328.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Kutsogiannis A
+interventionEvent	65.0
+interventionTotal	188.0
+controlEvent	60.0
+controlTotal	170.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Kutsogiannis B
+interventionEvent	65.0
+interventionTotal	188.0
+controlEvent	712.0
+controlTotal	2562.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

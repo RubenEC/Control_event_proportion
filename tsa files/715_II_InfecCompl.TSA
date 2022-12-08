@@ -1,0 +1,159 @@
+#METAANALYSIS BEGIN
+identifier	715_II_InfecCompl
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	EN
+group2	PN
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Young
+interventionEvent	5.0
+interventionTotal	28.0
+controlEvent	4.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Peterson
+interventionEvent	2.0
+interventionTotal	21.0
+controlEvent	8.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Moore
+interventionEvent	5.0
+interventionTotal	29.0
+controlEvent	11.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Kudsk
+interventionEvent	9.0
+interventionTotal	51.0
+controlEvent	18.0
+controlTotal	45.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	5
+study	Woodcock
+interventionEvent	6.0
+interventionTotal	16.0
+controlEvent	11.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	6
+study	Adams
+interventionEvent	15.0
+interventionTotal	23.0
+controlEvent	17.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	7
+study	Kalfarentzos
+interventionEvent	5.0
+interventionTotal	18.0
+controlEvent	10.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	8
+study	Casas
+interventionEvent	1.0
+interventionTotal	11.0
+controlEvent	3.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	9
+study	Justo
+interventionEvent	2.0
+interventionTotal	12.0
+controlEvent	4.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	10
+study	Harvey
+interventionEvent	194.0
+interventionTotal	1197.0
+controlEvent	194.0
+controlTotal	1191.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	11
+study	Chen
+interventionEvent	5.0
+interventionTotal	49.0
+controlEvent	18.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

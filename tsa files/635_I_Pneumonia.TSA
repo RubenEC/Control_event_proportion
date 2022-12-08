@@ -1,0 +1,172 @@
+#METAANALYSIS BEGIN
+identifier	635_I_Pneumonia
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Small bowel
+group2	Gastric
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Montecalvo
+interventionEvent	4.0
+interventionTotal	19.0
+controlEvent	6.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Kortbeek
+interventionEvent	10.0
+interventionTotal	37.0
+controlEvent	18.0
+controlTotal	43.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Taylor
+interventionEvent	18.0
+interventionTotal	41.0
+controlEvent	26.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Kearns
+interventionEvent	4.0
+interventionTotal	21.0
+controlEvent	3.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	5
+study	Minard
+interventionEvent	6.0
+interventionTotal	12.0
+controlEvent	7.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	6
+study	Day
+interventionEvent	0.0
+interventionTotal	14.0
+controlEvent	2.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	7
+study	Montejo
+interventionEvent	16.0
+interventionTotal	50.0
+controlEvent	20.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	8
+study	Hsu
+interventionEvent	5.0
+interventionTotal	59.0
+controlEvent	15.0
+controlTotal	32.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	9
+study	White
+interventionEvent	11.0
+interventionTotal	57.0
+controlEvent	5.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	10
+study	Acosta
+interventionEvent	16.0
+interventionTotal	50.0
+controlEvent	31.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Davies
+interventionEvent	2.0
+interventionTotal	31.0
+controlEvent	1.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Davies
+interventionEvent	18.0
+interventionTotal	91.0
+controlEvent	19.0
+controlTotal	89.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

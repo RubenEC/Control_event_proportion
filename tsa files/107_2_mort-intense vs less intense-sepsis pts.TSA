@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	107_2
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	intense
+group2	less intense
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Ronco
+interventionEvent	10.0
+interventionTotal	32.0
+controlEvent	5.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Palevsky
+interventionEvent	204.0
+interventionTotal	358.0
+controlEvent	184.0
+controlTotal	350.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Bellomo
+interventionEvent	168.0
+interventionTotal	359.0
+controlEvent	186.0
+controlTotal	353.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

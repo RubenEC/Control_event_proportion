@@ -1,0 +1,198 @@
+#METAANALYSIS BEGIN
+identifier	296_2_pneumonia
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	SDD
+group2	C
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	29
+study	a
+interventionEvent	0.0
+interventionTotal	97.0
+controlEvent	8.0
+controlTotal	84.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	31
+study	b
+interventionEvent	1.0
+interventionTotal	56.0
+controlEvent	8.0
+controlTotal	58.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	32
+study	c
+interventionEvent	8.0
+interventionTotal	114.0
+controlEvent	8.0
+controlTotal	125.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	33
+study	d
+interventionEvent	0.0
+interventionTotal	13.0
+controlEvent	11.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	34
+study	e
+interventionEvent	12.0
+interventionTotal	161.0
+controlEvent	45.0
+controlTotal	170.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	35
+study	f
+interventionEvent	0.0
+interventionTotal	17.0
+controlEvent	10.0
+controlTotal	39.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	36
+study	g
+interventionEvent	1.0
+interventionTotal	51.0
+controlEvent	5.0
+controlTotal	56.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	37
+study	h
+interventionEvent	10.0
+interventionTotal	99.0
+controlEvent	46.0
+controlTotal	101.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	39
+study	i
+interventionEvent	4.0
+interventionTotal	25.0
+controlEvent	21.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	40
+study	j
+interventionEvent	7.0
+interventionTotal	48.0
+controlEvent	26.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	41
+study	k
+interventionEvent	26.0
+interventionTotal	220.0
+controlEvent	33.0
+controlTotal	225.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	42
+study	l
+interventionEvent	1.0
+interventionTotal	19.0
+controlEvent	9.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	43
+study	m
+interventionEvent	3.0
+interventionTotal	36.0
+controlEvent	6.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	44
+study	n
+interventionEvent	3.0
+interventionTotal	75.0
+controlEvent	4.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

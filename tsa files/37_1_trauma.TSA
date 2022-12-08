@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	37_1_trauma
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	hypertonic
+group2	isotonic
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Vassar
+interventionEvent	11.0
+interventionTotal	32.0
+controlEvent	7.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Younes
+interventionEvent	7.0
+interventionTotal	35.0
+controlEvent	8.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Vassar-1
+interventionEvent	11.0
+interventionTotal	85.0
+controlEvent	14.0
+controlTotal	84.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Vassar-2
+interventionEvent	20.0
+interventionTotal	50.0
+controlEvent	23.0
+controlTotal	45.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Simma
+interventionEvent	0.0
+interventionTotal	17.0
+controlEvent	2.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Cooper
+interventionEvent	51.0
+interventionTotal	113.0
+controlEvent	60.0
+controlTotal	113.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

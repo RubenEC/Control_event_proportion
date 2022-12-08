@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	539_II_ICUMort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Intervention
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Meade
+interventionEvent	145.0
+interventionTotal	475.0
+controlEvent	178.0
+controlTotal	508.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Huh
+interventionEvent	14.0
+interventionTotal	30.0
+controlEvent	13.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Xi
+interventionEvent	18.0
+interventionTotal	55.0
+controlEvent	29.0
+controlTotal	55.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Hodgson
+interventionEvent	3.0
+interventionTotal	10.0
+controlEvent	2.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Kacmarek
+interventionEvent	25.0
+interventionTotal	99.0
+controlEvent	30.0
+controlTotal	101.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

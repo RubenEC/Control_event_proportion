@@ -1,0 +1,133 @@
+#METAANALYSIS BEGIN
+identifier	303_1_AUGB-sucralf vs H2antagonists
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	sucralfate
+group2	H2 antagonists
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	10
+study	A
+interventionEvent	0.0
+interventionTotal	19.0
+controlEvent	1.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	11
+study	B
+interventionEvent	0.0
+interventionTotal	34.0
+controlEvent	1.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	12
+study	C
+interventionEvent	2.0
+interventionTotal	55.0
+controlEvent	1.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	13
+study	D
+interventionEvent	5.0
+interventionTotal	121.0
+controlEvent	5.0
+controlTotal	115.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	14
+study	E
+interventionEvent	3.0
+interventionTotal	49.0
+controlEvent	6.0
+controlTotal	55.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	15
+study	F
+interventionEvent	5.0
+interventionTotal	41.0
+controlEvent	16.0
+controlTotal	43.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	16
+study	G
+interventionEvent	2.0
+interventionTotal	45.0
+controlEvent	2.0
+controlTotal	45.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	17
+study	H
+interventionEvent	0.0
+interventionTotal	34.0
+controlEvent	2.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	18
+study	I
+interventionEvent	3.0
+interventionTotal	53.0
+controlEvent	2.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

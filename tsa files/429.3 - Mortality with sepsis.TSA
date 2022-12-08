@@ -1,0 +1,107 @@
+#METAANALYSIS BEGIN
+identifier	429.03 - Mortality with sepsis
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Etomidate
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Annane
+interventionEvent	38.0
+interventionTotal	72.0
+controlEvent	135.0
+controlTotal	227.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Mohammad
+interventionEvent	24.0
+interventionTotal	38.0
+controlEvent	63.0
+controlTotal	114.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Lipiner-Friedman
+interventionEvent	173.0
+interventionTotal	237.0
+controlEvent	113.0
+controlTotal	240.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Ray, McKeown
+interventionEvent	51.0
+interventionTotal	74.0
+controlEvent	51.0
+controlTotal	85.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Riche
+interventionEvent	25.0
+interventionTotal	69.0
+controlEvent	22.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Kim
+interventionEvent	8.0
+interventionTotal	25.0
+controlEvent	17.0
+controlTotal	40.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Sprung,Cuthbertson
+interventionEvent	41.0
+interventionTotal	96.0
+controlEvent	123.0
+controlTotal	403.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,133 @@
+#METAANALYSIS BEGIN
+identifier	679_II_VAP12
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	CHX
+group2	PLAC
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	DeRiso
+interventionEvent	3.0
+interventionTotal	173.0
+controlEvent	9.0
+controlTotal	180.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Houston
+interventionEvent	4.0
+interventionTotal	270.0
+controlEvent	9.0
+controlTotal	291.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Grap
+interventionEvent	4.0
+interventionTotal	7.0
+controlEvent	3.0
+controlTotal	5.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Segers
+interventionEvent	35.0
+interventionTotal	485.0
+controlEvent	67.0
+controlTotal	469.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Liu
+interventionEvent	6.0
+interventionTotal	30.0
+controlEvent	13.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Bellissimo
+interventionEvent	16.0
+interventionTotal	64.0
+controlEvent	17.0
+controlTotal	69.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Scannapieco
+interventionEvent	14.0
+interventionTotal	116.0
+controlEvent	12.0
+controlTotal	59.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Grap
+interventionEvent	7.0
+interventionTotal	21.0
+controlEvent	10.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Nie
+interventionEvent	11.0
+interventionTotal	100.0
+controlEvent	32.0
+controlTotal	100.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

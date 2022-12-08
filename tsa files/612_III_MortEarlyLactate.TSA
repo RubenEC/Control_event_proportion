@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	612_III_MortEarlyLactate
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Standard EGDT
+group2	Early Lactate Clearance
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Jones
+interventionEvent	34.0
+interventionTotal	150.0
+controlEvent	25.0
+controlTotal	150.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Yu
+interventionEvent	7.0
+interventionTotal	25.0
+controlEvent	5.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Wang
+interventionEvent	17.0
+interventionTotal	31.0
+controlEvent	7.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

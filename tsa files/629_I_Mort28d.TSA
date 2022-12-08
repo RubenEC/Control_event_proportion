@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	629_I_Mort28d
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	HVHF
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Boussekey
+interventionEvent	3.0
+interventionTotal	9.0
+controlEvent	5.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Joannes Boyau
+interventionEvent	25.0
+interventionTotal	66.0
+controlEvent	29.0
+controlTotal	71.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Sanchez
+interventionEvent	2.0
+interventionTotal	15.0
+controlEvent	7.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Zhang
+interventionEvent	81.0
+interventionTotal	141.0
+controlEvent	81.0
+controlTotal	139.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

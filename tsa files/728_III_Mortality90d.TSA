@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	728_III_Mortality90d
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	EGDT
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Arise
+interventionEvent	147.0
+interventionTotal	792.0
+controlEvent	150.0
+controlTotal	796.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Process
+interventionEvent	129.0
+interventionTotal	405.0
+controlEvent	139.0
+controlTotal	412.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	ProMise
+interventionEvent	184.0
+interventionTotal	623.0
+controlEvent	181.0
+controlTotal	620.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

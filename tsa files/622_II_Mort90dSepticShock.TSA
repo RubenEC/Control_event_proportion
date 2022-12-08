@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	622_II_Mort90dSepticShock
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Albumin
+group2	Crystalloid
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Rackow
+interventionEvent	5.0
+interventionTotal	7.0
+controlEvent	3.0
+controlTotal	4.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	SAFE
+interventionEvent	70.0
+interventionTotal	209.0
+controlEvent	90.0
+controlTotal	229.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	CRISTAL
+interventionEvent	22.0
+interventionTotal	59.0
+controlEvent	197.0
+controlTotal	557.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Albios
+interventionEvent	243.0
+interventionTotal	558.0
+controlEvent	281.0
+controlTotal	563.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

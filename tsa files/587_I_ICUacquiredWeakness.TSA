@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	587_I_ICUacquiredWeakness
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Intervention
+group2	Usual
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Schweickert
+interventionEvent	15.0
+interventionTotal	49.0
+controlEvent	27.0
+controlTotal	55.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Routsi
+interventionEvent	2.0
+interventionTotal	15.0
+controlEvent	10.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Denehy
+interventionEvent	16.0
+interventionTotal	74.0
+controlEvent	13.0
+controlTotal	76.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

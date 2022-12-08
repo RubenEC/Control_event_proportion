@@ -1,0 +1,172 @@
+#METAANALYSIS BEGIN
+identifier	434_I
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Thymosin+thymosin+ulinastain
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Wu
+interventionEvent	6.0
+interventionTotal	22.0
+controlEvent	12.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Lei
+interventionEvent	8.0
+interventionTotal	21.0
+controlEvent	7.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Chen
+interventionEvent	3.0
+interventionTotal	21.0
+controlEvent	9.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Zhang
+interventionEvent	5.0
+interventionTotal	19.0
+controlEvent	9.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Ying
+interventionEvent	28.0
+interventionTotal	59.0
+controlEvent	39.0
+controlTotal	55.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	CGITS1
+interventionEvent	23.0
+interventionTotal	44.0
+controlEvent	27.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	CGITS2
+interventionEvent	44.0
+interventionTotal	175.0
+controlEvent	64.0
+controlTotal	167.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Huang
+interventionEvent	13.0
+interventionTotal	36.0
+controlEvent	20.0
+controlTotal	34.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Li
+interventionEvent	5.0
+interventionTotal	23.0
+controlEvent	13.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Su
+interventionEvent	26.0
+interventionTotal	128.0
+controlEvent	38.0
+controlTotal	114.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Gui
+interventionEvent	6.0
+interventionTotal	22.0
+controlEvent	7.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Jianfeng
+interventionEvent	47.0
+interventionTotal	181.0
+controlEvent	63.0
+controlTotal	180.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

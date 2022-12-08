@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	404.1 - Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Progresterone
+group2	Placebo
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Wright
+interventionEvent	10.0
+interventionTotal	77.0
+controlEvent	7.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Xiao
+interventionEvent	7.0
+interventionTotal	30.0
+controlEvent	5.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Xiao
+interventionEvent	15.0
+interventionTotal	82.0
+controlEvent	25.0
+controlTotal	77.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

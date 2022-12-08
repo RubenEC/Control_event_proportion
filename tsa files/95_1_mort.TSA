@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	95_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	antipyretic
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	19
+study	Schulman
+interventionEvent	7.0
+interventionTotal	44.0
+controlEvent	1.0
+controlTotal	38.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	32
+study	Haupt
+interventionEvent	9.0
+interventionTotal	16.0
+controlEvent	4.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	33
+study	Memis
+interventionEvent	7.0
+interventionTotal	20.0
+controlEvent	8.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	34
+study	Morris
+interventionEvent	5.0
+interventionTotal	40.0
+controlEvent	1.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Bernard
+interventionEvent	3.0
+interventionTotal	16.0
+controlEvent	6.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Bernard
+interventionEvent	83.0
+interventionTotal	224.0
+controlEvent	92.0
+controlTotal	231.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	2_1_hosp mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	exp
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Ely
+interventionEvent	56.0
+interventionTotal	149.0
+controlEvent	60.0
+controlTotal	151.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Kollef
+interventionEvent	40.0
+interventionTotal	179.0
+controlEvent	42.0
+controlTotal	178.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Marelich
+interventionEvent	17.0
+interventionTotal	166.0
+controlEvent	10.0
+controlTotal	169.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Namen
+interventionEvent	20.0
+interventionTotal	49.0
+controlEvent	16.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Krishnan
+interventionEvent	56.0
+interventionTotal	115.0
+controlEvent	48.0
+controlTotal	109.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Stahl
+interventionEvent	5.0
+interventionTotal	26.0
+controlEvent	5.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

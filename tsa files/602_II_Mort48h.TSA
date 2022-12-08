@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	602_II_Mort<48h
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	antipyretic
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Bernard
+interventionEvent	3.0
+interventionTotal	16.0
+controlEvent	6.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Haupt
+interventionEvent	9.0
+interventionTotal	16.0
+controlEvent	4.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Bernard
+interventionEvent	83.0
+interventionTotal	224.0
+controlEvent	92.0
+controlTotal	231.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Schortgen
+interventionEvent	19.0
+interventionTotal	101.0
+controlEvent	34.0
+controlTotal	99.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

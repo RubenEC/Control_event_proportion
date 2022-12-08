@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	29_3_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	invasive
+group2	non-invasive
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Sanchez-Nieto
+interventionEvent	11.0
+interventionTotal	24.0
+controlEvent	7.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Fagon
+interventionEvent	63.0
+interventionTotal	204.0
+controlEvent	81.0
+controlTotal	209.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Ruiz
+interventionEvent	14.0
+interventionTotal	37.0
+controlEvent	18.0
+controlTotal	39.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Sol Viol
+interventionEvent	10.0
+interventionTotal	45.0
+controlEvent	9.0
+controlTotal	43.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	CCCTG
+interventionEvent	69.0
+interventionTotal	365.0
+controlEvent	69.0
+controlTotal	374.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

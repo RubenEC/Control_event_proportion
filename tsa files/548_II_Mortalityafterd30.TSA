@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	548_II_Mortalityafterd30
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Intensive CRRT
+group2	Less intensive
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Bouman
+interventionEvent	13.0
+interventionTotal	35.0
+controlEvent	32.0
+controlTotal	71.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	ATN
+interventionEvent	229.0
+interventionTotal	397.0
+controlEvent	229.0
+controlTotal	386.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Renal
+interventionEvent	322.0
+interventionTotal	721.0
+controlEvent	332.0
+controlTotal	743.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Saudan
+interventionEvent	43.0
+interventionTotal	104.0
+controlEvent	67.0
+controlTotal	102.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	TOlwani
+interventionEvent	64.0
+interventionTotal	100.0
+controlEvent	60.0
+controlTotal	100.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

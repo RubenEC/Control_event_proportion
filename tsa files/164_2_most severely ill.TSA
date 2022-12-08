@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	164_2_most severely ill
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	prone
+group2	supine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	36
+study	Gattinoni
+interventionEvent	17.0
+interventionTotal	83.0
+controlEvent	32.0
+controlTotal	72.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	39
+study	Mancebo
+interventionEvent	15.0
+interventionTotal	22.0
+controlEvent	9.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

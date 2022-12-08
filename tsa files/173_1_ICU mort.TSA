@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	173_1_ICU mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	prone
+group2	supine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Gattinoni
+interventionEvent	77.0
+interventionTotal	152.0
+controlEvent	73.0
+controlTotal	152.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Guerin
+interventionEvent	134.0
+interventionTotal	413.0
+controlEvent	119.0
+controlTotal	378.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Curley
+interventionEvent	4.0
+interventionTotal	51.0
+controlEvent	4.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Voggenreiter
+interventionEvent	1.0
+interventionTotal	21.0
+controlEvent	3.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Mancebo
+interventionEvent	33.0
+interventionTotal	76.0
+controlEvent	35.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

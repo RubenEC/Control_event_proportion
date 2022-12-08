@@ -1,0 +1,133 @@
+#METAANALYSIS BEGIN
+identifier	639_II_HospMort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Probiotics
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Rayes
+interventionEvent	0.0
+interventionTotal	30.0
+controlEvent	0.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Kanazawa
+interventionEvent	0.0
+interventionTotal	21.0
+controlEvent	0.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Rayes
+interventionEvent	0.0
+interventionTotal	33.0
+controlEvent	0.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Rayes
+interventionEvent	1.0
+interventionTotal	40.0
+controlEvent	1.0
+controlTotal	40.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Besselink
+interventionEvent	24.0
+interventionTotal	152.0
+controlEvent	9.0
+controlTotal	144.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Giarnerellos
+interventionEvent	5.0
+interventionTotal	36.0
+controlEvent	10.0
+controlTotal	36.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Knight
+interventionEvent	35.0
+interventionTotal	130.0
+controlEvent	42.0
+controlTotal	129.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Morrow
+interventionEvent	12.0
+interventionTotal	68.0
+controlEvent	15.0
+controlTotal	70.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Tan
+interventionEvent	0.0
+interventionTotal	22.0
+controlEvent	1.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

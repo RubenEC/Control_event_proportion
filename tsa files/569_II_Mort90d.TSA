@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	569_II_Mort90d
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	EGDT
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	ARISE
+interventionEvent	147.0
+interventionTotal	792.0
+controlEvent	150.0
+controlTotal	796.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	PROCESS
+interventionEvent	129.0
+interventionTotal	405.0
+controlEvent	267.0
+controlTotal	827.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	PROMISE
+interventionEvent	184.0
+interventionTotal	623.0
+controlEvent	181.0
+controlTotal	620.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

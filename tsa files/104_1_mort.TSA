@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	104_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	tight
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Groban
+interventionEvent	3.0
+interventionTotal	188.0
+controlEvent	0.0
+controlTotal	193.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Lazar
+interventionEvent	0.0
+interventionTotal	72.0
+controlEvent	0.0
+controlTotal	69.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Ingels
+interventionEvent	16.0
+interventionTotal	477.0
+controlEvent	37.0
+controlTotal	493.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

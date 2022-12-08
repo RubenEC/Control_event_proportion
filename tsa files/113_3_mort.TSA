@@ -1,0 +1,198 @@
+#METAANALYSIS BEGIN
+identifier	113_3_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	H2RB
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1980
+study	Halloran
+interventionEvent	8.0
+interventionTotal	26.0
+controlEvent	10.0
+controlTotal	24.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1981
+study	Zinner
+interventionEvent	9.0
+interventionTotal	100.0
+controlEvent	17.0
+controlTotal	100.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1985
+study	Cheadle
+interventionEvent	7.0
+interventionTotal	98.0
+controlEvent	5.0
+controlTotal	97.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1985
+study	Peura
+interventionEvent	7.0
+interventionTotal	21.0
+controlEvent	7.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1986
+study	Groll
+interventionEvent	13.0
+interventionTotal	114.0
+controlEvent	13.0
+controlTotal	107.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Karlstadt
+interventionEvent	5.0
+interventionTotal	54.0
+controlEvent	2.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Reusser
+interventionEvent	5.0
+interventionTotal	19.0
+controlEvent	6.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Ruiz-Santana
+interventionEvent	7.0
+interventionTotal	19.0
+controlEvent	7.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Apte
+interventionEvent	11.0
+interventionTotal	16.0
+controlEvent	7.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Martin
+interventionEvent	8.0
+interventionTotal	65.0
+controlEvent	7.0
+controlTotal	66.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Ben-menachen
+interventionEvent	28.0
+interventionTotal	100.0
+controlEvent	19.0
+controlTotal	100.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Burgess
+interventionEvent	1.0
+interventionTotal	16.0
+controlEvent	0.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Hanisch
+interventionEvent	7.0
+interventionTotal	57.0
+controlEvent	12.0
+controlTotal	57.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Kantorova
+interventionEvent	11.0
+interventionTotal	71.0
+controlEvent	13.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

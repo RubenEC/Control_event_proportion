@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	473.1 - Deaths
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Antithrombin
+group2	Placebo
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Fourrier
+interventionEvent	7.0
+interventionTotal	17.0
+controlEvent	9.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Baudo
+interventionEvent	27.0
+interventionTotal	49.0
+controlEvent	28.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Kienast
+interventionEvent	29.0
+interventionTotal	114.0
+controlEvent	46.0
+controlTotal	115.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

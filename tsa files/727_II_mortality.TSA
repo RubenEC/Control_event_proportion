@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	727_II_Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Experimental
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	8
+study	Bramibilla
+interventionEvent	2.0
+interventionTotal	40.0
+controlEvent	7.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	10
+study	Squadrone
+interventionEvent	3.0
+interventionTotal	20.0
+controlEvent	15.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	11
+study	Squadrone
+interventionEvent	0.0
+interventionTotal	105.0
+controlEvent	3.0
+controlTotal	104.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

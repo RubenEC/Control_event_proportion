@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	315_3_severe compl
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	exp
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Spragg
+interventionEvent	51.0
+interventionTotal	224.0
+controlEvent	11.0
+controlTotal	224.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Kesecioglu
+interventionEvent	157.0
+interventionTotal	208.0
+controlEvent	116.0
+controlTotal	209.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Spragg
+interventionEvent	207.0
+interventionTotal	419.0
+controlEvent	108.0
+controlTotal	424.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	658_II_60dMort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Statins
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	8
+study	Kruger
+interventionEvent	13.0
+interventionTotal	123.0
+controlEvent	22.0
+controlTotal	127.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	9
+study	Papazian
+interventionEvent	34.0
+interventionTotal	146.0
+controlEvent	30.0
+controlTotal	138.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	10
+study	ARDS net
+interventionEvent	108.0
+interventionTotal	379.0
+controlEvent	91.0
+controlTotal	366.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	11689
+study	McAuley
+interventionEvent	68.0
+interventionTotal	255.0
+controlEvent	90.0
+controlTotal	268.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

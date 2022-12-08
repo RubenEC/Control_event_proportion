@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	746_I_30daymort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Continous infusion
+group2	intermittend
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Dulhunty
+interventionEvent	2.0
+interventionTotal	30.0
+controlEvent	5.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Dulhunty
+interventionEvent	39.0
+interventionTotal	212.0
+controlEvent	52.0
+controlTotal	220.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Abdul Aziz
+interventionEvent	20.0
+interventionTotal	70.0
+controlEvent	28.0
+controlTotal	70.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,133 @@
+#METAANALYSIS BEGIN
+identifier	315_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	exp
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Weg
+interventionEvent	6.0
+interventionTotal	17.0
+controlEvent	8.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Anzueto
+interventionEvent	145.0
+interventionTotal	364.0
+controlEvent	143.0
+controlTotal	361.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Gregory
+interventionEvent	3.0
+interventionTotal	16.0
+controlEvent	7.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Spragg
+interventionEvent	3.0
+interventionTotal	15.0
+controlEvent	5.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Spragg
+interventionEvent	80.0
+interventionTotal	224.0
+controlEvent	72.0
+controlTotal	224.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Philipp
+interventionEvent	4.0
+interventionTotal	14.0
+controlEvent	4.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Tsangaris
+interventionEvent	0.0
+interventionTotal	8.0
+controlEvent	1.0
+controlTotal	8.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Kesecioglu
+interventionEvent	60.0
+interventionTotal	208.0
+controlEvent	51.0
+controlTotal	209.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Spragg
+interventionEvent	95.0
+interventionTotal	419.0
+controlEvent	101.0
+controlTotal	424.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

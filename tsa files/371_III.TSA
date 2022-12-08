@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	371_3
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	DSI
+group2	non DSI
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Kress
+interventionEvent	12.0
+interventionTotal	68.0
+controlEvent	16.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Girard
+interventionEvent	21.0
+interventionTotal	167.0
+controlEvent	34.0
+controlTotal	168.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Mehta
+interventionEvent	2.0
+interventionTotal	32.0
+controlEvent	7.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Weisbrodt
+interventionEvent	8.0
+interventionTotal	26.0
+controlEvent	13.0
+controlTotal	24.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Mehta
+interventionEvent	49.0
+interventionTotal	214.0
+controlEvent	54.0
+controlTotal	209.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Nassar
+interventionEvent	1.0
+interventionTotal	30.0
+controlEvent	1.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

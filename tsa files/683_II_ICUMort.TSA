@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	683_ICUMort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Tooth
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Munro
+interventionEvent	22.0
+interventionTotal	97.0
+controlEvent	22.0
+controlTotal	95.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Pobo
+interventionEvent	16.0
+interventionTotal	74.0
+controlEvent	23.0
+controlTotal	73.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Lorente
+interventionEvent	21.0
+interventionTotal	217.0
+controlEvent	24.0
+controlTotal	219.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

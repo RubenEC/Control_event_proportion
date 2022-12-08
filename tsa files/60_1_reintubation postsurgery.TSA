@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	60_1_reintubation postsurgery
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	treatment
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Auriant
+interventionEvent	5.0
+interventionTotal	24.0
+controlEvent	12.0
+controlTotal	24.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Bohner
+interventionEvent	1.0
+interventionTotal	99.0
+controlEvent	5.0
+controlTotal	105.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Kindgen
+interventionEvent	1.0
+interventionTotal	25.0
+controlEvent	4.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Squadrone
+interventionEvent	1.0
+interventionTotal	105.0
+controlEvent	10.0
+controlTotal	104.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Zarbock
+interventionEvent	3.0
+interventionTotal	232.0
+controlEvent	6.0
+controlTotal	236.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

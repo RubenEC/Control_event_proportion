@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	653_III_Hypertension
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Dexmedetomidine
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Riker
+interventionEvent	106.0
+interventionTotal	244.0
+controlEvent	54.0
+controlTotal	122.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Jakob
+interventionEvent	52.0
+interventionTotal	246.0
+controlEvent	37.0
+controlTotal	247.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	JakobA
+interventionEvent	53.0
+interventionTotal	247.0
+controlEvent	52.0
+controlTotal	250.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

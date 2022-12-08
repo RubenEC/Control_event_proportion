@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	484.3 - Combination deaths and neurologicalle impaired survivors
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Vasopressin
+group2	Epinephrine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Lee
+interventionEvent	2.0
+interventionTotal	5.0
+controlEvent	5.0
+controlTotal	5.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Stiell
+interventionEvent	94.0
+interventionTotal	104.0
+controlEvent	85.0
+controlTotal	96.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Wenzel
+interventionEvent	552.0
+interventionTotal	567.0
+controlEvent	560.0
+controlTotal	576.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

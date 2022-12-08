@@ -1,0 +1,185 @@
+#METAANALYSIS BEGIN
+identifier	617_I_Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Early tracheostomy
+group2	Late or Non
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Rodriguez
+interventionEvent	9.0
+interventionTotal	51.0
+controlEvent	13.0
+controlTotal	55.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Sugerman
+interventionEvent	13.0
+interventionTotal	53.0
+controlEvent	11.0
+controlTotal	59.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Saffle
+interventionEvent	4.0
+interventionTotal	21.0
+controlEvent	6.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Bouderka
+interventionEvent	12.0
+interventionTotal	31.0
+controlEvent	7.0
+controlTotal	31.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Rumbak
+interventionEvent	19.0
+interventionTotal	60.0
+controlEvent	37.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Barquist
+interventionEvent	2.0
+interventionTotal	29.0
+controlEvent	5.0
+controlTotal	31.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Blot
+interventionEvent	12.0
+interventionTotal	61.0
+controlEvent	15.0
+controlTotal	62.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Terragni
+interventionEvent	55.0
+interventionTotal	209.0
+controlEvent	66.0
+controlTotal	210.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Trouillet
+interventionEvent	24.0
+interventionTotal	109.0
+controlEvent	26.0
+controlTotal	107.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Koch
+interventionEvent	9.0
+interventionTotal	50.0
+controlEvent	7.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Zheng
+interventionEvent	8.0
+interventionTotal	58.0
+controlEvent	6.0
+controlTotal	61.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Bosel
+interventionEvent	3.0
+interventionTotal	30.0
+controlEvent	14.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Young
+interventionEvent	133.0
+interventionTotal	448.0
+controlEvent	132.0
+controlTotal	445.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	5_2_SAE
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	APC
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Prowess
+interventionEvent	106.0
+interventionTotal	850.0
+controlEvent	102.0
+controlTotal	840.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Address
+interventionEvent	182.0
+interventionTotal	1317.0
+controlEvent	183.0
+controlTotal	1293.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Dhainaut
+interventionEvent	12.0
+interventionTotal	94.0
+controlEvent	13.0
+controlTotal	99.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Prowess-shock
+interventionEvent	119.0
+interventionTotal	833.0
+controlEvent	96.0
+controlTotal	833.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

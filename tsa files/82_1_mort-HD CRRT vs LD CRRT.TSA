@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	82_1
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	1
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	HD CRRT
+group2	LD CRRT
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Ronco
+interventionEvent	117.0
+interventionTotal	279.0
+controlEvent	86.0
+controlTotal	146.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Bouman
+interventionEvent	9.0
+interventionTotal	35.0
+controlEvent	21.0
+controlTotal	71.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Saudan
+interventionEvent	43.0
+interventionTotal	104.0
+controlEvent	62.0
+controlTotal	102.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Tolwani
+interventionEvent	51.0
+interventionTotal	100.0
+controlEvent	44.0
+controlTotal	100.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Bellomo
+interventionEvent	278.0
+interventionTotal	722.0
+controlEvent	274.0
+controlTotal	743.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

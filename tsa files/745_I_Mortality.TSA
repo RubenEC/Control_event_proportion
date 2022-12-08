@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	745_I_Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	ICP
+group2	no ICP monitoring
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Kostic
+interventionEvent	15.0
+interventionTotal	32.0
+controlEvent	19.0
+controlTotal	29.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Chesnut
+interventionEvent	56.0
+interventionTotal	144.0
+controlEvent	67.0
+controlTotal	153.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,146 @@
+#METAANALYSIS BEGIN
+identifier	736_I_Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Early RRT
+group2	Late RRT
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1975
+study	Conger
+interventionEvent	3.0
+interventionTotal	8.0
+controlEvent	8.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Pursani
+interventionEvent	4.0
+interventionTotal	18.0
+controlEvent	5.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Bouman
+interventionEvent	18.0
+interventionTotal	35.0
+controlEvent	14.0
+controlTotal	36.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Durmaz
+interventionEvent	1.0
+interventionTotal	21.0
+controlEvent	7.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Sugahara
+interventionEvent	2.0
+interventionTotal	14.0
+controlEvent	12.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Koo
+interventionEvent	12.0
+interventionTotal	43.0
+controlEvent	30.0
+controlTotal	59.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Jamale
+interventionEvent	21.0
+interventionTotal	102.0
+controlEvent	13.0
+controlTotal	106.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Wald
+interventionEvent	18.0
+interventionTotal	48.0
+controlEvent	19.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Gaudry
+interventionEvent	150.0
+interventionTotal	311.0
+controlEvent	153.0
+controlTotal	308.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Zarbock
+interventionEvent	44.0
+interventionTotal	112.0
+controlEvent	65.0
+controlTotal	119.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	662_I_Intubation
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	NPPV
+group2	Oxygen
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Gao
+interventionEvent	3.0
+interventionTotal	30.0
+controlEvent	8.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Squadrone
+interventionEvent	1.0
+interventionTotal	105.0
+controlEvent	10.0
+controlTotal	104.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	331_2_hospmort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	protC
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	address
+interventionEvent	275.0
+interventionTotal	1333.0
+controlEvent	268.0
+controlTotal	1307.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	prowess
+interventionEvent	252.0
+interventionTotal	850.0
+controlEvent	293.0
+controlTotal	840.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

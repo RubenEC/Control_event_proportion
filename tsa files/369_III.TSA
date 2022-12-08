@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	369_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Continuous
+group2	Bolus
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Schuller
+interventionEvent	2.0
+interventionTotal	14.0
+controlEvent	5.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Allen
+interventionEvent	1.0
+interventionTotal	20.0
+controlEvent	0.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Felker
+interventionEvent	16.0
+interventionTotal	152.0
+controlEvent	13.0
+controlTotal	156.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

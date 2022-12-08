@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	42_1_infections
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	steroids
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1979
+study	Cooper
+interventionEvent	28.0
+interventionTotal	49.0
+controlEvent	11.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1979
+study	Hernesniemi
+interventionEvent	23.0
+interventionTotal	81.0
+controlEvent	27.0
+controlTotal	83.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Gaab
+interventionEvent	37.0
+interventionTotal	130.0
+controlEvent	36.0
+controlTotal	141.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Grumme
+interventionEvent	38.0
+interventionTotal	187.0
+controlEvent	57.0
+controlTotal	209.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	CRASH
+interventionEvent	2460.0
+interventionTotal	4900.0
+controlEvent	2429.0
+controlTotal	4991.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

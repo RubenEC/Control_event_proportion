@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	122_2_renal recovery
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	intensive
+group2	standard
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Ronco
+interventionEvent	146.0
+interventionTotal	279.0
+controlEvent	57.0
+controlTotal	146.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Bouman
+interventionEvent	22.0
+interventionTotal	35.0
+controlEvent	39.0
+controlTotal	71.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Schiffl
+interventionEvent	56.0
+interventionTotal	80.0
+controlEvent	43.0
+controlTotal	80.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Saudan
+interventionEvent	48.0
+interventionTotal	104.0
+controlEvent	25.0
+controlTotal	102.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	ATN study
+interventionEvent	88.0
+interventionTotal	563.0
+controlEvent	92.0
+controlTotal	561.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Tolwani
+interventionEvent	25.0
+interventionTotal	100.0
+controlEvent	32.0
+controlTotal	100.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Faulhaber-Walter
+interventionEvent	27.0
+interventionTotal	81.0
+controlEvent	29.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Renal study
+interventionEvent	372.0
+interventionTotal	721.0
+controlEvent	393.0
+controlTotal	743.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

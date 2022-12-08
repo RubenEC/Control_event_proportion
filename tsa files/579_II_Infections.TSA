@@ -1,0 +1,159 @@
+#METAANALYSIS BEGIN
+identifier	579_II_Infections
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	AOX
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Andrews
+interventionEvent	104.0
+interventionTotal	251.0
+controlEvent	121.0
+controlTotal	251.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Maderazo
+interventionEvent	13.0
+interventionTotal	28.0
+controlEvent	5.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Nathens
+interventionEvent	36.0
+interventionTotal	301.0
+controlEvent	44.0
+controlTotal	294.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Porter
+interventionEvent	5.0
+interventionTotal	9.0
+controlEvent	8.0
+controlTotal	9.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	5
+study	Preiser
+interventionEvent	3.0
+interventionTotal	20.0
+controlEvent	1.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	BergerA
+interventionEvent	5.0
+interventionTotal	9.0
+controlEvent	5.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	BergerB
+interventionEvent	3.0
+interventionTotal	11.0
+controlEvent	5.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Angstwurm
+interventionEvent	10.0
+interventionTotal	116.0
+controlEvent	10.0
+controlTotal	122.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Berger
+interventionEvent	36.0
+interventionTotal	102.0
+controlEvent	34.0
+controlTotal	98.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	El Attar
+interventionEvent	5.0
+interventionTotal	36.0
+controlEvent	7.0
+controlTotal	34.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Manzanares
+interventionEvent	1.0
+interventionTotal	15.0
+controlEvent	6.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

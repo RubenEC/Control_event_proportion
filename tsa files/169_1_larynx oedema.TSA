@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	169_1_larynx oedema
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	steroid
+group2	placebo
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1987
+study	Gaussorgues
+interventionEvent	4.0
+interventionTotal	138.0
+controlEvent	2.0
+controlTotal	138.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Darmon
+interventionEvent	11.0
+interventionTotal	327.0
+controlEvent	17.0
+controlTotal	337.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Ho
+interventionEvent	7.0
+interventionTotal	39.0
+controlEvent	10.0
+controlTotal	38.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Cheng
+interventionEvent	8.0
+interventionTotal	85.0
+controlEvent	13.0
+controlTotal	43.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Francois
+interventionEvent	11.0
+interventionTotal	355.0
+controlEvent	76.0
+controlTotal	343.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Lee
+interventionEvent	4.0
+interventionTotal	40.0
+controlEvent	11.0
+controlTotal	40.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

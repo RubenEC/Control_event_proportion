@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	638_II_SurvivalVaso
+outcomeType	-1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Vasopressin/Terlipressin
+group2	Norepinephrine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Argenziano
+interventionEvent	0.0
+interventionTotal	5.0
+controlEvent	1.0
+controlTotal	5.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Malay
+interventionEvent	0.0
+interventionTotal	5.0
+controlEvent	2.0
+controlTotal	5.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Dunser
+interventionEvent	17.0
+interventionTotal	24.0
+controlEvent	17.0
+controlTotal	24.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Lauzier
+interventionEvent	3.0
+interventionTotal	13.0
+controlEvent	3.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Russell
+interventionEvent	172.0
+interventionTotal	397.0
+controlEvent	188.0
+controlTotal	382.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Moreli
+interventionEvent	8.0
+interventionTotal	15.0
+controlEvent	10.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

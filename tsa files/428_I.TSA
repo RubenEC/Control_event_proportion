@@ -1,0 +1,172 @@
+#METAANALYSIS BEGIN
+identifier	428_I
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	IIT
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Yu
+interventionEvent	4.0
+interventionTotal	28.0
+controlEvent	4.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Arabi
+interventionEvent	18.0
+interventionTotal	55.0
+controlEvent	15.0
+controlTotal	67.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Brunkhorst
+interventionEvent	98.0
+interventionTotal	247.0
+controlEvent	102.0
+controlTotal	288.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Ellger
+interventionEvent	160.0
+interventionTotal	479.0
+controlEvent	172.0
+controlTotal	471.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Iapichino
+interventionEvent	13.0
+interventionTotal	36.0
+controlEvent	11.0
+controlTotal	36.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Zhang
+interventionEvent	3.0
+interventionTotal	10.0
+controlEvent	2.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	DONG
+interventionEvent	0.0
+interventionTotal	13.0
+controlEvent	0.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Jin and Guolong
+interventionEvent	47.0
+interventionTotal	225.0
+controlEvent	51.0
+controlTotal	131.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	NICE SUGAR
+interventionEvent	202.0
+interventionTotal	673.0
+controlEvent	172.0
+controlTotal	626.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Savioli
+interventionEvent	14.0
+interventionTotal	45.0
+controlEvent	13.0
+controlTotal	45.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	COIITSS
+interventionEvent	117.0
+interventionTotal	255.0
+controlEvent	109.0
+controlTotal	254.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Cappi
+interventionEvent	5.0
+interventionTotal	28.0
+controlEvent	10.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

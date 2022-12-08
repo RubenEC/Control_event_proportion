@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	549_I_BSI
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Chlorhex
+group2	Povidone
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Maki
+interventionEvent	1.0
+interventionTotal	67.0
+controlEvent	5.0
+controlTotal	77.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Mimoz
+interventionEvent	4.0
+interventionTotal	242.0
+controlEvent	10.0
+controlTotal	239.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Vall
+interventionEvent	17.0
+interventionTotal	211.0
+controlEvent	10.0
+controlTotal	97.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Valla
+interventionEvent	15.0
+interventionTotal	226.0
+controlEvent	9.0
+controlTotal	97.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

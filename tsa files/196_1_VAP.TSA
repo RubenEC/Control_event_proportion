@@ -1,0 +1,159 @@
+#METAANALYSIS BEGIN
+identifier	196_1_VAP
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	treatment
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Laggner
+interventionEvent	1.0
+interventionTotal	33.0
+controlEvent	4.0
+controlTotal	34.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	De Riso
+interventionEvent	3.0
+interventionTotal	173.0
+controlEvent	9.0
+controlTotal	180.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Fourrier
+interventionEvent	5.0
+interventionTotal	30.0
+controlEvent	15.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Bergmans
+interventionEvent	9.0
+interventionTotal	87.0
+controlEvent	38.0
+controlTotal	139.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	MacNaughton
+interventionEvent	21.0
+interventionTotal	101.0
+controlEvent	21.0
+controlTotal	93.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Fourrier
+interventionEvent	13.0
+interventionTotal	114.0
+controlEvent	12.0
+controlTotal	114.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Rios
+interventionEvent	15.0
+interventionTotal	47.0
+controlEvent	13.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Segers
+interventionEvent	35.0
+interventionTotal	485.0
+controlEvent	67.0
+controlTotal	469.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Koeman
+interventionEvent	13.0
+interventionTotal	127.0
+controlEvent	23.0
+controlTotal	130.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Kollef
+interventionEvent	52.0
+interventionTotal	362.0
+controlEvent	62.0
+controlTotal	347.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Seguin
+interventionEvent	3.0
+interventionTotal	36.0
+controlEvent	25.0
+controlTotal	62.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

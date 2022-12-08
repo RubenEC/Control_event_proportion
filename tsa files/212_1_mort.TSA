@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	212_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	exp
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Weg
+interventionEvent	13.0
+interventionTotal	34.0
+controlEvent	8.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Anzueto
+interventionEvent	145.0
+interventionTotal	364.0
+controlEvent	143.0
+controlTotal	361.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Gregory
+interventionEvent	10.0
+interventionTotal	43.0
+controlEvent	7.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Spragg
+interventionEvent	7.0
+interventionTotal	27.0
+controlEvent	5.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Spragg
+interventionEvent	46.0
+interventionTotal	118.0
+controlEvent	43.0
+controlTotal	109.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Spragg-2
+interventionEvent	34.0
+interventionTotal	106.0
+controlEvent	29.0
+controlTotal	115.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

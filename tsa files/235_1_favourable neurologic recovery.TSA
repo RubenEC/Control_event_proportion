@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	235_1_favourable neurologic recovery
+outcomeType	-1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	hypothermia
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Hachimi-Idrissi
+interventionEvent	3.0
+interventionTotal	16.0
+controlEvent	0.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Bernard
+interventionEvent	21.0
+interventionTotal	43.0
+controlEvent	9.0
+controlTotal	34.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	HACA
+interventionEvent	72.0
+interventionTotal	136.0
+controlEvent	50.0
+controlTotal	137.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

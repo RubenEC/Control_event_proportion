@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	561_I_HospMortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	EGDT
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Rivers
+interventionEvent	38.0
+interventionTotal	130.0
+controlEvent	59.0
+controlTotal	133.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Arise
+interventionEvent	115.0
+interventionTotal	793.0
+controlEvent	125.0
+controlTotal	797.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Process
+interventionEvent	173.0
+interventionTotal	885.0
+controlEvent	86.0
+controlTotal	456.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Mouncey
+interventionEvent	160.0
+interventionTotal	625.0
+controlEvent	154.0
+controlTotal	625.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	5
+study	Andrews
+interventionEvent	34.0
+interventionTotal	53.0
+controlEvent	34.0
+controlTotal	56.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

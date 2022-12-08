@@ -1,0 +1,159 @@
+#METAANALYSIS BEGIN
+identifier	743_I_PostExEvents
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Corticosteroids
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1987
+study	Gaussorgues
+interventionEvent	4.0
+interventionTotal	138.0
+controlEvent	2.0
+controlTotal	138.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Darmon
+interventionEvent	11.0
+interventionTotal	327.0
+controlEvent	17.0
+controlTotal	337.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Ho
+interventionEvent	7.0
+interventionTotal	39.0
+controlEvent	10.0
+controlTotal	38.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Cheng
+interventionEvent	8.0
+interventionTotal	85.0
+controlEvent	13.0
+controlTotal	43.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Francois
+interventionEvent	11.0
+interventionTotal	355.0
+controlEvent	76.0
+controlTotal	343.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Lee
+interventionEvent	4.0
+interventionTotal	40.0
+controlEvent	11.0
+controlTotal	40.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Shih
+interventionEvent	9.0
+interventionTotal	49.0
+controlEvent	11.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Baloch
+interventionEvent	6.0
+interventionTotal	46.0
+controlEvent	15.0
+controlTotal	46.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Cheng
+interventionEvent	6.0
+interventionTotal	38.0
+controlEvent	20.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Yu
+interventionEvent	11.0
+interventionTotal	109.0
+controlEvent	16.0
+controlTotal	53.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2016
+study	Lin
+interventionEvent	7.0
+interventionTotal	83.0
+controlEvent	13.0
+controlTotal	43.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

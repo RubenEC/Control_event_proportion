@@ -1,0 +1,224 @@
+#METAANALYSIS BEGIN
+identifier	23
+outcomeType	1
+trialType	1
+effectModel	11
+effectMeasure	1
+zeroEventHandling	Empirical
+zeroEventValue	0.01
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	topical and systemic
+group2	no
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1988
+study	Kerver
+interventionEvent	5.0
+interventionTotal	49.0
+controlEvent	31.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1989
+study	Ulrich
+interventionEvent	7.0
+interventionTotal	55.0
+controlEvent	26.0
+controlTotal	57.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Aerdts
+interventionEvent	1.0
+interventionTotal	28.0
+controlEvent	29.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Blair
+interventionEvent	12.0
+interventionTotal	161.0
+controlEvent	38.0
+controlTotal	170.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Boland
+interventionEvent	14.0
+interventionTotal	32.0
+controlEvent	17.0
+controlTotal	32.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Finch
+interventionEvent	4.0
+interventionTotal	20.0
+controlEvent	7.0
+controlTotal	24.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Cockerill
+interventionEvent	4.0
+interventionTotal	75.0
+controlEvent	12.0
+controlTotal	75.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Jacobs
+interventionEvent	0.0
+interventionTotal	45.0
+controlEvent	4.0
+controlTotal	46.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Rocha
+interventionEvent	7.0
+interventionTotal	47.0
+controlEvent	25.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Sanchez-Garcia
+interventionEvent	32.0
+interventionTotal	131.0
+controlEvent	60.0
+controlTotal	140.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Winter
+interventionEvent	3.0
+interventionTotal	91.0
+controlEvent	17.0
+controlTotal	92.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Abele-Horn
+interventionEvent	13.0
+interventionTotal	58.0
+controlEvent	23.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Palomar
+interventionEvent	10.0
+interventionTotal	50.0
+controlEvent	25.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Verwaest
+interventionEvent	22.0
+interventionTotal	193.0
+controlEvent	40.0
+controlTotal	185.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Krueger
+interventionEvent	91.0
+interventionTotal	265.0
+controlEvent	149.0
+controlTotal	262.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Stoutenbeek
+interventionEvent	62.0
+interventionTotal	201.0
+controlEvent	100.0
+controlTotal	200.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

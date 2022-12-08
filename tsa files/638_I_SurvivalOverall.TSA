@@ -1,0 +1,185 @@
+#METAANALYSIS BEGIN
+identifier	638_I_SurvivalOverall
+outcomeType	-1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Vasopressin/Terlipressin
+group2	Norepinephrine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Argenziano
+interventionEvent	0.0
+interventionTotal	5.0
+controlEvent	1.0
+controlTotal	5.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Malay
+interventionEvent	0.0
+interventionTotal	5.0
+controlEvent	2.0
+controlTotal	5.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	MalayA
+interventionEvent	0.0
+interventionTotal	5.0
+controlEvent	2.0
+controlTotal	5.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Dunser
+interventionEvent	17.0
+interventionTotal	24.0
+controlEvent	17.0
+controlTotal	24.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Albanese
+interventionEvent	5.0
+interventionTotal	10.0
+controlEvent	4.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Lauzier
+interventionEvent	3.0
+interventionTotal	13.0
+controlEvent	3.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	LauzierA
+interventionEvent	3.0
+interventionTotal	13.0
+controlEvent	3.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Moreli
+interventionEvent	12.0
+interventionTotal	19.0
+controlEvent	14.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	RUsellA
+interventionEvent	172.0
+interventionTotal	397.0
+controlEvent	188.0
+controlTotal	382.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Russell
+interventionEvent	172.0
+interventionTotal	397.0
+controlEvent	188.0
+controlTotal	382.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Moreli
+interventionEvent	8.0
+interventionTotal	15.0
+controlEvent	10.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	MoreliA
+interventionEvent	7.0
+interventionTotal	15.0
+controlEvent	10.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	MorelliB
+interventionEvent	8.0
+interventionTotal	15.0
+controlEvent	10.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

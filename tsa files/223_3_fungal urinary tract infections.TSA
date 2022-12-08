@@ -1,0 +1,107 @@
+#METAANALYSIS BEGIN
+identifier	223_3_fungal urinary tract infections
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	treatment
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	40
+study	Cerra
+interventionEvent	2.0
+interventionTotal	450.0
+controlEvent	8.0
+controlTotal	546.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	41
+study	Wiener
+interventionEvent	1.0
+interventionTotal	342.0
+controlEvent	4.0
+controlTotal	347.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	42
+study	Aerdts
+interventionEvent	0.0
+interventionTotal	391.0
+controlEvent	3.0
+controlTotal	975.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	46
+study	Ulrich
+interventionEvent	0.0
+interventionTotal	811.0
+controlEvent	3.0
+controlTotal	697.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	48
+study	Quino
+interventionEvent	0.0
+interventionTotal	1216.0
+controlEvent	1.0
+controlTotal	1130.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	50
+study	Blair
+interventionEvent	0.0
+interventionTotal	942.0
+controlEvent	0.0
+controlTotal	975.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	51
+study	Zobel
+interventionEvent	0.0
+interventionTotal	340.0
+controlEvent	0.0
+controlTotal	340.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

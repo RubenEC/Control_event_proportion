@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	341_I
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Heparin
+group2	0.9 NaCl
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Schallom
+interventionEvent	19.0
+interventionTotal	145.0
+controlEvent	16.0
+controlTotal	150.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Goosens
+interventionEvent	13.0
+interventionTotal	398.0
+controlEvent	11.0
+controlTotal	404.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

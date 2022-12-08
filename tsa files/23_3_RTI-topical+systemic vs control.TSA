@@ -1,0 +1,250 @@
+#METAANALYSIS BEGIN
+identifier	23_3
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	topical
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1987
+study	Unertl
+interventionEvent	1.0
+interventionTotal	19.0
+controlEvent	9.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1989
+study	Brun-Buisson
+interventionEvent	3.0
+interventionTotal	65.0
+controlEvent	6.0
+controlTotal	68.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Rodriguez-Rolda
+interventionEvent	1.0
+interventionTotal	14.0
+controlEvent	11.0
+controlTotal	17.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Pugin
+interventionEvent	4.0
+interventionTotal	38.0
+controlEvent	24.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Gastinne
+interventionEvent	26.0
+interventionTotal	220.0
+controlEvent	33.0
+controlTotal	225.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Hammond
+interventionEvent	25.0
+interventionTotal	162.0
+controlEvent	30.0
+controlTotal	160.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Korinek
+interventionEvent	20.0
+interventionTotal	96.0
+controlEvent	37.0
+controlTotal	95.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Ferrer
+interventionEvent	7.0
+interventionTotal	51.0
+controlEvent	11.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Georges
+interventionEvent	4.0
+interventionTotal	31.0
+controlEvent	15.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Laggner
+interventionEvent	1.0
+interventionTotal	33.0
+controlEvent	4.0
+controlTotal	34.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Quinio
+interventionEvent	19.0
+interventionTotal	76.0
+controlEvent	38.0
+controlTotal	73.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Wiener
+interventionEvent	8.0
+interventionTotal	30.0
+controlEvent	8.0
+controlTotal	31.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Stoutenbeek
+interventionEvent	2.0
+interventionTotal	49.0
+controlEvent	8.0
+controlTotal	42.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Lingnau
+interventionEvent	38.0
+interventionTotal	90.0
+controlEvent	71.0
+controlTotal	177.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Lingnau_2
+interventionEvent	34.0
+interventionTotal	90.0
+controlEvent	71.0
+controlTotal	177.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Bergmans
+interventionEvent	9.0
+interventionTotal	87.0
+controlEvent	38.0
+controlTotal	139.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Pneumatikos
+interventionEvent	5.0
+interventionTotal	31.0
+controlEvent	16.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Camus
+interventionEvent	53.0
+interventionTotal	130.0
+controlEvent	53.0
+controlTotal	126.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

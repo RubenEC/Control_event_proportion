@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	644_II_RespSupsubgr
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	HFNO
+group2	NIV
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Frat
+interventionEvent	40.0
+interventionTotal	106.0
+controlEvent	55.0
+controlTotal	110.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Stephan
+interventionEvent	87.0
+interventionTotal	414.0
+controlEvent	91.0
+controlTotal	416.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

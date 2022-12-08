@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	5_3_serious bleeding
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	APC
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Prowess
+interventionEvent	30.0
+interventionTotal	850.0
+controlEvent	17.0
+controlTotal	840.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	rhAPC sepsis study
+interventionEvent	5.0
+interventionTotal	90.0
+controlEvent	3.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Address
+interventionEvent	51.0
+interventionTotal	1317.0
+controlEvent	28.0
+controlTotal	1293.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Dhainaut
+interventionEvent	1.0
+interventionTotal	94.0
+controlEvent	2.0
+controlTotal	99.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Prowess-shock
+interventionEvent	10.0
+interventionTotal	833.0
+controlEvent	8.0
+controlTotal	833.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

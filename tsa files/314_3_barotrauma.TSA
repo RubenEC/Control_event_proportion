@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	314_3_barotrauma
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	NMBA
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Gainnier
+interventionEvent	0.0
+interventionTotal	28.0
+controlEvent	1.0
+controlTotal	28.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Forel
+interventionEvent	1.0
+interventionTotal	18.0
+controlEvent	1.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Papazian
+interventionEvent	9.0
+interventionTotal	177.0
+controlEvent	19.0
+controlTotal	162.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

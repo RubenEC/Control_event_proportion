@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	749_I_colonoizationrisk
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Internal Jugular
+group2	Femoral
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Theaker
+interventionEvent	74.0
+interventionTotal	186.0
+controlEvent	19.0
+controlTotal	38.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Rupp
+interventionEvent	68.0
+interventionTotal	454.0
+controlEvent	8.0
+controlTotal	46.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Watz
+interventionEvent	22.0
+interventionTotal	412.0
+controlEvent	2.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Arvaniti
+interventionEvent	18.0
+interventionTotal	89.0
+controlEvent	34.0
+controlTotal	213.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Timsit
+interventionEvent	124.0
+interventionTotal	1127.0
+controlEvent	122.0
+controlTotal	1400.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

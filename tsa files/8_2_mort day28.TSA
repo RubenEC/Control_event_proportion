@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	8_2_mort-day28
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	protective
+group2	conventional
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Amato
+interventionEvent	11.0
+interventionTotal	29.0
+controlEvent	17.0
+controlTotal	24.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Brochard
+interventionEvent	19.0
+interventionTotal	58.0
+controlEvent	22.0
+controlTotal	58.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	ARDS network
+interventionEvent	112.0
+interventionTotal	432.0
+controlEvent	150.0
+controlTotal	429.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

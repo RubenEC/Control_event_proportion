@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	573_II_Mort90dUCT
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Experimental
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	LinA
+interventionEvent	37.0
+interventionTotal	44.0
+controlEvent	46.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	LinB
+interventionEvent	65.0
+interventionTotal	175.0
+controlEvent	87.0
+controlTotal	167.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Zhang
+interventionEvent	31.0
+interventionTotal	59.0
+controlEvent	44.0
+controlTotal	55.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

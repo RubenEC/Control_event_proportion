@@ -1,0 +1,146 @@
+#METAANALYSIS BEGIN
+identifier	381_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	glutamine
+group2	non glutamine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	199
+study	Powell Tuck
+interventionEvent	23.0
+interventionTotal	83.0
+controlEvent	23.0
+controlTotal	85.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Griffiths
+interventionEvent	18.0
+interventionTotal	42.0
+controlEvent	28.0
+controlTotal	42.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Goeters
+interventionEvent	11.0
+interventionTotal	33.0
+controlEvent	21.0
+controlTotal	35.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Hall
+interventionEvent	27.0
+interventionTotal	179.0
+controlEvent	30.0
+controlTotal	184.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Tjader
+interventionEvent	11.0
+interventionTotal	30.0
+controlEvent	4.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Dçhelotte
+interventionEvent	16.0
+interventionTotal	58.0
+controlEvent	9.0
+controlTotal	56.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Qiu
+interventionEvent	1.0
+interventionTotal	22.0
+controlEvent	2.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Andrews
+interventionEvent	60.0
+interventionTotal	126.0
+controlEvent	54.0
+controlTotal	125.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Grau
+interventionEvent	16.0
+interventionTotal	59.0
+controlEvent	23.0
+controlTotal	68.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Heyland
+interventionEvent	124.0
+interventionTotal	303.0
+controlEvent	108.0
+controlTotal	302.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

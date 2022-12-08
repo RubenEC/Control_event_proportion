@@ -1,0 +1,146 @@
+#METAANALYSIS BEGIN
+identifier	584_III_MortMono
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	MonoclonalANtibody
+group2	Placebo
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Fisher
+interventionEvent	19.0
+interventionTotal	61.0
+controlEvent	11.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Abraham
+interventionEvent	196.0
+interventionTotal	643.0
+controlEvent	108.0
+controlTotal	326.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Dhainaut
+interventionEvent	22.0
+interventionTotal	32.0
+controlEvent	6.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Cohen
+interventionEvent	144.0
+interventionTotal	386.0
+controlEvent	66.0
+controlTotal	167.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Reinhart
+interventionEvent	44.0
+interventionTotal	93.0
+controlEvent	12.0
+controlTotal	29.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Abraham
+interventionEvent	382.0
+interventionTotal	948.0
+controlEvent	398.0
+controlTotal	930.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Clark
+interventionEvent	10.0
+interventionTotal	28.0
+controlEvent	11.0
+controlTotal	28.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Gallagher
+interventionEvent	7.0
+interventionTotal	27.0
+controlEvent	5.0
+controlTotal	9.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Reinhart
+interventionEvent	121.0
+interventionTotal	224.0
+controlEvent	128.0
+controlTotal	222.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Panacek
+interventionEvent	421.0
+interventionTotal	1305.0
+controlEvent	447.0
+controlTotal	1329.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

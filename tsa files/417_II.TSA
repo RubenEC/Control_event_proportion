@@ -1,0 +1,107 @@
+#METAANALYSIS BEGIN
+identifier	417_II
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Topical +systemic
+group2	systemic
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Gaussorgues
+interventionEvent	29.0
+interventionTotal	59.0
+controlEvent	29.0
+controlTotal	59.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Hammond
+interventionEvent	34.0
+interventionTotal	162.0
+controlEvent	31.0
+controlTotal	160.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Ferrer
+interventionEvent	15.0
+interventionTotal	51.0
+controlEvent	14.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Laggner
+interventionEvent	9.0
+interventionTotal	33.0
+controlEvent	14.0
+controlTotal	34.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Stoutenbeek
+interventionEvent	2.0
+interventionTotal	49.0
+controlEvent	8.0
+controlTotal	42.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Lignau
+interventionEvent	9.0
+interventionTotal	90.0
+controlEvent	17.0
+controlTotal	177.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Lignau B
+interventionEvent	13.0
+interventionTotal	90.0
+controlEvent	17.0
+controlTotal	177.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

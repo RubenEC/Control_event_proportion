@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	540_II_ConfirmedVAP
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Semirecumbent
+group2	Supine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Drakulovic
+interventionEvent	2.0
+interventionTotal	39.0
+controlEvent	11.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	van nieuwenhoven
+interventionEvent	13.0
+interventionTotal	112.0
+controlEvent	8.0
+controlTotal	109.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Wu
+interventionEvent	11.0
+interventionTotal	56.0
+controlEvent	48.0
+controlTotal	56.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

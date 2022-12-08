@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	634_III_MortHosp
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	NMBA
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Gainnier
+interventionEvent	14.0
+interventionTotal	28.0
+controlEvent	20.0
+controlTotal	28.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Forel
+interventionEvent	5.0
+interventionTotal	18.0
+controlEvent	10.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Papazian
+interventionEvent	57.0
+interventionTotal	177.0
+controlEvent	67.0
+controlTotal	162.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

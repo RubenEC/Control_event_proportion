@@ -1,0 +1,107 @@
+#METAANALYSIS BEGIN
+identifier	365_I
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	ESA
+group2	non ESA
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Still
+interventionEvent	7.0
+interventionTotal	19.0
+controlEvent	7.0
+controlTotal	21.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Georgopoulos
+interventionEvent	43.0
+interventionTotal	100.0
+controlEvent	23.0
+controlTotal	48.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Vincent
+interventionEvent	47.0
+interventionTotal	48.0
+controlEvent	24.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Corwin
+interventionEvent	690.0
+interventionTotal	728.0
+controlEvent	680.0
+controlTotal	720.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Najjar
+interventionEvent	69.0
+interventionTotal	125.0
+controlEvent	40.0
+controlTotal	97.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Luchette
+interventionEvent	85.0
+interventionTotal	96.0
+controlEvent	82.0
+controlTotal	92.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Prunier
+interventionEvent	15.0
+interventionTotal	57.0
+controlEvent	15.0
+controlTotal	53.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

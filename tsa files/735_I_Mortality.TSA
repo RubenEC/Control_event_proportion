@@ -1,0 +1,146 @@
+#METAANALYSIS BEGIN
+identifier	735_I_Mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Combination
+group2	Mono therapy
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1983
+study	Schentag
+interventionEvent	6.0
+interventionTotal	49.0
+controlEvent	7.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1987
+study	Kljucar
+interventionEvent	3.0
+interventionTotal	34.0
+controlEvent	0.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Polk
+interventionEvent	10.0
+interventionTotal	63.0
+controlEvent	9.0
+controlTotal	59.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Jaspers
+interventionEvent	4.0
+interventionTotal	40.0
+controlEvent	3.0
+controlTotal	39.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Manhold
+interventionEvent	6.0
+interventionTotal	23.0
+controlEvent	13.0
+controlTotal	28.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Alvarez Lerma
+interventionEvent	20.0
+interventionTotal	71.0
+controlEvent	16.0
+controlTotal	69.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Leroy
+interventionEvent	45.0
+interventionTotal	201.0
+controlEvent	34.0
+controlTotal	194.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Damas
+interventionEvent	8.0
+interventionTotal	39.0
+controlEvent	2.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Heyland
+interventionEvent	71.0
+interventionTotal	369.0
+controlEvent	67.0
+controlTotal	370.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Brunkhorst
+interventionEvent	96.0
+interventionTotal	272.0
+controlEvent	84.0
+controlTotal	262.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

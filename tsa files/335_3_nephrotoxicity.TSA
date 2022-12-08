@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	335_3
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	cont
+group2	intermittent
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1977
+study	Feld
+interventionEvent	10.0
+interventionTotal	60.0
+controlEvent	13.0
+controlTotal	61.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1979
+study	Bodey
+interventionEvent	7.0
+interventionTotal	86.0
+controlEvent	4.0
+controlTotal	78.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1979
+study	Bodey_b
+interventionEvent	14.0
+interventionTotal	74.0
+controlEvent	17.0
+controlTotal	92.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1984
+study	Feld
+interventionEvent	2.0
+interventionTotal	30.0
+controlEvent	7.0
+controlTotal	46.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	McNabb
+interventionEvent	1.0
+interventionTotal	17.0
+controlEvent	2.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

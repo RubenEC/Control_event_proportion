@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	373_II
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	High PEEP
+group2	low PEEP
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Amato
+interventionEvent	2.0
+interventionTotal	29.0
+controlEvent	10.0
+controlTotal	24.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Brower
+interventionEvent	30.0
+interventionTotal	276.0
+controlEvent	27.0
+controlTotal	273.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Villar
+interventionEvent	2.0
+interventionTotal	50.0
+controlEvent	4.0
+controlTotal	45.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Meade
+interventionEvent	53.0
+interventionTotal	475.0
+controlEvent	47.0
+controlTotal	508.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Mercat
+interventionEvent	26.0
+interventionTotal	385.0
+controlEvent	22.0
+controlTotal	382.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Huh
+interventionEvent	3.0
+interventionTotal	30.0
+controlEvent	3.0
+controlTotal	27.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

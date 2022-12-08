@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	61_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	IABP
+group2	no IABP
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1985
+study	Flaherty
+interventionEvent	6.0
+interventionTotal	10.0
+controlEvent	4.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Ohman
+interventionEvent	2.0
+interventionTotal	96.0
+controlEvent	2.0
+controlTotal	86.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	Kono
+interventionEvent	0.0
+interventionTotal	23.0
+controlEvent	0.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	PAMI II
+interventionEvent	9.0
+interventionTotal	211.0
+controlEvent	7.0
+controlTotal	226.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Vijayalaksmi
+interventionEvent	3.0
+interventionTotal	17.0
+controlEvent	0.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	CRISP AMI
+interventionEvent	3.0
+interventionTotal	161.0
+controlEvent	9.0
+controlTotal	176.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	203_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	OSS
+group2	CSS
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	Deppe
+interventionEvent	11.0
+interventionTotal	38.0
+controlEvent	12.0
+controlTotal	46.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Johnson
+interventionEvent	10.0
+interventionTotal	19.0
+controlEvent	8.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Combes
+interventionEvent	9.0
+interventionTotal	50.0
+controlEvent	4.0
+controlTotal	54.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Zeitoun
+interventionEvent	11.0
+interventionTotal	24.0
+controlEvent	7.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Rabitsch
+interventionEvent	5.0
+interventionTotal	12.0
+controlEvent	0.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Topeli
+interventionEvent	9.0
+interventionTotal	37.0
+controlEvent	13.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Lorente
+interventionEvent	42.0
+interventionTotal	233.0
+controlEvent	43.0
+controlTotal	210.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Lorente
+interventionEvent	31.0
+interventionTotal	221.0
+controlEvent	33.0
+controlTotal	236.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

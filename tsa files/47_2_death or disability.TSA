@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	47_2
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	CCB
+group2	placebo
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1990
+study	HIT I
+interventionEvent	82.0
+interventionTotal	176.0
+controlEvent	89.0
+controlTotal	175.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	HIT II
+interventionEvent	160.0
+interventionTotal	405.0
+controlEvent	168.0
+controlTotal	414.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	HIT III
+interventionEvent	15.0
+interventionTotal	60.0
+controlEvent	28.0
+controlTotal	61.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1996
+study	HIT IV
+interventionEvent	93.0
+interventionTotal	266.0
+controlEvent	68.0
+controlTotal	259.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Sahuquillo
+interventionEvent	3.0
+interventionTotal	11.0
+controlEvent	7.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

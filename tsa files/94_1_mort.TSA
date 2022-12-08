@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	94_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	higher peep
+group2	lower peep
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Brower
+interventionEvent	64.0
+interventionTotal	276.0
+controlEvent	61.0
+controlTotal	273.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Meade
+interventionEvent	135.0
+interventionTotal	475.0
+controlEvent	164.0
+controlTotal	508.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Mercat
+interventionEvent	107.0
+interventionTotal	385.0
+controlEvent	119.0
+controlTotal	382.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2008
+study	Talmor
+interventionEvent	5.0
+interventionTotal	30.0
+controlEvent	12.0
+controlTotal	31.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

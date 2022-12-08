@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	461.2 - Serious AE leading to withdrawel
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Carbapenem
+group2	Antip Peni
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Niinikoski
+interventionEvent	0.0
+interventionTotal	39.0
+controlEvent	1.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Graham
+interventionEvent	6.0
+interventionTotal	274.0
+controlEvent	16.0
+controlTotal	266.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	Roy
+interventionEvent	6.0
+interventionTotal	216.0
+controlEvent	4.0
+controlTotal	196.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Dela Pena
+interventionEvent	3.0
+interventionTotal	180.0
+controlEvent	3.0
+controlTotal	190.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Schmitt
+interventionEvent	15.0
+interventionTotal	111.0
+controlEvent	27.0
+controlTotal	110.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Namias
+interventionEvent	9.0
+interventionTotal	250.0
+controlEvent	8.0
+controlTotal	250.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

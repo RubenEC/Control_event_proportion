@@ -1,0 +1,94 @@
+#METAANALYSIS BEGIN
+identifier	66_1_mort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	nor
+group2	dopamine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Martin
+interventionEvent	7.0
+interventionTotal	16.0
+controlEvent	10.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Rokoacn
+interventionEvent	4.0
+interventionTotal	5.0
+controlEvent	3.0
+controlTotal	5.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1994
+study	Marik
+interventionEvent	5.0
+interventionTotal	10.0
+controlEvent	6.0
+controlTotal	10.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Mathur
+interventionEvent	14.0
+interventionTotal	25.0
+controlEvent	19.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	De Backer
+interventionEvent	393.0
+interventionTotal	821.0
+controlEvent	450.0
+controlTotal	838.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Paid
+interventionEvent	51.0
+interventionTotal	118.0
+controlEvent	67.0
+controlTotal	134.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

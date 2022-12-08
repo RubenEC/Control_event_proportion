@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	461.1 - All cause mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Carbapenem
+group2	Antip Peni
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Niinikoski
+interventionEvent	1.0
+interventionTotal	39.0
+controlEvent	2.0
+controlTotal	47.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Graham
+interventionEvent	3.0
+interventionTotal	274.0
+controlEvent	9.0
+controlTotal	266.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Dela Pena
+interventionEvent	5.0
+interventionTotal	180.0
+controlEvent	9.0
+controlTotal	190.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Schmitt
+interventionEvent	11.0
+interventionTotal	111.0
+controlEvent	17.0
+controlTotal	110.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Namias
+interventionEvent	12.0
+interventionTotal	250.0
+controlEvent	15.0
+controlTotal	250.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

@@ -1,0 +1,328 @@
+#METAANALYSIS BEGIN
+identifier	757_I_mortality
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	anticoagulants
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1993
+study	Fourrier
+interventionEvent	4.0
+interventionTotal	14.0
+controlEvent	9.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1997
+study	Inthorn
+interventionEvent	13.0
+interventionTotal	20.0
+controlEvent	16.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Baudo
+interventionEvent	27.0
+interventionTotal	49.0
+controlEvent	28.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	Eisele
+interventionEvent	5.0
+interventionTotal	20.0
+controlEvent	9.0
+controlTotal	22.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Schorr
+interventionEvent	6.0
+interventionTotal	24.0
+controlEvent	6.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Abraham
+interventionEvent	43.0
+interventionTotal	141.0
+controlEvent	26.0
+controlTotal	69.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Bernard
+interventionEvent	26.0
+interventionTotal	90.0
+controlEvent	14.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	KyberSept
+interventionEvent	450.0
+interventionTotal	1157.0
+controlEvent	448.0
+controlTotal	1157.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2003
+study	OPTIMIST
+interventionEvent	311.0
+interventionTotal	963.0
+controlEvent	323.0
+controlTotal	992.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Hsu
+interventionEvent	6.0
+interventionTotal	25.0
+controlEvent	9.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Address
+interventionEvent	243.0
+interventionTotal	1316.0
+controlEvent	220.0
+controlTotal	1297.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Ai
+interventionEvent	9.0
+interventionTotal	22.0
+controlEvent	9.0
+controlTotal	18.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Gonano
+interventionEvent	5.0
+interventionTotal	17.0
+controlEvent	5.0
+controlTotal	16.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2006
+study	Zhang
+interventionEvent	8.0
+interventionTotal	11.0
+controlEvent	8.0
+controlTotal	11.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	HETRASE
+interventionEvent	22.0
+interventionTotal	158.0
+controlEvent	25.0
+controlTotal	159.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Zhang
+interventionEvent	6.0
+interventionTotal	37.0
+controlEvent	14.0
+controlTotal	42.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Captivate
+interventionEvent	216.0
+interventionTotal	1184.0
+controlEvent	164.0
+controlTotal	918.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Prowess
+interventionEvent	210.0
+interventionTotal	850.0
+controlEvent	259.0
+controlTotal	840.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Morris
+interventionEvent	1.0
+interventionTotal	15.0
+controlEvent	0.0
+controlTotal	3.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Prowess shock
+interventionEvent	223.0
+interventionTotal	846.0
+controlEvent	202.0
+controlTotal	834.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Aprocchs
+interventionEvent	99.0
+interventionTotal	208.0
+controlEvent	94.0
+controlTotal	203.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Gando
+interventionEvent	3.0
+interventionTotal	30.0
+controlEvent	4.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Vincent
+interventionEvent	66.0
+interventionTotal	371.0
+controlEvent	80.0
+controlTotal	370.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Liu
+interventionEvent	7.0
+interventionTotal	22.0
+controlEvent	6.0
+controlTotal	15.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

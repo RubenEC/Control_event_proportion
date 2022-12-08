@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	694_II_NONCLABSI
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	CHG bathing
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2007
+study	Bleasdale
+interventionEvent	59.0
+interventionTotal	2210.0
+controlEvent	6.0
+controlTotal	2119.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Climo
+interventionEvent	98.0
+interventionTotal	24931.0
+controlEvent	122.0
+controlTotal	25000.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Milstone
+interventionEvent	53.0
+interventionTotal	15057.0
+controlEvent	79.0
+controlTotal	16024.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Noto
+interventionEvent	96.0
+interventionTotal	19202.0
+controlEvent	113.0
+controlTotal	20721.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

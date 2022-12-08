@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	683_I_VAP
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Toothbrushing
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Munro
+interventionEvent	48.0
+interventionTotal	97.0
+controlEvent	45.0
+controlTotal	95.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2009
+study	Pobo
+interventionEvent	15.0
+interventionTotal	74.0
+controlEvent	18.0
+controlTotal	73.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Yao
+interventionEvent	4.0
+interventionTotal	28.0
+controlEvent	14.0
+controlTotal	25.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Lorente
+interventionEvent	21.0
+interventionTotal	217.0
+controlEvent	24.0
+controlTotal	219.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

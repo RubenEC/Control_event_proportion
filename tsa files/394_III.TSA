@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	394_III
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	HFOV
+group2	CMV
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Derdak
+interventionEvent	0.0
+interventionTotal	75.0
+controlEvent	2.0
+controlTotal	73.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2004
+study	Shah
+interventionEvent	1.0
+interventionTotal	15.0
+controlEvent	0.0
+controlTotal	13.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Bollen
+interventionEvent	4.0
+interventionTotal	37.0
+controlEvent	1.0
+controlTotal	24.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Ferguson
+interventionEvent	202.0
+interventionTotal	260.0
+controlEvent	157.0
+controlTotal	256.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Young
+interventionEvent	173.0
+interventionTotal	370.0
+controlEvent	177.0
+controlTotal	392.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

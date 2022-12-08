@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	725_I_neurologicalOutcome
+outcomeType	-1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Hypothermia
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2001
+study	Hachimi Idrissi
+interventionEvent	8.0
+interventionTotal	16.0
+controlEvent	2.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	HACA
+interventionEvent	75.0
+interventionTotal	136.0
+controlEvent	54.0
+controlTotal	137.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2005
+study	Laurent
+interventionEvent	7.0
+interventionTotal	22.0
+controlEvent	9.0
+controlTotal	20.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Lopez-de-sa
+interventionEvent	8.0
+interventionTotal	16.0
+controlEvent	2.0
+controlTotal	14.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Nielsen
+interventionEvent	218.0
+interventionTotal	469.0
+controlEvent	222.0
+controlTotal	464.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

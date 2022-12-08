@@ -1,0 +1,120 @@
+#METAANALYSIS BEGIN
+identifier	706_III_InfectiousCompl
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	hypo
+group2	normo
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Taylor
+interventionEvent	35.0
+interventionTotal	41.0
+controlEvent	25.0
+controlTotal	41.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Arabi
+interventionEvent	53.0
+interventionTotal	120.0
+controlEvent	56.0
+controlTotal	120.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2011
+study	Rice
+interventionEvent	30.0
+interventionTotal	98.0
+controlEvent	33.0
+controlTotal	102.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Rice
+interventionEvent	59.0
+interventionTotal	508.0
+controlEvent	46.0
+controlTotal	492.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2013
+study	Heidegger
+interventionEvent	58.0
+interventionTotal	152.0
+controlEvent	41.0
+controlTotal	153.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Braunschweig
+interventionEvent	8.0
+interventionTotal	38.0
+controlEvent	5.0
+controlTotal	40.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2014
+study	Charles
+interventionEvent	29.0
+interventionTotal	41.0
+controlEvent	32.0
+controlTotal	42.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2015
+study	Arabi
+interventionEvent	161.0
+interventionTotal	447.0
+controlEvent	169.0
+controlTotal	445.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

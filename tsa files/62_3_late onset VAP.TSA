@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	62_3_late onset VAP
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	SSD
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1995
+study	Valles
+interventionEvent	11.0
+interventionTotal	95.0
+controlEvent	4.0
+controlTotal	95.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Bo
+interventionEvent	6.0
+interventionTotal	35.0
+controlEvent	5.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2010
+study	Lacherade
+interventionEvent	23.0
+interventionTotal	169.0
+controlEvent	32.0
+controlTotal	164.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

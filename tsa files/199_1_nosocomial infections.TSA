@@ -1,0 +1,81 @@
+#METAANALYSIS BEGIN
+identifier	199_1_nosocomial infection
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	pro/synbiotics
+group2	control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	jain
+interventionEvent	33.0
+interventionTotal	45.0
+controlEvent	26.0
+controlTotal	45.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	kanazawa
+interventionEvent	4.0
+interventionTotal	21.0
+controlEvent	12.0
+controlTotal	23.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	McNaught
+interventionEvent	21.0
+interventionTotal	52.0
+controlEvent	22.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	60
+study	Rayes
+interventionEvent	3.0
+interventionTotal	30.0
+controlEvent	3.0
+controlTotal	30.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	66
+study	Rayes
+interventionEvent	1.0
+interventionTotal	33.0
+controlEvent	16.0
+controlTotal	33.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

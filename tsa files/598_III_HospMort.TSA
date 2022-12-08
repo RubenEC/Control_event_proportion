@@ -1,0 +1,55 @@
+#METAANALYSIS BEGIN
+identifier	598_III_HospMort
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Experimental
+group2	Control
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1988
+study	Pargger
+interventionEvent	1.0
+interventionTotal	29.0
+controlEvent	2.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1992
+study	Guttierez
+interventionEvent	68.0
+interventionTotal	135.0
+controlEvent	76.0
+controlTotal	125.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2000
+study	Gomersali
+interventionEvent	44.0
+interventionTotal	104.0
+controlEvent	48.0
+controlTotal	106.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

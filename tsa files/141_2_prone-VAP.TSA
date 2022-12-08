@@ -1,0 +1,68 @@
+#METAANALYSIS BEGIN
+identifier	141_2_prone-VAP
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	prone
+group2	supine
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1
+study	Beuret
+interventionEvent	11.0
+interventionTotal	25.0
+controlEvent	14.0
+controlTotal	26.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2
+study	Guerin
+interventionEvent	85.0
+interventionTotal	413.0
+controlEvent	91.0
+controlTotal	378.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	3
+study	Voggenreiret
+interventionEvent	13.0
+interventionTotal	21.0
+controlEvent	17.0
+controlTotal	19.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	4
+study	Mancebo
+interventionEvent	14.0
+interventionTotal	76.0
+controlEvent	9.0
+controlTotal	60.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+

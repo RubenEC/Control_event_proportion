@@ -1,0 +1,42 @@
+#METAANALYSIS BEGIN
+identifier	749_III_BSIsite
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	3
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Internal Jugular
+group2	Subclavian
+comment	
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1991
+study	Poisson
+interventionEvent	7.0
+interventionTotal	76.0
+controlEvent	1.0
+controlTotal	107.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2012
+study	Arvaniti
+interventionEvent	0.0
+interventionTotal	89.0
+controlEvent	5.0
+controlTotal	163.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
