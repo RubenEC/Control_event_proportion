@@ -12,6 +12,16 @@ confidenceIntervalAlphaSpendingBoundary
 group1	Different BL monotherapy
 group2	Combination
 comment	
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
 #METAANALYSIS END
 
 #TRIAL BEGIN
@@ -368,19 +378,6 @@ comment
 #TRIAL BEGIN
 sort	dichotomous
 year	1992
-study	Naime
-interventionEvent	0.0
-interventionTotal	15.0
-controlEvent	0.0
-controlTotal	15.0
-isHighQuality	false
-isForcefullyIgnored	false
-comment	
-#TRIAL END
-
-#TRIAL BEGIN
-sort	dichotomous
-year	1992
 study	Stille
 interventionEvent	22.0
 interventionTotal	186.0
@@ -599,16 +596,15 @@ isForcefullyIgnored	false
 comment	
 #TRIAL END
 
-#TRIAL BEGIN
-sort	dichotomous
-year	2006
-study	Banasal
-interventionEvent	1.0
-interventionTotal	33.0
-controlEvent	1.0
-controlTotal	38.0
-isHighQuality	false
-isForcefullyIgnored	false
-comment	
-#TRIAL END
-
+#ZCURVE BEGIN
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#ZCURVE END

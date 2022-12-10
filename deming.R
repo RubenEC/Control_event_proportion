@@ -1,5 +1,6 @@
 require("deming")
 library(deming)
+library(here)
 
 ## Resultaten van regressie met package 'deming' geven confidence intervals die niet convergeren
 ## naar die van standaard lm, als de sd van 'x' klein wordt.  Ik gebruik een empirische methode
@@ -68,15 +69,15 @@ run.deming <- function(data, cer0 = 0.5, replicates = 100, use.new.var=TRUE, use
   cer <- (0.5 + data$ec) / (1 + data$nc)   ## Expected posterior CER under Jeffrey's prior
   ter <- (0.5 + data$et) / (1 + data$nt)   ## Expected posterior TER under Jeffrey's prior
   ## Expectation of p(1-p) under Jeffrey's prior is P(1-P)(N+1/(N+2)), where N = nc or nt
-  #cer.sd <- sqrt( (0.5 + datanc - datanc) ) / (1 + data$nc)
-  #ter.sd <- sqrt( (0.5 + datant - datant) ) / (1 + data$nt)
+  #cer.sd <- sqrt( (0.5 + data$ec) * (0.5 + data$nc - data$ec) / (2 + data$nc) ) / (1 + data$nc)
+  #ter.sd <- sqrt( (0.5 + data$et) * (0.5 + data$nt - data$et) / (2 + data$nt) ) / (1 + data$nt)
   ## Other attempt - sample from the Dirichlet, and use empirical estimate
   ## This one gives better calibrated CI's
   cer.sd <- cer
   ter.sd <- ter
   for (i in 1:length(cer)) {
-    cer.post <- rbeta(1000, 0.5 + data$ec[i], 0.5 + dataec[i])
-    ter.post <- rbeta(1000, 0.5 + data$et[i], 0.5 + dataet[i])
+    cer.post <- rbeta(1000, 0.5 + data$ec[i], 0.5 + data$nc[i] - data$ec[i])
+    ter.post <- rbeta(1000, 0.5 + data$et[i], 0.5 + data$nt[i] - data$et[i])
     cer.sd[i] <- mean(sqrt(cer.post * (1-cer.post) / (1+data$nc[i])))
     ter.sd[i] <- mean(sqrt(ter.post * (1-ter.post) / (1+data$nt[i])))
     #cer.sd[i] <- 1/mean(1/sqrt(cer.post * (1-cer.post) / (1+data$nc[i])))
@@ -85,7 +86,8 @@ run.deming <- function(data, cer0 = 0.5, replicates = 100, use.new.var=TRUE, use
   if (use.true.sd) {
     ## use actual SD (based on true parameter) rather than SD estimated from counts
     ## (for use in simulation)
-    cer.sd <- datatrue_ter.sd
+    cer.sd <- data$true_cer.sd
+    ter.sd <- data$true_ter.sd
   }
   
   ## regress TER against CER, and take account of errors in both
@@ -97,8 +99,8 @@ run.deming <- function(data, cer0 = 0.5, replicates = 100, use.new.var=TRUE, use
   ## calculate semi-empirical variance-covariance matrix - the values provided by the package
   ## are not correct
   
-  resultvariance
-  resultci
+  result$variance.old <- result$variance
+  result$ci.old <- result$ci
   if (use.new.var) {
     xx = cbind(1, cer)
     a = result$coef[2]  ## slope estimate
@@ -115,7 +117,8 @@ run.deming <- function(data, cer0 = 0.5, replicates = 100, use.new.var=TRUE, use
       results.gen[i,] <- result.gen$coef
     }
     ## calculate variance-covariance matrix and 95% CI's, and assign to results
-    resultci[1,1] <- c(result$coef[1] - 1.96*sqrt(result$variance[1,1]))
+    result$variance <- cov(results.gen)
+    result$ci[1,1] <- c(result$coef[1] - 1.96*sqrt(result$variance[1,1]))
     result$ci[1,2] <- c(result$coef[1] + 1.96*sqrt(result$variance[1,1]))
     result$ci[2,1] <- c(result$coef[2] - 1.96*sqrt(result$variance[2,2]))
     result$ci[2,2] <- c(result$coef[2] + 1.96*sqrt(result$variance[2,2]))
@@ -123,7 +126,8 @@ run.deming <- function(data, cer0 = 0.5, replicates = 100, use.new.var=TRUE, use
   
   ## calculate RR at CER0.  First coefficient is intercept, second is coefficient of CER
   x = c(1, cer0)
-  ter.pred <- resultvariance %*% x
+  ter.pred <- result$coef %*% x
+  ter.var <- x %*% result$variance %*% x
   rr <- ter.pred / cer0
   rr.sd <- sqrt(ter.var) / cer0
   result$RR.at.CER0 <- list(rr = rr, sd = rr.sd, lower = rr - 1.96*rr.sd, upper = rr + 1.96*rr.sd)    
@@ -178,11 +182,6 @@ if (FALSE) {
 
 ## Visualisatie hiervan?  Voeg i2 = 0.25 toe?
 
-
-##
-## Analyzing real data:
-##
-
 analyse.thijsdata <- function(fname, cer0=0.5) {
   data <- read.csv(paste("csv files/",fname,sep=""))
   colnames(data) <- c("RCT","et","nt","ec","nc")
@@ -193,11 +192,11 @@ analyse.thijsdata <- function(fname, cer0=0.5) {
 summary.thijsdata <- function(fname) {
   data <- read.csv(paste("csv files/",fname,sep=""))
   colnames(data) <- c("RCT","et","nt","ec","nc")
-  (dataec + 1) / (data$nc + 1)
-return(data$cer) 
+  data$cer <- (data$ec + 1) / (data$nc + 1)
+  return(data$cer)
 }
 
-studies <- list.files("csv files")
+studies <- list.files(path = "csv files")
 
 param = 1
 cer0 = 0.5       ## verander dit indien nodig
@@ -208,9 +207,9 @@ for (study in studies) {
                        out$coeff[1],  ## intercept
                        out$ci[1,1],   ## lower CI
                        out$ci[1,2],   ## upper CI
-                       outrr,    ## RR estimate, at CER = 0.5 (of zoals boven gekozen)
-                       outlower, ## lower CI
-                       outupper, ## upper CI
+                       out$RR.at.CER0$rr,    ## RR estimate, at CER = 0.5 (of zoals boven gekozen)
+                       out$RR.at.CER0$lower, ## lower CI
+                       out$RR.at.CER0$upper, ## upper CI
                        out$coeff[2],  ## slope
                        out$ci[2,1],   ## lower
                        out$ci[2,2])   ## upper

@@ -12,6 +12,16 @@ confidenceIntervalAlphaSpendingBoundary
 group1	Chlorhexidine
 group2	Placebo/Usual Care
 comment	
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
 #METAANALYSIS END
 
 #TRIAL BEGIN
@@ -159,32 +169,6 @@ comment
 
 #TRIAL BEGIN
 sort	dichotomous
-year	2011
-study	Jacomo
-interventionEvent	5.0
-interventionTotal	87.0
-controlEvent	5.0
-controlTotal	73.0
-isHighQuality	false
-isForcefullyIgnored	false
-comment	
-#TRIAL END
-
-#TRIAL BEGIN
-sort	dichotomous
-year	2012
-study	Kusahara
-interventionEvent	8.0
-interventionTotal	46.0
-controlEvent	12.0
-controlTotal	50.0
-isHighQuality	false
-isForcefullyIgnored	false
-comment	
-#TRIAL END
-
-#TRIAL BEGIN
-sort	dichotomous
 year	2012
 study	Meinberg
 interventionEvent	13.0
@@ -209,16 +193,15 @@ isForcefullyIgnored	false
 comment	
 #TRIAL END
 
-#TRIAL BEGIN
-sort	dichotomous
-year	2012
-study	Sebastian
-interventionEvent	16.0
-interventionTotal	41.0
-controlEvent	21.0
-controlTotal	45.0
-isHighQuality	false
-isForcefullyIgnored	false
-comment	
-#TRIAL END
-
+#ZCURVE BEGIN
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#ZCURVE END

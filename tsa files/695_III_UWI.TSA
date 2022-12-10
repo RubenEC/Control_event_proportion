@@ -12,13 +12,23 @@ confidenceIntervalAlphaSpendingBoundary
 group1	CHG bathing
 group2	Control
 comment	
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
 #METAANALYSIS END
 
 #TRIAL BEGIN
 sort	dichotomous
 year	2007
 study	Bleasdale
-interventionEvent	1813.0
+interventionEvent	18.0
 interventionTotal	2708.0
 controlEvent	15.0
 controlTotal	2202.0
@@ -40,3 +50,15 @@ isForcefullyIgnored	false
 comment	
 #TRIAL END
 
+#ZCURVE BEGIN
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#ZCURVE END
