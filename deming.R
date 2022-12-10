@@ -2,6 +2,8 @@ require("deming")
 library(deming)
 library(here)
 
+#TESTESTTEST
+
 ## Resultaten van regressie met package 'deming' geven confidence intervals die niet convergeren
 ## naar die van standaard lm, als de sd van 'x' klein wordt.  Ik gebruik een empirische methode
 ## om CIs te schatten.
