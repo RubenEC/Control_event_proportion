@@ -37,10 +37,20 @@ for (i in 1:length(files)) {
 names(df_list) <- files
 names(df_list) <- gsub("tsa files/","",gsub(".TSA","",files))
 
-#save list
-write_rds(df_list, "data/df_list1-1080.data.rds")
+#identify meta-analyses (MAs) with <3 studies because this leads to an error in the analyses.
+small_MAs <- sapply(df_list, function(x) { 
+  if (nrow(x) < 3) return(x)
+})
+small_MAs <- Filter(Negate(is.null), small_MAs)
+
+#limit df_list to include only MAs with >2 studies for a given outcome
+large_MAs <- sapply(df_list, function(x) { 
+  if (nrow(x) > 2) return(x)
+})
+large_MAs <- Filter(Negate(is.null), large_MAs)
 
 #write to seperate csv's
-for(i in names(df_list)){
-  write.csv(df_list[[i]], quote = FALSE, row.names = FALSE, file = paste0("csv files/",i,".csv"))
+for(i in names(large_MAs)){
+  write.csv(large_MAs[[i]], quote = FALSE, row.names = FALSE, file = paste0("csv files/",i,".csv"))
 }
+
