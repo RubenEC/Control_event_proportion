@@ -1,11 +1,11 @@
 library(tidyverse)
 library(here)
 
-#empty list of dataframes
+## empty list of dataframes
 df_list <- list()
 
-#list of TSA files
-files <- list.files(path = "tsa files", full.names=TRUE, pattern = ".TSA$")
+## list of TSA files
+files <- list.files(path = "tsa files", full.names = TRUE, pattern = ".TSA$")
 
 #loop trough TSA file list
 #warnings may be ignored
